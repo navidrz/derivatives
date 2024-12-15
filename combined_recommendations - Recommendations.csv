@@ -1,361 +1,1081 @@
-OptionName,Score,Side,MarketScenario,UserMarketView
-اختيارف ذوب-600-1403/09/28,131.46461574536926,Long,Normal Market,bullish
-اختيارف اهرم-34000-1403/09/28,119.25539558765502,Long,Normal Market,bullish
-اختيارف اهرم-30000-1403/09/28,119.25038847218867,Long,Normal Market,bullish
-اختيارف اهرم-28000-1403/09/28,119.19602305192332,Long,Normal Market,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Normal Market,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Normal Market,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Normal Market,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Normal Market,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Normal Market,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Normal Market,bullish
-اختيارخ شپنا-5000-1403/10/12,16539.41629374068,Short,Normal Market,bullish
-اختيارخ اهرم-26000-1403/09/28,8955.115884492128,Short,Normal Market,bullish
-اختيارخ شتاب-14000-1403/10/12,2938.8812890255285,Short,Normal Market,bullish
-اختيارخ ذوب-800-1403/11/24,651.1851042490487,Short,Normal Market,bullish
-اختيارخ دي-900-14031002,558.8364043802698,Short,Normal Market,bullish
-اختيارخ شستا-1550-1403/10/12,523.4990180284177,Short,Normal Market,bullish
-اختيارخ خودرو-3750-1403/10/05,259.3652076780112,Short,Normal Market,bullish
-اختيارف ذوب-400-1403/11/24,196.9513219297878,Short,Normal Market,bullish
-اختيارخ وتجارت-2200-1403/10/19,192.7794322659372,Short,Normal Market,bullish
-اختيارف اهرم-22000-1403/10/26,192.13014029238707,Short,Normal Market,bullish
-اختيارف ذوب-600-1403/09/28,131.56416388502757,Long,Normal Market,bearish
-اختيارف اهرم-30000-1403/09/28,119.37305217782088,Long,Normal Market,bearish
-اختيارف اهرم-28000-1403/09/28,119.2722069775183,Long,Normal Market,bearish
-اختيارف اهرم-34000-1403/09/28,119.20158179142197,Long,Normal Market,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Normal Market,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Normal Market,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Normal Market,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Normal Market,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Normal Market,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Normal Market,bearish
-اختيارخ خگستر-5000-1403/10/05,10293.186409561547,Short,Normal Market,bearish
-اختيارخ اهرم-26000-1403/09/28,7439.2691980468335,Short,Normal Market,bearish
-اختيارخ شپنا-5000-1403/10/12,4253.636009968493,Short,Normal Market,bearish
-اختيارف اهرم-18000-1403/11/24,1613.6072520343014,Short,Normal Market,bearish
-اختيارخ دي-900-14031002,710.8555264202497,Short,Normal Market,bearish
-اختيارخ ذوب-800-1403/11/24,574.7728628058554,Short,Normal Market,bearish
-اختيارخ شستا-1550-1403/10/12,535.9754179053765,Short,Normal Market,bearish
-اختيارف شستا-1250-1403/10/12,510.6959917883026,Short,Normal Market,bearish
-اختيارخ خودرو-3750-1403/10/05,258.6319936543425,Short,Normal Market,bearish
-اختيارف ذوب-400-1403/11/24,214.93371579885007,Short,Normal Market,bearish
-اختيارف ذوب-600-1403/09/28,131.5020633846082,Long,Normal Market,neutral
-اختيارف اهرم-28000-1403/09/28,119.34485980363702,Long,Normal Market,neutral
-اختيارف اهرم-34000-1403/09/28,119.23942289829105,Long,Normal Market,neutral
-اختيارف اهرم-30000-1403/09/28,119.2275533159211,Long,Normal Market,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Normal Market,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Normal Market,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Normal Market,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Normal Market,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Normal Market,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Normal Market,neutral
-اختيارخ اهرم-26000-1403/09/28,6755.269680256308,Short,Normal Market,neutral
-اختيارخ خاور-1900-14031009,1210.8072411796345,Short,Normal Market,neutral
-اختيارخ شپنا-5000-1403/10/12,977.6583077075028,Short,Normal Market,neutral
-اختيارخ شستا-1550-1403/10/12,726.8333866891571,Short,Normal Market,neutral
-اختيارخ دي-900-14031002,622.8661958384643,Short,Normal Market,neutral
-اختيارخ ذوب-800-1403/11/24,405.076673390724,Short,Normal Market,neutral
-اختيارف ذوب-400-1403/11/24,270.67845890027024,Short,Normal Market,neutral
-اختيارخ خودرو-3750-1403/10/05,251.074198482032,Short,Normal Market,neutral
-اختيارخ وتجارت-2200-1403/10/19,191.38541893135235,Short,Normal Market,neutral
-اختيارف اهرم-22000-1403/10/26,179.1635856649914,Short,Normal Market,neutral
-اختيارف ذوب-600-1403/09/28,131.48473379819234,Long,Bull Market,bullish
-اختيارف اهرم-34000-1403/09/28,119.3020975072689,Long,Bull Market,bullish
-اختيارف اهرم-28000-1403/09/28,119.24703502048521,Long,Bull Market,bullish
-اختيارف اهرم-30000-1403/09/28,119.22037515712142,Long,Bull Market,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bull Market,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bull Market,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bull Market,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bull Market,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bull Market,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bull Market,bullish
-اختيارخ اهرم-26000-1403/09/28,9231.581812784765,Short,Bull Market,bullish
-اختيارخ خگستر-5000-1403/10/05,3399.1500997998796,Short,Bull Market,bullish
-اختيارخ شتاب-14000-1403/10/12,1738.8211886933138,Short,Bull Market,bullish
-اختيارف شستا-1250-1403/10/12,1207.3412726848549,Short,Bull Market,bullish
-اختيارخ شپنا-5000-1403/10/12,1117.1229368730092,Short,Bull Market,bullish
-اختيارف اهرم-20000-1403/10/26,1000.6919393363123,Short,Bull Market,bullish
-اختيارخ دي-900-14031002,634.1899481320515,Short,Bull Market,bullish
-اختيارخ شستا-1550-1403/10/12,510.56930420494547,Short,Bull Market,bullish
-اختيارخ ذوب-800-1403/11/24,459.2037663823199,Short,Bull Market,bullish
-اختيارخ خاور-1900-14031009,407.67919572632223,Short,Bull Market,bullish
-اختيارف ذوب-600-1403/09/28,131.50034664636277,Long,Bull Market,bearish
-اختيارف اهرم-28000-1403/09/28,119.35838793972813,Long,Bull Market,bearish
-اختيارف اهرم-34000-1403/09/28,119.30860380209903,Long,Bull Market,bearish
-اختيارف اهرم-30000-1403/09/28,119.27566613753173,Long,Bull Market,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bull Market,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bull Market,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bull Market,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bull Market,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bull Market,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bull Market,bearish
-اختيارف اهرم-18000-1403/11/24,6824.100551572705,Short,Bull Market,bearish
-اختيارخ اهرم-26000-1403/09/28,4932.12050713437,Short,Bull Market,bearish
-اختيارخ شپنا-5000-1403/10/12,1440.5608621780664,Short,Bull Market,bearish
-اختيارخ ذوب-800-1403/11/24,737.920514466893,Short,Bull Market,bearish
-اختيارخ شستا-1550-1403/10/12,651.2810997881172,Short,Bull Market,bearish
-اختيارخ دي-900-14031002,606.7040341372476,Short,Bull Market,bearish
-اختيارخ خودرو-3750-1403/10/05,259.9635967040758,Short,Bull Market,bearish
-اختيارف ذوب-400-1403/11/24,238.10042347196642,Short,Bull Market,bearish
-اختيارف اهرم-22000-1403/10/26,230.5202119903269,Short,Bull Market,bearish
-اختيارخ وتجارت-2200-1403/10/19,191.88833708646837,Short,Bull Market,bearish
-اختيارف ذوب-600-1403/09/28,131.5073736654897,Long,Bull Market,neutral
-اختيارف اهرم-34000-1403/09/28,119.28259541569626,Long,Bull Market,neutral
-اختيارف اهرم-28000-1403/09/28,119.28198848100448,Long,Bull Market,neutral
-اختيارف اهرم-30000-1403/09/28,119.24971717529877,Long,Bull Market,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bull Market,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bull Market,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bull Market,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bull Market,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bull Market,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bull Market,neutral
-اختيارخ اهرم-26000-1403/09/28,11081.901558381167,Short,Bull Market,neutral
-اختيارف شستا-1250-1403/10/12,2391.74671619649,Short,Bull Market,neutral
-اختيارخ خاور-1900-14031009,1085.692659292607,Short,Bull Market,neutral
-اختيارخ شپنا-5000-1403/10/12,1002.5670375630525,Short,Bull Market,neutral
-اختيارخ شتاب-14000-1403/10/12,711.0304860214992,Short,Bull Market,neutral
-اختيارخ ذوب-800-1403/11/24,675.2830610178431,Short,Bull Market,neutral
-اختيارف اهرم-18000-1403/11/24,649.1243615466786,Short,Bull Market,neutral
-اختيارخ شستا-1550-1403/10/12,609.3936085474111,Short,Bull Market,neutral
-اختيارخ دي-900-14031002,574.491205525027,Short,Bull Market,neutral
-اختيارخ خودرو-3750-1403/10/05,252.27950545835057,Short,Bull Market,neutral
-اختيارف ذوب-600-1403/09/28,131.59420480156612,Long,Bear Market,bullish
-اختيارف اهرم-28000-1403/09/28,119.35144455541312,Long,Bear Market,bullish
-اختيارف اهرم-34000-1403/09/28,119.3032731103216,Long,Bear Market,bullish
-اختيارف اهرم-30000-1403/09/28,119.22856153511052,Long,Bear Market,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bear Market,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bear Market,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bear Market,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bear Market,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bear Market,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bear Market,bullish
-اختيارخ اهرم-26000-1403/09/28,20948.3778373619,Short,Bear Market,bullish
-اختيارخ شپنا-5000-1403/10/12,3871.0143911155183,Short,Bear Market,bullish
-اختيارخ ذوب-800-1403/11/24,663.3199229840877,Short,Bear Market,bullish
-اختيارخ شتاب-14000-1403/10/12,597.4355599073227,Short,Bear Market,bullish
-اختيارخ دي-900-14031002,586.613073827959,Short,Bear Market,bullish
-اختيارخ شستا-1550-1403/10/12,563.7157972809047,Short,Bear Market,bullish
-اختيارخ خودرو-3750-1403/10/05,256.6800573715158,Short,Bear Market,bullish
-اختيارف اهرم-22000-1403/10/26,197.55993809283407,Short,Bear Market,bullish
-اختيارخ وتجارت-2200-1403/10/19,191.99137252470763,Short,Bear Market,bullish
-اختيارخ خاور-1900-14031009,190.0631224964015,Short,Bear Market,bullish
-اختيارف ذوب-600-1403/09/28,131.52267943060073,Long,Bear Market,bearish
-اختيارف اهرم-34000-1403/09/28,119.26612761137933,Long,Bear Market,bearish
-اختيارف اهرم-28000-1403/09/28,119.24713598688646,Long,Bear Market,bearish
-اختيارف اهرم-30000-1403/09/28,119.20997347185657,Long,Bear Market,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bear Market,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bear Market,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bear Market,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bear Market,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bear Market,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bear Market,bearish
-اختيارخ اهرم-26000-1403/09/28,10706.372191911549,Short,Bear Market,bearish
-اختيارف شستا-1250-1403/10/12,1794.691622265541,Short,Bear Market,bearish
-اختيارخ شپنا-5000-1403/10/12,1535.6055709395903,Short,Bear Market,bearish
-اختيارخ شتاب-14000-1403/10/12,1312.2471373567037,Short,Bear Market,bearish
-اختيارخ شستا-1550-1403/10/12,619.3783872791339,Short,Bear Market,bearish
-اختيارخ دي-900-14031002,603.0827996857158,Short,Bear Market,bearish
-اختيارخ فملي-10000-1403/11/03,571.8885943012821,Short,Bear Market,bearish
-اختيارف اهرم-18000-1403/11/24,345.16508993292723,Short,Bear Market,bearish
-اختيارف ذوب-400-1403/11/24,262.2016857386597,Short,Bear Market,bearish
-اختيارخ خودرو-3750-1403/10/05,258.3807087892331,Short,Bear Market,bearish
-اختيارف ذوب-600-1403/09/28,131.47197961644045,Long,Bear Market,neutral
-اختيارف اهرم-28000-1403/09/28,119.40291858998351,Long,Bear Market,neutral
-اختيارف اهرم-30000-1403/09/28,119.2667667618664,Long,Bear Market,neutral
-اختيارف اهرم-34000-1403/09/28,119.1829654137897,Long,Bear Market,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Bear Market,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Bear Market,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Bear Market,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Bear Market,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Bear Market,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Bear Market,neutral
-اختيارف شستا-1250-1403/10/12,81298.82911541603,Short,Bear Market,neutral
-اختيارخ اهرم-26000-1403/09/28,8408.263701802207,Short,Bear Market,neutral
-اختيارخ شتاب-14000-1403/10/12,2954.4784036016044,Short,Bear Market,neutral
-اختيارخ خگستر-5000-1403/10/05,1250.0067995276786,Short,Bear Market,neutral
-اختيارخ ذوب-800-1403/11/24,846.8853705083899,Short,Bear Market,neutral
-اختيارخ دي-900-14031002,678.8880069885125,Short,Bear Market,neutral
-اختيارخ شستا-1550-1403/10/12,631.4114776003591,Short,Bear Market,neutral
-اختيارخ شپنا-5000-1403/10/12,630.48210207859,Short,Bear Market,neutral
-اختيارخ خودرو-3750-1403/10/05,247.41421877585276,Short,Bear Market,neutral
-اختيارف اهرم-22000-1403/10/26,221.07642647177525,Short,Bear Market,neutral
-اختيارف ذوب-600-1403/09/28,131.52813124277972,Long,Volatile Market,bullish
-اختيارف اهرم-30000-1403/09/28,119.30649456008626,Long,Volatile Market,bullish
-اختيارف اهرم-28000-1403/09/28,119.29265471741812,Long,Volatile Market,bullish
-اختيارف اهرم-34000-1403/09/28,119.23521923562808,Long,Volatile Market,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Volatile Market,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Volatile Market,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Volatile Market,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Volatile Market,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Volatile Market,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Volatile Market,bullish
-اختيارخ اهرم-26000-1403/09/28,11307.33942252637,Short,Volatile Market,bullish
-اختيارخ شپنا-5000-1403/10/12,1078.910533584866,Short,Volatile Market,bullish
-اختيارف شستا-1250-1403/10/12,617.2599132089389,Short,Volatile Market,bullish
-اختيارخ دي-900-14031002,595.2348392226174,Short,Volatile Market,bullish
-اختيارخ شستا-1550-1403/10/12,565.369093417694,Short,Volatile Market,bullish
-اختيارخ ذوب-800-1403/11/24,548.190415107744,Short,Volatile Market,bullish
-اختيارخ فملي-10000-1403/11/03,457.77393819091486,Short,Volatile Market,bullish
-اختيارخ خودرو-3750-1403/10/05,250.70997256827613,Short,Volatile Market,bullish
-اختيارف ذوب-400-1403/11/24,211.79615096754137,Short,Volatile Market,bullish
-اختيارف اهرم-22000-1403/10/26,192.20963987680017,Short,Volatile Market,bullish
-اختيارف ذوب-600-1403/09/28,131.67878546332892,Long,Volatile Market,bearish
-اختيارف اهرم-28000-1403/09/28,119.27352588679567,Long,Volatile Market,bearish
-اختيارف اهرم-30000-1403/09/28,119.2174275629997,Long,Volatile Market,bearish
-اختيارف اهرم-34000-1403/09/28,119.17474034402012,Long,Volatile Market,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Volatile Market,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Volatile Market,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Volatile Market,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Volatile Market,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Volatile Market,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Volatile Market,bearish
-اختيارخ اهرم-26000-1403/09/28,7358.790694975179,Short,Volatile Market,bearish
-اختيارخ شتاب-14000-1403/10/12,707.3895279771166,Short,Volatile Market,bearish
-اختيارخ دي-900-14031002,596.1553460823574,Short,Volatile Market,bearish
-اختيارخ ذوب-800-1403/11/24,539.1776756653006,Short,Volatile Market,bearish
-اختيارخ شستا-1550-1403/10/12,494.93406376476054,Short,Volatile Market,bearish
-اختيارف شستا-1250-1403/10/12,395.2610326990126,Short,Volatile Market,bearish
-اختيارخ خودرو-3750-1403/10/05,246.71440900736593,Short,Volatile Market,bearish
-اختيارف اهرم-22000-1403/10/26,212.51807764071648,Short,Volatile Market,bearish
-اختيارخ وتجارت-2200-1403/10/19,195.68500624354303,Short,Volatile Market,bearish
-اختيارف ذوب-400-1403/11/24,179.1662657125166,Short,Volatile Market,bearish
-اختيارف ذوب-600-1403/09/28,131.52428861713253,Long,Volatile Market,neutral
-اختيارف اهرم-28000-1403/09/28,119.26560281244818,Long,Volatile Market,neutral
-اختيارف اهرم-30000-1403/09/28,119.24091987952225,Long,Volatile Market,neutral
-اختيارف اهرم-34000-1403/09/28,119.22166612868885,Long,Volatile Market,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Volatile Market,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Volatile Market,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Volatile Market,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Volatile Market,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Volatile Market,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Volatile Market,neutral
-اختيارخ اهرم-26000-1403/09/28,11299.65666847584,Short,Volatile Market,neutral
-اختيارخ شتاب-14000-1403/10/12,8868.587324124155,Short,Volatile Market,neutral
-اختيارخ شپنا-5000-1403/10/12,6006.723281583078,Short,Volatile Market,neutral
-اختيارف شستا-1250-1403/10/12,925.0494193659865,Short,Volatile Market,neutral
-اختيارخ ذوب-800-1403/11/24,910.1639164034602,Short,Volatile Market,neutral
-اختيارخ شستا-1550-1403/10/12,732.4923136515648,Short,Volatile Market,neutral
-اختيارخ دي-900-14031002,610.5066898731003,Short,Volatile Market,neutral
-اختيارف خودرو-2800-1403/11/03,461.0165022680978,Short,Volatile Market,neutral
-اختيارف اهرم-22000-1403/10/26,262.1550265138045,Short,Volatile Market,neutral
-اختيارخ خودرو-3750-1403/10/05,245.9092787089426,Short,Volatile Market,neutral
-اختيارف ذوب-600-1403/09/28,131.50857503922984,Long,Market Crash,bullish
-اختيارف اهرم-28000-1403/09/28,119.34356077202688,Long,Market Crash,bullish
-اختيارف اهرم-30000-1403/09/28,119.27946350196196,Long,Market Crash,bullish
-اختيارف اهرم-34000-1403/09/28,119.16379722127404,Long,Market Crash,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Crash,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Crash,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Crash,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Crash,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Crash,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Crash,bullish
-اختيارخ اهرم-26000-1403/09/28,8338.878991391623,Short,Market Crash,bullish
-اختيارخ شپنا-5000-1403/10/12,3658.3795281362404,Short,Market Crash,bullish
-اختيارف شستا-1250-1403/10/12,1178.118806579524,Short,Market Crash,bullish
-اختيارخ شتاب-14000-1403/10/12,978.5558796468107,Short,Market Crash,bullish
-اختيارخ دي-900-14031002,578.1051810714923,Short,Market Crash,bullish
-اختيارخ شستا-1550-1403/10/12,506.28561852316875,Short,Market Crash,bullish
-اختيارخ ذوب-800-1403/11/24,419.392402345947,Short,Market Crash,bullish
-اختيارف ذوب-400-1403/11/24,254.1523419926775,Short,Market Crash,bullish
-اختيارخ خودرو-3750-1403/10/05,253.91756166362197,Short,Market Crash,bullish
-اختيارخ وتجارت-2200-1403/10/19,197.60023706822383,Short,Market Crash,bullish
-اختيارف ذوب-600-1403/09/28,131.3222467754062,Long,Market Crash,bearish
-اختيارف اهرم-30000-1403/09/28,119.27438235736089,Long,Market Crash,bearish
-اختيارف اهرم-28000-1403/09/28,119.27343985009227,Long,Market Crash,bearish
-اختيارف اهرم-34000-1403/09/28,119.23426500245294,Long,Market Crash,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Crash,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Crash,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Crash,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Crash,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Crash,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Crash,bearish
-اختيارخ اهرم-26000-1403/09/28,7182.151261375008,Short,Market Crash,bearish
-اختيارخ خگستر-5000-1403/10/05,3036.4744137292473,Short,Market Crash,bearish
-اختيارخ شپنا-5000-1403/10/12,2451.021560970579,Short,Market Crash,bearish
-اختيارخ شتاب-14000-1403/10/12,1349.356983881589,Short,Market Crash,bearish
-اختيارخ ذوب-800-1403/11/24,749.158106046489,Short,Market Crash,bearish
-اختيارف شستا-1250-1403/10/12,670.338489518414,Short,Market Crash,bearish
-اختيارخ دي-900-14031002,554.1768437449969,Short,Market Crash,bearish
-اختيارخ شستا-1550-1403/10/12,454.64661992261864,Short,Market Crash,bearish
-اختيارف ذوب-400-1403/11/24,279.627713381657,Short,Market Crash,bearish
-اختيارخ خودرو-3750-1403/10/05,256.893155518822,Short,Market Crash,bearish
-اختيارف ذوب-600-1403/09/28,131.52558632699433,Long,Market Crash,neutral
-اختيارف اهرم-30000-1403/09/28,119.31196330558238,Long,Market Crash,neutral
-اختيارف اهرم-28000-1403/09/28,119.3064118602578,Long,Market Crash,neutral
-اختيارف اهرم-34000-1403/09/28,119.30168007832724,Long,Market Crash,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Crash,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Crash,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Crash,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Crash,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Crash,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Crash,neutral
-اختيارخ اهرم-26000-1403/09/28,21816.125654076575,Short,Market Crash,neutral
-اختيارخ شپنا-5000-1403/10/12,2544.7656237609112,Short,Market Crash,neutral
-اختيارف شستا-1250-1403/10/12,1135.5926603514538,Short,Market Crash,neutral
-اختيارخ ذوب-800-1403/11/24,1097.971120068745,Short,Market Crash,neutral
-اختيارخ شستا-1550-1403/10/12,581.0576650839994,Short,Market Crash,neutral
-اختيارخ دي-900-14031002,543.9696815285815,Short,Market Crash,neutral
-اختيارخ خودرو-3750-1403/10/05,252.2516062466055,Short,Market Crash,neutral
-اختيارف اهرم-22000-1403/10/26,205.8172466721808,Short,Market Crash,neutral
-اختيارف ذوب-400-1403/11/24,196.65964162060376,Short,Market Crash,neutral
-اختيارخ وتجارت-2200-1403/10/19,189.6615056350489,Short,Market Crash,neutral
-اختيارف ذوب-600-1403/09/28,131.42423460715918,Long,Market Rally,bullish
-اختيارف اهرم-34000-1403/09/28,119.34375272647681,Long,Market Rally,bullish
-اختيارف اهرم-28000-1403/09/28,119.34049753035251,Long,Market Rally,bullish
-اختيارف اهرم-30000-1403/09/28,119.28653974047306,Long,Market Rally,bullish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Rally,bullish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Rally,bullish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Rally,bullish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Rally,bullish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Rally,bullish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Rally,bullish
-اختيارخ اهرم-26000-1403/09/28,9709.44449538131,Short,Market Rally,bullish
-اختيارف شستا-1250-1403/10/12,8491.502917139176,Short,Market Rally,bullish
-اختيارخ دي-900-14031002,618.4656310925456,Short,Market Rally,bullish
-اختيارخ شپنا-5000-1403/10/12,588.9436469873507,Short,Market Rally,bullish
-اختيارخ شستا-1550-1403/10/12,564.8888718200635,Short,Market Rally,bullish
-اختيارخ ذوب-800-1403/11/24,529.5811906140891,Short,Market Rally,bullish
-اختيارف وبملت-3000-1403/09/28,454.9875440180846,Short,Market Rally,bullish
-اختيارف اهرم-18000-1403/11/24,284.26225102046607,Short,Market Rally,bullish
-اختيارخ خودرو-3750-1403/10/05,253.69174744181225,Short,Market Rally,bullish
-اختيارف اهرم-22000-1403/10/26,240.08700299352827,Short,Market Rally,bullish
-اختيارف ذوب-600-1403/09/28,131.51439122212528,Long,Market Rally,bearish
-اختيارف اهرم-28000-1403/09/28,119.30585608659503,Long,Market Rally,bearish
-اختيارف اهرم-34000-1403/09/28,119.26008571819676,Long,Market Rally,bearish
-اختيارف اهرم-30000-1403/09/28,119.2426434782559,Long,Market Rally,bearish
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Rally,bearish
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Rally,bearish
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Rally,bearish
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Rally,bearish
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Rally,bearish
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Rally,bearish
-اختيارخ اهرم-26000-1403/09/28,10156.099943471316,Short,Market Rally,bearish
-اختيارخ شپنا-5000-1403/10/12,1767.4664280951008,Short,Market Rally,bearish
-اختيارخ شتاب-14000-1403/10/12,635.5638394820971,Short,Market Rally,bearish
-اختيارخ شستا-1550-1403/10/12,587.1407841657867,Short,Market Rally,bearish
-اختيارخ دي-900-14031002,581.7721097615439,Short,Market Rally,bearish
-اختيارخ ذوب-800-1403/11/24,385.238256027089,Short,Market Rally,bearish
-اختيارف ذوب-400-1403/11/24,279.3436598028238,Short,Market Rally,bearish
-اختيارخ خودرو-3750-1403/10/05,255.5943439828073,Short,Market Rally,bearish
-اختيارف اهرم-22000-1403/10/26,194.5933065222354,Short,Market Rally,bearish
-اختيارخ وتجارت-2200-1403/10/19,187.8858562917147,Short,Market Rally,bearish
-اختيارف ذوب-600-1403/09/28,131.6173790869258,Long,Market Rally,neutral
-اختيارف اهرم-34000-1403/09/28,119.3073401439896,Long,Market Rally,neutral
-اختيارف اهرم-30000-1403/09/28,119.28934718751735,Long,Market Rally,neutral
-اختيارف اهرم-28000-1403/09/28,119.28783252504792,Long,Market Rally,neutral
-اختيارف وبملت-2200-1403/09/28,-600.2289242708208,Long,Market Rally,neutral
-اختيارف وبملت-2000-1403/09/28,-600.2353915801183,Long,Market Rally,neutral
-اختيارف شستا-650-1403/10/12,-600.2524235342523,Long,Market Rally,neutral
-اختيارف شستا-950-1403/10/12,-900.2304708131743,Long,Market Rally,neutral
-اختيارف شستا-850-1403/10/12,-900.2378128603575,Long,Market Rally,neutral
-اختيارف وبملت-2400-1403/09/28,-1200.2225216346162,Long,Market Rally,neutral
-اختيارخ اهرم-26000-1403/09/28,20323.68215078643,Short,Market Rally,neutral
-اختيارخ شپنا-5000-1403/10/12,3066.479650703393,Short,Market Rally,neutral
-اختيارف شستا-1250-1403/10/12,2298.476144543676,Short,Market Rally,neutral
-اختيارف اهرم-18000-1403/11/24,1240.9462156222532,Short,Market Rally,neutral
-اختيارخ ذوب-800-1403/11/24,628.0699889984094,Short,Market Rally,neutral
-اختيارخ دي-900-14031002,584.5538114398818,Short,Market Rally,neutral
-اختيارخ شستا-1550-1403/10/12,552.1045783660976,Short,Market Rally,neutral
-اختيارخ خودرو-3750-1403/10/05,248.7908165094147,Short,Market Rally,neutral
-اختيارف اهرم-22000-1403/10/26,222.4174238982531,Short,Market Rally,neutral
-اختيارف ذوب-400-1403/11/24,197.83643944725128,Short,Market Rally,neutral
+OptionName,Score,Side,Type,MarketScenario,UserMarketView
+اختيارخ بساما-4996-14040207,0.20671174285926674,Long,CALL,Normal Market,bullish
+اختيارخ بساما-5829-14040207,0.15923156263314706,Long,CALL,Normal Market,bullish
+اختيارخ خودران-8000-03/11/28,0.09758670014006827,Long,CALL,Normal Market,bullish
+اختيارخ رويين-11000-14031226,0.09542331359868479,Long,CALL,Normal Market,bullish
+اختيارخ خودرو-2800-1404/01/06,0.0676775474378957,Long,CALL,Normal Market,bullish
+اختيارخ خودران-7500-03/11/28,0.0633213980841792,Long,CALL,Normal Market,bullish
+اختيارخ خودرو-2000-1403/11/03,0.058977767604980316,Long,CALL,Normal Market,bullish
+اختيارخ خساپا-2600-1403/10/26,0.058422206498466425,Long,CALL,Normal Market,bullish
+اختيارخ بساما-5413-14040207,0.05688735612220099,Long,CALL,Normal Market,bullish
+اختيارخ خودرو-2200-1403/12/01,0.031672921208516974,Long,CALL,Normal Market,bullish
+اختيارخ ذوب-500-1403/11/24,0.5169765860174381,Short,CALL,Normal Market,bullish
+اختيارخ اهرم-26000-1403/11/24,0.492229285556097,Short,CALL,Normal Market,bullish
+اختيارخ اهرم-22000-1403/10/26,0.39153395702159555,Short,CALL,Normal Market,bullish
+اختيارخ فولاد-6000-1403/12/01,0.3704213022933976,Short,CALL,Normal Market,bullish
+اختيارخ شستا-1550-1403/11/10,0.318489092571243,Short,CALL,Normal Market,bullish
+اختيارخ وبملت-3250-1403/11/24,0.31842683954599377,Short,CALL,Normal Market,bullish
+اختيارخ شستا-1450-1403/11/10,0.3060588466743067,Short,CALL,Normal Market,bullish
+اختيارخ اهرم-24000-1403/11/24,0.3057430954035763,Short,CALL,Normal Market,bullish
+اختيارخ شستا-1550-1403/12/08,0.30219867900003794,Short,CALL,Normal Market,bullish
+اختيارخ اهرم-26000-1403/12/22,0.300634285171631,Short,CALL,Normal Market,bullish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Normal Market,bullish
+اختيارف نارنج-13000-14031114,-0.0,Long,PUT,Normal Market,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Normal Market,bullish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Normal Market,bullish
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,bullish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
+اختيارف خودران-11000-03/11/28,0.36073269319410495,Short,PUT,Normal Market,bullish
+اختيارف اهرم-26000-1403/10/26,0.26459938636243996,Short,PUT,Normal Market,bullish
+اختيارف اهرم-26000-1403/11/24,0.25670129396980307,Short,PUT,Normal Market,bullish
+اختيارف اطلس-55000-14031107,0.06700445219998427,Short,PUT,Normal Market,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Normal Market,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Normal Market,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Normal Market,bullish
+اختيارف رويين-12000-14031226,-0.14219803417578916,Short,PUT,Normal Market,bullish
+اختيارف فولاد-5500-1403/12/01,-0.18976375757615802,Short,PUT,Normal Market,bullish
+اختيارف شپنا-4500-1403/10/12,-0.23301900702692524,Short,PUT,Normal Market,bullish
+اختيارخ بساما-4996-14040207,0.15053062280553162,Long,CALL,Normal Market,bearish
+اختيارخ بساما-5829-14040207,0.11789491991801526,Long,CALL,Normal Market,bearish
+اختيارخ خودران-8000-03/11/28,0.07188170725702316,Long,CALL,Normal Market,bearish
+اختيارخ رويين-11000-14031226,0.06549237799654996,Long,CALL,Normal Market,bearish
+اختيارخ خودران-7500-03/11/28,0.047760628746954734,Long,CALL,Normal Market,bearish
+اختيارخ خودرو-2800-1404/01/06,0.04751063944097013,Long,CALL,Normal Market,bearish
+اختيارخ خساپا-2600-1403/10/26,0.046268146658610426,Long,CALL,Normal Market,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04544489609400277,Long,CALL,Normal Market,bearish
+اختيارخ بساما-5413-14040207,0.04213593464933615,Long,CALL,Normal Market,bearish
+اختيارخ خودرو-2200-1403/12/01,0.024413041851126922,Long,CALL,Normal Market,bearish
+اختيارخ ذوب-500-1403/11/24,0.7085562316423615,Short,CALL,Normal Market,bearish
+اختيارخ اهرم-26000-1403/11/24,0.6818819645066465,Short,CALL,Normal Market,bearish
+اختيارخ اهرم-22000-1403/10/26,0.539247838738291,Short,CALL,Normal Market,bearish
+اختيارخ فولاد-6000-1403/12/01,0.5105111196843266,Short,CALL,Normal Market,bearish
+اختيارخ وبملت-3250-1403/11/24,0.4364160864510697,Short,CALL,Normal Market,bearish
+اختيارخ شستا-1550-1403/11/10,0.4325355980781217,Short,CALL,Normal Market,bearish
+اختيارخ اهرم-24000-1403/11/24,0.4284430319015193,Short,CALL,Normal Market,bearish
+اختيارخ اهرم-26000-1403/12/22,0.42361243470826115,Short,CALL,Normal Market,bearish
+اختيارخ شستا-1450-1403/11/10,0.42252457698953405,Short,CALL,Normal Market,bearish
+اختيارخ اهرم-20000-1403/10/26,0.4178264101127999,Short,CALL,Normal Market,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Normal Market,bearish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Normal Market,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Normal Market,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Normal Market,bearish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Normal Market,bearish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Normal Market,bearish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Normal Market,bearish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
+اختيارف خودران-11000-03/11/28,0.26371875754702606,Short,PUT,Normal Market,bearish
+اختيارف اهرم-26000-1403/10/26,0.19122499641162116,Short,PUT,Normal Market,bearish
+اختيارف اهرم-26000-1403/11/24,0.18623394236281066,Short,PUT,Normal Market,bearish
+اختيارف اطلس-55000-14031107,0.04868186990384238,Short,PUT,Normal Market,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Normal Market,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Normal Market,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Normal Market,bearish
+اختيارف رويين-12000-14031226,-0.10489076165797065,Short,PUT,Normal Market,bearish
+اختيارف فولاد-5500-1403/12/01,-0.13720281272801446,Short,PUT,Normal Market,bearish
+اختيارف شپنا-4500-1403/10/12,-0.1703026028528436,Short,PUT,Normal Market,bearish
+اختيارخ بساما-4996-14040207,0.16703390155069447,Long,CALL,Normal Market,neutral
+اختيارخ بساما-5829-14040207,0.1197233448966871,Long,CALL,Normal Market,neutral
+اختيارخ خودران-8000-03/11/28,0.08052495507945232,Long,CALL,Normal Market,neutral
+اختيارخ رويين-11000-14031226,0.07651232222539803,Long,CALL,Normal Market,neutral
+اختيارخ خودرو-2800-1404/01/06,0.055059666985609344,Long,CALL,Normal Market,neutral
+اختيارخ خودران-7500-03/11/28,0.050988217128236535,Long,CALL,Normal Market,neutral
+اختيارخ بساما-5413-14040207,0.05088567601522553,Long,CALL,Normal Market,neutral
+اختيارخ خودرو-2000-1403/11/03,0.04767801747473606,Long,CALL,Normal Market,neutral
+اختيارخ خساپا-2600-1403/10/26,0.04746679001192192,Long,CALL,Normal Market,neutral
+اختيارخ خودرو-2200-1403/12/01,0.026716016101449188,Long,CALL,Normal Market,neutral
+اختيارخ ذوب-500-1403/11/24,0.6461455026713725,Short,CALL,Normal Market,neutral
+اختيارخ اهرم-26000-1403/11/24,0.6175690052333926,Short,CALL,Normal Market,neutral
+اختيارخ اهرم-22000-1403/10/26,0.4916669472449608,Short,CALL,Normal Market,neutral
+اختيارخ فولاد-6000-1403/12/01,0.46737857653242404,Short,CALL,Normal Market,neutral
+اختيارخ وبملت-3250-1403/11/24,0.3992713471742042,Short,CALL,Normal Market,neutral
+اختيارخ اهرم-26000-1403/12/22,0.3970582420771463,Short,CALL,Normal Market,neutral
+اختيارخ اهرم-24000-1403/11/24,0.39318762493671217,Short,CALL,Normal Market,neutral
+اختيارخ شستا-1550-1403/11/10,0.3923381492345387,Short,CALL,Normal Market,neutral
+اختيارخ شستا-1450-1403/11/10,0.3875200208072329,Short,CALL,Normal Market,neutral
+اختيارخ اهرم-20000-1403/10/26,0.38388022690029416,Short,CALL,Normal Market,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Normal Market,neutral
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,neutral
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Normal Market,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Normal Market,neutral
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Normal Market,neutral
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Normal Market,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Normal Market,neutral
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Normal Market,neutral
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Normal Market,neutral
+اختيارف خودران-11000-03/11/28,0.3296763699999214,Short,PUT,Normal Market,neutral
+اختيارف اهرم-26000-1403/10/26,0.24330991490170473,Short,PUT,Normal Market,neutral
+اختيارف اهرم-26000-1403/11/24,0.23502045587945966,Short,PUT,Normal Market,neutral
+اختيارف اطلس-55000-14031107,0.06134832431018538,Short,PUT,Normal Market,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Normal Market,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Normal Market,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Normal Market,neutral
+اختيارف رويين-12000-14031226,-0.13030123109636504,Short,PUT,Normal Market,neutral
+اختيارف فولاد-5500-1403/12/01,-0.17131309864091357,Short,PUT,Normal Market,neutral
+اختيارف شپنا-4500-1403/10/12,-0.2127000431495516,Short,PUT,Normal Market,neutral
+اختيارخ بساما-4996-14040207,0.2218387343903098,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-5829-14040207,0.18939887420246282,Long,CALL,Bullish Market,bullish
+اختيارخ خودران-8000-03/11/28,0.11485321818042846,Long,CALL,Bullish Market,bullish
+اختيارخ رويين-11000-14031226,0.10328952437634092,Long,CALL,Bullish Market,bullish
+اختيارخ خودران-7500-03/11/28,0.07591089939449584,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-5413-14040207,0.07354503199674277,Long,CALL,Bullish Market,bullish
+اختيارخ خودرو-2800-1404/01/06,0.06949796402090931,Long,CALL,Bullish Market,bullish
+اختيارخ خودرو-2000-1403/11/03,0.06856728846396923,Long,CALL,Bullish Market,bullish
+اختيارخ خساپا-2600-1403/10/26,0.06651435907927325,Long,CALL,Bullish Market,bullish
+اختيارخ خودرو-2200-1403/12/01,0.03485038650190676,Long,CALL,Bullish Market,bullish
+اختيارخ ذوب-500-1403/11/24,0.46726289711702335,Short,CALL,Bullish Market,bullish
+اختيارخ اهرم-26000-1403/11/24,0.45147281035890174,Short,CALL,Bullish Market,bullish
+اختيارخ اهرم-22000-1403/10/26,0.357242443446692,Short,CALL,Bullish Market,bullish
+اختيارخ فولاد-6000-1403/12/01,0.3379589230890793,Short,CALL,Bullish Market,bullish
+اختيارخ وبملت-3250-1403/11/24,0.2903087460552162,Short,CALL,Bullish Market,bullish
+اختيارخ شستا-1550-1403/11/10,0.28637605792514503,Short,CALL,Bullish Market,bullish
+اختيارخ اهرم-24000-1403/11/24,0.28076578363405813,Short,CALL,Bullish Market,bullish
+اختيارخ شستا-1450-1403/11/10,0.27977019414743975,Short,CALL,Bullish Market,bullish
+اختيارخ اهرم-20000-1403/10/26,0.2780823259400325,Short,CALL,Bullish Market,bullish
+اختيارخ اهرم-26000-1403/12/22,0.27807396654329763,Short,CALL,Bullish Market,bullish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
+اختيارف خودران-11000-03/11/28,0.39648262591044753,Short,PUT,Bullish Market,bullish
+اختيارف اهرم-26000-1403/10/26,0.29439988088413754,Short,PUT,Bullish Market,bullish
+اختيارف اهرم-26000-1403/11/24,0.28581244716424864,Short,PUT,Bullish Market,bullish
+اختيارف اطلس-55000-14031107,0.07255909713428925,Short,PUT,Bullish Market,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Market,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Market,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Market,bullish
+اختيارف رويين-12000-14031226,-0.1586991242019187,Short,PUT,Bullish Market,bullish
+اختيارف فولاد-5500-1403/12/01,-0.20812425272537435,Short,PUT,Bullish Market,bullish
+اختيارف شپنا-4500-1403/10/12,-0.256955873959826,Short,PUT,Bullish Market,bullish
+اختيارخ بساما-4996-14040207,0.16830285063027253,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-5829-14040207,0.1332588755096778,Long,CALL,Bullish Market,bearish
+اختيارخ خودران-8000-03/11/28,0.09092966346413388,Long,CALL,Bullish Market,bearish
+اختيارخ رويين-11000-14031226,0.07413058756325126,Long,CALL,Bullish Market,bearish
+اختيارخ خودرو-2800-1404/01/06,0.06030408931335188,Long,CALL,Bullish Market,bearish
+اختيارخ خودران-7500-03/11/28,0.05455090892012053,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-5413-14040207,0.05147011580260351,Long,CALL,Bullish Market,bearish
+اختيارخ خودرو-2000-1403/11/03,0.05103920523576366,Long,CALL,Bullish Market,bearish
+اختيارخ خساپا-2600-1403/10/26,0.045890528703539706,Long,CALL,Bullish Market,bearish
+اختيارخ خودرو-2200-1403/12/01,0.028820116153373015,Long,CALL,Bullish Market,bearish
+اختيارخ ذوب-500-1403/11/24,0.6372769644899523,Short,CALL,Bullish Market,bearish
+اختيارخ اهرم-26000-1403/11/24,0.6144173460195645,Short,CALL,Bullish Market,bearish
+اختيارخ اهرم-22000-1403/10/26,0.48867602403676236,Short,CALL,Bullish Market,bearish
+اختيارخ فولاد-6000-1403/12/01,0.46492942964851974,Short,CALL,Bullish Market,bearish
+اختيارخ شستا-1550-1403/11/10,0.39207744904649744,Short,CALL,Bullish Market,bearish
+اختيارخ وبملت-3250-1403/11/24,0.3885137410204784,Short,CALL,Bullish Market,bearish
+اختيارخ اهرم-24000-1403/11/24,0.38378636629363216,Short,CALL,Bullish Market,bearish
+اختيارخ اهرم-20000-1403/10/26,0.3818386812798224,Short,CALL,Bullish Market,bearish
+اختيارخ اهرم-26000-1403/12/22,0.3806074979744265,Short,CALL,Bullish Market,bearish
+اختيارخ شستا-1450-1403/11/10,0.3785631400822754,Short,CALL,Bullish Market,bearish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,bearish
+اختيارف خودران-11000-03/11/28,0.29139585714974425,Short,PUT,Bullish Market,bearish
+اختيارف اهرم-26000-1403/10/26,0.21385722572889582,Short,PUT,Bullish Market,bearish
+اختيارف اهرم-26000-1403/11/24,0.2062262519060756,Short,PUT,Bullish Market,bearish
+اختيارف اطلس-55000-14031107,0.053826854275386166,Short,PUT,Bullish Market,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Market,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Market,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Market,bearish
+اختيارف رويين-12000-14031226,-0.1139347462744261,Short,PUT,Bullish Market,bearish
+اختيارف فولاد-5500-1403/12/01,-0.1508766698417371,Short,PUT,Bullish Market,bearish
+اختيارف شپنا-4500-1403/10/12,-0.18747804519782596,Short,PUT,Bullish Market,bearish
+اختيارخ بساما-4996-14040207,0.19478049439375208,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-5829-14040207,0.14578551916630625,Long,CALL,Bullish Market,neutral
+اختيارخ خودران-8000-03/11/28,0.09147437247948552,Long,CALL,Bullish Market,neutral
+اختيارخ رويين-11000-14031226,0.08782081962084347,Long,CALL,Bullish Market,neutral
+اختيارخ خودران-7500-03/11/28,0.068126937949462,Long,CALL,Bullish Market,neutral
+اختيارخ خودرو-2800-1404/01/06,0.05781946729978654,Long,CALL,Bullish Market,neutral
+اختيارخ خودرو-2000-1403/11/03,0.05592243707925107,Long,CALL,Bullish Market,neutral
+اختيارخ خساپا-2600-1403/10/26,0.05510979904994698,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-5413-14040207,0.05255018080785293,Long,CALL,Bullish Market,neutral
+اختيارخ خودرو-2200-1403/12/01,0.03181927855338281,Long,CALL,Bullish Market,neutral
+اختيارخ ذوب-500-1403/11/24,0.5750062833347518,Short,CALL,Bullish Market,neutral
+اختيارخ اهرم-26000-1403/11/24,0.5586986962047892,Short,CALL,Bullish Market,neutral
+اختيارخ اهرم-22000-1403/10/26,0.43928583699801865,Short,CALL,Bullish Market,neutral
+اختيارخ فولاد-6000-1403/12/01,0.418443337491474,Short,CALL,Bullish Market,neutral
+اختيارخ وبملت-3250-1403/11/24,0.36694411641721575,Short,CALL,Bullish Market,neutral
+اختيارخ شستا-1550-1403/11/10,0.35832824365827215,Short,CALL,Bullish Market,neutral
+اختيارخ اهرم-24000-1403/11/24,0.3579550472788186,Short,CALL,Bullish Market,neutral
+اختيارخ شستا-1450-1403/11/10,0.3483922271581931,Short,CALL,Bullish Market,neutral
+اختيارخ اهرم-20000-1403/10/26,0.3419812591644483,Short,CALL,Bullish Market,neutral
+اختيارخ شستا-1550-1403/12/08,0.3401717509660745,Short,CALL,Bullish Market,neutral
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Market,neutral
+اختيارف خودران-11000-03/11/28,0.3627296605669298,Short,PUT,Bullish Market,neutral
+اختيارف اهرم-26000-1403/10/26,0.26747968812240186,Short,PUT,Bullish Market,neutral
+اختيارف اهرم-26000-1403/11/24,0.2596303731456273,Short,PUT,Bullish Market,neutral
+اختيارف اطلس-55000-14031107,0.06649734309323023,Short,PUT,Bullish Market,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Market,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Market,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Market,neutral
+اختيارف رويين-12000-14031226,-0.14359762615333946,Short,PUT,Bullish Market,neutral
+اختيارف فولاد-5500-1403/12/01,-0.19087664697865672,Short,PUT,Bullish Market,neutral
+اختيارف شپنا-4500-1403/10/12,-0.2342019751931973,Short,PUT,Bullish Market,neutral
+اختيارخ بساما-4996-14040207,0.18585034625651964,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-5829-14040207,0.1409165846849668,Long,CALL,Bearish Market,bullish
+اختيارخ خودران-8000-03/11/28,0.09006284598008886,Long,CALL,Bearish Market,bullish
+اختيارخ رويين-11000-14031226,0.08158041829667934,Long,CALL,Bearish Market,bullish
+اختيارخ خودران-7500-03/11/28,0.06248471435340264,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-5413-14040207,0.060751335279201076,Long,CALL,Bearish Market,bullish
+اختيارخ خودرو-2000-1403/11/03,0.05608997641513527,Long,CALL,Bearish Market,bullish
+اختيارخ خودرو-2800-1404/01/06,0.054876250230653435,Long,CALL,Bearish Market,bullish
+اختيارخ خساپا-2600-1403/10/26,0.05359116313627796,Long,CALL,Bearish Market,bullish
+اختيارخ توان-19000-14040221,0.03108090711148972,Long,CALL,Bearish Market,bullish
+اختيارخ ذوب-500-1403/11/24,0.5654314518590151,Short,CALL,Bearish Market,bullish
+اختيارخ اهرم-26000-1403/11/24,0.5487321220068367,Short,CALL,Bearish Market,bullish
+اختيارخ اهرم-22000-1403/10/26,0.43694996132026254,Short,CALL,Bearish Market,bullish
+اختيارخ فولاد-6000-1403/12/01,0.4139237675245471,Short,CALL,Bearish Market,bullish
+اختيارخ وبملت-3250-1403/11/24,0.355019466576901,Short,CALL,Bearish Market,bullish
+اختيارخ شستا-1550-1403/11/10,0.34704536412723674,Short,CALL,Bearish Market,bullish
+اختيارخ اهرم-24000-1403/11/24,0.3437821456403075,Short,CALL,Bearish Market,bullish
+اختيارخ شستا-1450-1403/11/10,0.34274042797903503,Short,CALL,Bearish Market,bullish
+اختيارخ اهرم-26000-1403/12/22,0.3362058361216004,Short,CALL,Bearish Market,bullish
+اختيارخ اهرم-20000-1403/10/26,0.3354035902927961,Short,CALL,Bearish Market,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish Market,bullish
+اختيارف خودران-11000-03/11/28,0.332844381368443,Short,PUT,Bearish Market,bullish
+اختيارف اهرم-26000-1403/10/26,0.24117368746615206,Short,PUT,Bearish Market,bullish
+اختيارف اهرم-26000-1403/11/24,0.23289622035844768,Short,PUT,Bearish Market,bullish
+اختيارف اطلس-55000-14031107,0.060843024554564,Short,PUT,Bearish Market,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Market,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Market,bullish
+اختيارف اهرم-28000-1403/09/28,-1.587203538383671e-05,Short,PUT,Bearish Market,bullish
+اختيارف رويين-12000-14031226,-0.1299410059668672,Short,PUT,Bearish Market,bullish
+اختيارف فولاد-5500-1403/12/01,-0.17017851889039165,Short,PUT,Bearish Market,bullish
+اختيارف شپنا-4500-1403/10/12,-0.20941845973531628,Short,PUT,Bearish Market,bullish
+اختيارخ بساما-4996-14040207,0.14580246344275544,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-5829-14040207,0.1117772820624224,Long,CALL,Bearish Market,bearish
+اختيارخ خودران-8000-03/11/28,0.07148317908575054,Long,CALL,Bearish Market,bearish
+اختيارخ رويين-11000-14031226,0.06843665072052278,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-5413-14040207,0.045589893923350756,Long,CALL,Bearish Market,bearish
+اختيارخ خودران-7500-03/11/28,0.0438369697765461,Long,CALL,Bearish Market,bearish
+اختيارخ خساپا-2600-1403/10/26,0.042932979868177235,Long,CALL,Bearish Market,bearish
+اختيارخ خودرو-2800-1404/01/06,0.04242606040528306,Long,CALL,Bearish Market,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04197885844695403,Long,CALL,Bearish Market,bearish
+اختيارخ خودرو-2200-1403/12/01,0.023552614765070843,Long,CALL,Bearish Market,bearish
+اختيارخ ذوب-500-1403/11/24,0.7686661558247431,Short,CALL,Bearish Market,bearish
+اختيارخ اهرم-26000-1403/11/24,0.7553506546459221,Short,CALL,Bearish Market,bearish
+اختيارخ اهرم-22000-1403/10/26,0.5936483424599068,Short,CALL,Bearish Market,bearish
+اختيارخ فولاد-6000-1403/12/01,0.56743725622879,Short,CALL,Bearish Market,bearish
+اختيارخ وبملت-3250-1403/11/24,0.49589315690057695,Short,CALL,Bearish Market,bearish
+اختيارخ اهرم-26000-1403/12/22,0.4817136883297244,Short,CALL,Bearish Market,bearish
+اختيارخ شستا-1550-1403/11/10,0.4813122375963438,Short,CALL,Bearish Market,bearish
+اختيارخ اهرم-24000-1403/11/24,0.47168660302397736,Short,CALL,Bearish Market,bearish
+اختيارخ شستا-1450-1403/11/10,0.46710725664424774,Short,CALL,Bearish Market,bearish
+اختيارخ شستا-1550-1403/12/08,0.4587589473064704,Short,CALL,Bearish Market,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Market,bearish
+اختيارف خودران-11000-03/11/28,0.2390375411177936,Short,PUT,Bearish Market,bearish
+اختيارف اهرم-26000-1403/10/26,0.17332329855083337,Short,PUT,Bearish Market,bearish
+اختيارف اهرم-26000-1403/11/24,0.16807355961060097,Short,PUT,Bearish Market,bearish
+اختيارف اطلس-55000-14031107,0.042901325789300684,Short,PUT,Bearish Market,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish Market,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Market,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Market,bearish
+اختيارف رويين-12000-14031226,-0.0929276690433655,Short,PUT,Bearish Market,bearish
+اختيارف فولاد-5500-1403/12/01,-0.12404161717387371,Short,PUT,Bearish Market,bearish
+اختيارف شپنا-4500-1403/10/12,-0.15234201858913426,Short,PUT,Bearish Market,bearish
+اختيارخ بساما-4996-14040207,0.16098269981125443,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-5829-14040207,0.11612465155636159,Long,CALL,Bearish Market,neutral
+اختيارخ خودران-8000-03/11/28,0.08119034514255805,Long,CALL,Bearish Market,neutral
+اختيارخ رويين-11000-14031226,0.06575855090944858,Long,CALL,Bearish Market,neutral
+اختيارخ خودرو-2800-1404/01/06,0.05987649375962546,Long,CALL,Bearish Market,neutral
+اختيارخ خودران-7500-03/11/28,0.05076185764321068,Long,CALL,Bearish Market,neutral
+اختيارخ خساپا-2600-1403/10/26,0.048189836307461084,Long,CALL,Bearish Market,neutral
+اختيارخ خودرو-2000-1403/11/03,0.045755204001896234,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-5413-14040207,0.04441445366099381,Long,CALL,Bearish Market,neutral
+اختيارخ خودرو-2200-1403/12/01,0.02629145425792743,Long,CALL,Bearish Market,neutral
+اختيارخ ذوب-500-1403/11/24,0.7125594776590212,Short,CALL,Bearish Market,neutral
+اختيارخ اهرم-26000-1403/11/24,0.6783028819210484,Short,CALL,Bearish Market,neutral
+اختيارخ اهرم-22000-1403/10/26,0.5410709623968576,Short,CALL,Bearish Market,neutral
+اختيارخ فولاد-6000-1403/12/01,0.518578647514279,Short,CALL,Bearish Market,neutral
+اختيارخ وبملت-3250-1403/11/24,0.44296105079600956,Short,CALL,Bearish Market,neutral
+اختيارخ اهرم-24000-1403/11/24,0.4415327471435616,Short,CALL,Bearish Market,neutral
+اختيارخ شستا-1550-1403/11/10,0.4356913166551843,Short,CALL,Bearish Market,neutral
+اختيارخ شستا-1450-1403/11/10,0.42715340488543685,Short,CALL,Bearish Market,neutral
+اختيارخ اهرم-26000-1403/12/22,0.42435718075001483,Short,CALL,Bearish Market,neutral
+اختيارخ اهرم-20000-1403/10/26,0.42100269482333574,Short,CALL,Bearish Market,neutral
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Market,neutral
+اختيارف خودران-11000-03/11/28,0.30106959288479573,Short,PUT,Bearish Market,neutral
+اختيارف اهرم-26000-1403/10/26,0.21624364084905728,Short,PUT,Bearish Market,neutral
+اختيارف اهرم-26000-1403/11/24,0.2110430870618212,Short,PUT,Bearish Market,neutral
+اختيارف اطلس-55000-14031107,0.054301407974458774,Short,PUT,Bearish Market,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Market,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish Market,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Market,neutral
+اختيارف رويين-12000-14031226,-0.11759764773556802,Short,PUT,Bearish Market,neutral
+اختيارف فولاد-5500-1403/12/01,-0.15486662658031664,Short,PUT,Bearish Market,neutral
+اختيارف شپنا-4500-1403/10/12,-0.19007397691536063,Short,PUT,Bearish Market,neutral
+اختيارخ بساما-4996-14040207,0.18555159096224708,Long,CALL,High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.1600746426708227,Long,CALL,High Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.0990417782507589,Long,CALL,High Volatility,bullish
+اختيارخ رويين-11000-14031226,0.0876368884248405,Long,CALL,High Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.06951829010440871,Long,CALL,High Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.06132471977434942,Long,CALL,High Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.06074013144097369,Long,CALL,High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.0585112987130086,Long,CALL,High Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.05745586026198936,Long,CALL,High Volatility,bullish
+اختيارخ خودرو-2200-1403/12/01,0.03451424961287573,Long,CALL,High Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.5438810930420096,Short,CALL,High Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.5179805836377873,Short,CALL,High Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.4110613523325469,Short,CALL,High Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.3970099984617508,Short,CALL,High Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.33556700498721853,Short,CALL,High Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.33218065162093474,Short,CALL,High Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.325459386726763,Short,CALL,High Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.32508576774835185,Short,CALL,High Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.32201302807231286,Short,CALL,High Volatility,bullish
+اختيارخ اهرم-26000-1403/12/22,0.3199044588042949,Short,CALL,High Volatility,bullish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,High Volatility,bullish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,High Volatility,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,High Volatility,bullish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,High Volatility,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,High Volatility,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,High Volatility,bullish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,High Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,High Volatility,bullish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,High Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.3870769345888396,Short,PUT,High Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.2804161924905129,Short,PUT,High Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.2701551934481454,Short,PUT,High Volatility,bullish
+اختيارف اطلس-55000-14031107,0.06998928387498791,Short,PUT,High Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,High Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,High Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,High Volatility,bullish
+اختيارف رويين-12000-14031226,-0.14934147604773648,Short,PUT,High Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.19830280740069292,Short,PUT,High Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.24538180024823014,Short,PUT,High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.1496456644214513,Long,CALL,High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.10616359904225231,Long,CALL,High Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.07379049617406584,Long,CALL,High Volatility,bearish
+اختيارخ رويين-11000-14031226,0.06585061286038692,Long,CALL,High Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.05022952206685652,Long,CALL,High Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.04781149572846032,Long,CALL,High Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.046107618952950014,Long,CALL,High Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.044105815963515135,Long,CALL,High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.04320339387097298,Long,CALL,High Volatility,bearish
+اختيارخ خودرو-2200-1403/12/01,0.0243625892450902,Long,CALL,High Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.7468087670236646,Short,CALL,High Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.7116376263343113,Short,CALL,High Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.5676846558402973,Short,CALL,High Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.5343717870646293,Short,CALL,High Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.46543126757385817,Short,CALL,High Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.46098038216683457,Short,CALL,High Volatility,bearish
+اختيارخ شستا-1550-1403/12/08,0.44434872873051395,Short,CALL,High Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.44377312313785355,Short,CALL,High Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.443607029473812,Short,CALL,High Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.44044044759020484,Short,CALL,High Volatility,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,High Volatility,bearish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,High Volatility,bearish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,High Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,High Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,High Volatility,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,High Volatility,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
+اختيارف نارنج-13000-14031114,-0.0,Long,PUT,High Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.28105386786832265,Short,PUT,High Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.20335667771525132,Short,PUT,High Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.19833219917011463,Short,PUT,High Volatility,bearish
+اختيارف اطلس-55000-14031107,0.05152330395033725,Short,PUT,High Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,High Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,High Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,High Volatility,bearish
+اختيارف رويين-12000-14031226,-0.10957605609840225,Short,PUT,High Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.14459114892743594,Short,PUT,High Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.17894144071472415,Short,PUT,High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.1608155366907399,Long,CALL,High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.1279769085575242,Long,CALL,High Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.08227968309030298,Long,CALL,High Volatility,neutral
+اختيارخ رويين-11000-14031226,0.07066749536030577,Long,CALL,High Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.05853473385138003,Long,CALL,High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.055826881705308716,Long,CALL,High Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.049401132249636166,Long,CALL,High Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.04902746503436023,Long,CALL,High Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.046790286242599975,Long,CALL,High Volatility,neutral
+اختيارخ خودرو-2200-1403/12/01,0.029145578540490498,Long,CALL,High Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.665371967618572,Short,CALL,High Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.6494398071548242,Short,CALL,High Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.5172778820347979,Short,CALL,High Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.49189540704295975,Short,CALL,High Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.4270260453358231,Short,CALL,High Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.41642022406567913,Short,CALL,High Volatility,neutral
+اختيارخ اهرم-20000-1403/10/26,0.40028097451158834,Short,CALL,High Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.39918486533292225,Short,CALL,High Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.3985734571618688,Short,CALL,High Volatility,neutral
+اختيارخ شستا-1550-1403/12/08,0.3944784566099463,Short,CALL,High Volatility,neutral
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,High Volatility,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,High Volatility,neutral
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,High Volatility,neutral
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,High Volatility,neutral
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,High Volatility,neutral
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,High Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,High Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.34609222473955265,Short,PUT,High Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.2542329302104039,Short,PUT,High Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.24613744264181936,Short,PUT,High Volatility,neutral
+اختيارف اطلس-55000-14031107,0.06378385829602802,Short,PUT,High Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,High Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,High Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,High Volatility,neutral
+اختيارف رويين-12000-14031226,-0.1373015721855568,Short,PUT,High Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.1796673359822565,Short,PUT,High Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.22251113608500336,Short,PUT,High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.20296565637797476,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.1413851503070617,Long,CALL,Low Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.09962063018201517,Long,CALL,Low Volatility,bullish
+اختيارخ رويين-11000-14031226,0.09517043076999623,Long,CALL,Low Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.06358181707434302,Long,CALL,Low Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.061445009007926855,Long,CALL,Low Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.06100138152500344,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.05997275475996397,Long,CALL,Low Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.05692829965379481,Long,CALL,Low Volatility,bullish
+اختيارخ خودرو-2200-1403/12/01,0.031420068925643876,Long,CALL,Low Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.512762583927671,Short,CALL,Low Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.4950534643853157,Short,CALL,Low Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.39269175319525973,Short,CALL,Low Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.3713765988417391,Short,CALL,Low Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.3226898708075994,Short,CALL,Low Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.31653786286042446,Short,CALL,Low Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.3157865346496424,Short,CALL,Low Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.3102036799779193,Short,CALL,Low Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.30886019346900984,Short,CALL,Low Volatility,bullish
+اختيارخ اهرم-26000-1403/12/22,0.30557560770778824,Short,CALL,Low Volatility,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف نارنج-13000-14031114,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.3615210022033568,Short,PUT,Low Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.2637011339292858,Short,PUT,Low Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.261546820378185,Short,PUT,Low Volatility,bullish
+اختيارف اطلس-55000-14031107,0.06670332412076714,Short,PUT,Low Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Low Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Low Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Low Volatility,bullish
+اختيارف رويين-12000-14031226,-0.1414916650128125,Short,PUT,Low Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.18837714343179188,Short,PUT,Low Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.23258687353012092,Short,PUT,Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.15028981064153027,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.11616516588719161,Long,CALL,Low Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.07138171797711329,Long,CALL,Low Volatility,bearish
+اختيارخ رويين-11000-14031226,0.06875016000189411,Long,CALL,Low Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.050066688674960586,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.04761559444530188,Long,CALL,Low Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.04420549488784914,Long,CALL,Low Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04344627489157498,Long,CALL,Low Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.041657601152855286,Long,CALL,Low Volatility,bearish
+اختيارخ توان-19000-14040221,0.024917049393372484,Long,CALL,Low Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.7079212099160309,Short,CALL,Low Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.6809677657329403,Short,CALL,Low Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.5441439527406365,Short,CALL,Low Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.5244931896599976,Short,CALL,Low Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.4460673449707463,Short,CALL,Low Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.4338349733654877,Short,CALL,Low Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.4300308781664388,Short,CALL,Low Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.4164603273538524,Short,CALL,Low Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.41610270220523454,Short,CALL,Low Volatility,bearish
+اختيارخ اهرم-26000-1403/12/22,0.41081524612491577,Short,CALL,Low Volatility,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Low Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.2619192225580379,Short,PUT,Low Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.193473906738063,Short,PUT,Low Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.18749021155429643,Short,PUT,Low Volatility,bearish
+اختيارف اطلس-55000-14031107,0.049222604621145305,Short,PUT,Low Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Low Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Low Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Low Volatility,bearish
+اختيارف رويين-12000-14031226,-0.1039723221256441,Short,PUT,Low Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.13801940039290264,Short,PUT,Low Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.16993295324527286,Short,PUT,Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.16236991212259713,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.10690187703102043,Long,CALL,Low Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.08439500354094374,Long,CALL,Low Volatility,neutral
+اختيارخ رويين-11000-14031226,0.06666468675423479,Long,CALL,Low Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.06012090758085515,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.05521181859702462,Long,CALL,Low Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.053316500914726776,Long,CALL,Low Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.0508114801953312,Long,CALL,Low Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.04631043542275029,Long,CALL,Low Volatility,neutral
+اختيارخ توان-19000-14040221,0.026409363220063535,Long,CALL,Low Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.6457819885069781,Short,CALL,Low Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.6183914634093365,Short,CALL,Low Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.48830722903553875,Short,CALL,Low Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.4700951039236543,Short,CALL,Low Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.40200166406073756,Short,CALL,Low Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.39413155960506024,Short,CALL,Low Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.3917690881115353,Short,CALL,Low Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.3828304262614215,Short,CALL,Low Volatility,neutral
+اختيارخ اهرم-20000-1403/10/26,0.3808103759496406,Short,CALL,Low Volatility,neutral
+اختيارخ اهرم-26000-1403/12/22,0.37407023587001753,Short,CALL,Low Volatility,neutral
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Low Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.33209784274495363,Short,PUT,Low Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.24064431087568713,Short,PUT,Low Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.2335854670114198,Short,PUT,Low Volatility,neutral
+اختيارف اطلس-55000-14031107,0.05916977812230429,Short,PUT,Low Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Low Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Low Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-1.600723188108585e-05,Short,PUT,Low Volatility,neutral
+اختيارف رويين-12000-14031226,-0.1295922017685981,Short,PUT,Low Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.17167524679837334,Short,PUT,Low Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.21201340536928834,Short,PUT,Low Volatility,neutral
+اختيارخ بساما-4996-14040207,0.23085317438295244,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.16938941841842511,Long,CALL,Bullish High Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.11648397318961348,Long,CALL,Bullish High Volatility,bullish
+اختيارخ رويين-11000-14031226,0.09421586702814973,Long,CALL,Bullish High Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.07196515875633286,Long,CALL,Bullish High Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.06969709845648596,Long,CALL,Bullish High Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.06893371495148178,Long,CALL,Bullish High Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.0669668564656582,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.06522039038211375,Long,CALL,Bullish High Volatility,bullish
+اختيارخ توان-19000-14040221,0.04393876399149773,Long,CALL,Bullish High Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.48466245664218643,Short,CALL,Bullish High Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.47310380388552115,Short,CALL,Bullish High Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.37046227184114505,Short,CALL,Bullish High Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.34830081399711826,Short,CALL,Bullish High Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.3041893349889975,Short,CALL,Bullish High Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.29982169063751674,Short,CALL,Bullish High Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.2942280002549335,Short,CALL,Bullish High Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.2909992999690094,Short,CALL,Bullish High Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.28998212305737575,Short,CALL,Bullish High Volatility,bullish
+اختيارخ شستا-1550-1403/12/08,0.2883314836396087,Short,CALL,Bullish High Volatility,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bullish High Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.4202997031873691,Short,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.3101311926570914,Short,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.2945890248315002,Short,PUT,Bullish High Volatility,bullish
+اختيارف اطلس-55000-14031107,0.07799633399264642,Short,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-2.048778841868672e-05,Short,PUT,Bullish High Volatility,bullish
+اختيارف رويين-12000-14031226,-0.16563617329004013,Short,PUT,Bullish High Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.21884883166900274,Short,PUT,Bullish High Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.2701079396720576,Short,PUT,Bullish High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.15129905851114592,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.13301372139683415,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.08765084561648909,Long,CALL,Bullish High Volatility,bearish
+اختيارخ رويين-11000-14031226,0.06770555748268886,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.056053740695815986,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.054155337740667206,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.05257233349151574,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.05006568664403066,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.04538916832248574,Long,CALL,Bullish High Volatility,bearish
+اختيارخ خودرو-2200-1403/12/01,0.02459716800879447,Long,CALL,Bullish High Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.6698645586021227,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.6424907700544351,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.5065528974575207,Short,CALL,Bullish High Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.4908812758538738,Short,CALL,Bullish High Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.4192213034830544,Short,CALL,Bullish High Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.41096656601754766,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.40577446042679216,Short,CALL,Bullish High Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.4050478151203508,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اهرم-26000-1403/12/22,0.40000462260287756,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.39526842944662777,Short,CALL,Bullish High Volatility,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.30872936999066664,Short,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.22405408945524552,Short,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.21671453040833827,Short,PUT,Bullish High Volatility,bearish
+اختيارف اطلس-55000-14031107,0.056353728471906304,Short,PUT,Bullish High Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,bearish
+اختيارف رويين-12000-14031226,-0.12063808009581117,Short,PUT,Bullish High Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.15931347409895488,Short,PUT,Bullish High Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.19628792728421626,Short,PUT,Bullish High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.19532977177558558,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.1423699929026102,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.09503637083163731,Long,CALL,Bullish High Volatility,neutral
+اختيارخ رويين-11000-14031226,0.08173481248455354,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.0627361759737512,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.06063568346453498,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.060001170953393274,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.05773587085150396,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.05689056286536112,Long,CALL,Bullish High Volatility,neutral
+اختيارخ خودرو-2200-1403/12/01,0.030739615187554088,Long,CALL,Bullish High Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.6021568396549869,Short,CALL,Bullish High Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.5866215860416808,Short,CALL,Bullish High Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.46551610911287017,Short,CALL,Bullish High Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.43739243315957244,Short,CALL,Bullish High Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.3825063725183302,Short,CALL,Bullish High Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.37554498683069026,Short,CALL,Bullish High Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.37259829322199084,Short,CALL,Bullish High Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.367898251029413,Short,CALL,Bullish High Volatility,neutral
+اختيارخ اهرم-26000-1403/12/22,0.36724095921728667,Short,CALL,Bullish High Volatility,neutral
+اختيارخ شستا-1550-1403/12/08,0.3602497934229727,Short,CALL,Bullish High Volatility,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish High Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.380486597145931,Short,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.2800583605646759,Short,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.271019961553374,Short,PUT,Bullish High Volatility,neutral
+اختيارف اطلس-55000-14031107,0.07096739515146702,Short,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish High Volatility,neutral
+اختيارف رويين-12000-14031226,-0.15022107532390694,Short,PUT,Bullish High Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.19796185023618806,Short,PUT,Bullish High Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.2465847771245027,Short,PUT,Bullish High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.1864867491867427,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.14255427565353934,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.0874442087934552,Long,CALL,Bearish High Volatility,bullish
+اختيارخ رويين-11000-14031226,0.08054967234063039,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.06761225488435563,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.06576809627150122,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.06009279068849546,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.05801970592774981,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.05505452860148105,Long,CALL,Bearish High Volatility,bullish
+اختيارخ خودرو-2200-1403/12/01,0.031141258708603667,Long,CALL,Bearish High Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.5869775187626375,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.5737518716122022,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.4520779118330936,Short,CALL,Bearish High Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.4308050306163882,Short,CALL,Bearish High Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.3725719946670215,Short,CALL,Bearish High Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.36871541132129537,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.35712195251979567,Short,CALL,Bearish High Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.3554068320182946,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.3516930714688477,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اهرم-26000-1403/12/22,0.34958655677241857,Short,CALL,Bearish High Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.34127154380987396,Short,PUT,Bearish High Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.2507299252602304,Short,PUT,Bearish High Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.24426466109476236,Short,PUT,Bearish High Volatility,bullish
+اختيارف اطلس-55000-14031107,0.06189172929234905,Short,PUT,Bearish High Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bullish
+اختيارف رويين-12000-14031226,-0.1344473854859616,Short,PUT,Bearish High Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.17850442426250104,Short,PUT,Bearish High Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.22019851421219847,Short,PUT,Bearish High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.14207244625709795,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.10541015473231999,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.06989204290765956,Long,CALL,Bearish High Volatility,bearish
+اختيارخ رويين-11000-14031226,0.06123022435771767,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.046971249131054355,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.045528379448529874,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.04534729095521588,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.04313166185424609,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04046008321538475,Long,CALL,Bearish High Volatility,bearish
+اختيارخ خودرو-2200-1403/12/01,0.025092895853219558,Long,CALL,Bearish High Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.8156901106269729,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.7819310132354459,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.6280028878493212,Short,CALL,Bearish High Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.5919184390376223,Short,CALL,Bearish High Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.5174766905185992,Short,CALL,Bearish High Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.5016845371873743,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.4999003675321174,Short,CALL,Bearish High Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.48844430256347243,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.4879812373001191,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اهرم-26000-1403/12/22,0.4809913224817424,Short,CALL,Bearish High Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.25020103342770206,Short,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.18448334761073057,Short,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.17833802314145913,Short,PUT,Bearish High Volatility,bearish
+اختيارف اطلس-55000-14031107,0.046148513099414486,Short,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,bearish
+اختيارف رويين-12000-14031226,-0.09812454592332633,Short,PUT,Bearish High Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.12955061587887562,Short,PUT,Bearish High Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.16049401353230341,Short,PUT,Bearish High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.15696782715252972,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.11050053163486835,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.07796328285602545,Long,CALL,Bearish High Volatility,neutral
+اختيارخ رويين-11000-14031226,0.06545807708567368,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.04935815503938815,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.048926015569082826,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.04843565339108331,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.04673821962351988,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.04648714638945366,Long,CALL,Bearish High Volatility,neutral
+اختيارخ خودرو-2200-1403/12/01,0.023872068081948226,Long,CALL,Bearish High Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.7421288961833917,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.7280071304656606,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.569732611351405,Short,CALL,Bearish High Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.5426228037114863,Short,CALL,Bearish High Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.4597867789263649,Short,CALL,Bearish High Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.4595330771684414,Short,CALL,Bearish High Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.45224375161340896,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.4517945819773123,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اهرم-20000-1403/10/26,0.44198640901633446,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اهرم-26000-1403/12/22,0.4341156282177505,Short,CALL,Bearish High Volatility,neutral
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.3111868611433241,Short,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.2284340834841462,Short,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.21987070805945227,Short,PUT,Bearish High Volatility,neutral
+اختيارف اطلس-55000-14031107,0.05655603889067177,Short,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish High Volatility,neutral
+اختيارف رويين-12000-14031226,-0.12223154270127962,Short,PUT,Bearish High Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.16247220749181618,Short,PUT,Bearish High Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.20086003149065473,Short,PUT,Bearish High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.23388820636686913,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.17676389250942875,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.1083041555363208,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ رويين-11000-14031226,0.09786239289657148,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.07450960674066696,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.07412561295218259,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.07356897247061177,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.0692198095314325,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.0673750395711047,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-19000-14040221,0.03784302893073831,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.4594910204795334,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.4503100230808059,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.3537107678475975,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.34114316237313447,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.29377225307465094,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.2854849818926671,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.2808232886660668,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.2783316419483456,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ شستا-1550-1403/12/08,0.274035030371176,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.27211709027123665,Short,CALL,Bullish Low Volatility,bullish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bullish Low Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.3977526874867477,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.29149716905903844,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.28200269066910905,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اطلس-55000-14031107,0.07312172474670625,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bullish
+اختيارف رويين-12000-14031226,-0.15806908221640287,Short,PUT,Bullish Low Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.2099290689147763,Short,PUT,Bullish Low Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.2577982334994399,Short,PUT,Bullish Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.16896840390868229,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.1332769116635712,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.08139546399989611,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ رويين-11000-14031226,0.06985998164291646,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.05928310336091212,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.05560290722286039,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.052793812974025967,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.050685601318808754,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04950290914084242,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ خودرو-2600-1404/01/06,0.028713593057884877,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.626583642811901,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.6133202185271689,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.4853198733329796,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.4548886110002441,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.40392866249151044,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.39331724468454854,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.38334859872686844,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.38052286837401555,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اهرم-26000-1403/12/22,0.3790862069095969,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.3785947641409485,Short,CALL,Bullish Low Volatility,bearish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.2893648682000855,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.2134420918885984,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.20826146338093338,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اطلس-55000-14031107,0.052460596321019105,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,bearish
+اختيارف رويين-12000-14031226,-0.1145355859503832,Short,PUT,Bullish Low Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.1514755819923145,Short,PUT,Bullish Low Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.18628541555152012,Short,PUT,Bullish Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.2018329089195691,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.1402820765086894,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.09598279862254766,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ رويين-11000-14031226,0.08545847649819424,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.0687617773930842,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.06279194881890492,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.061882037685162504,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.054267824147812026,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.05374575572106823,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ خودرو-2200-1403/12/01,0.03139717616010738,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.5858404646519778,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.5569836430033519,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.4447585739490022,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.41714010465622164,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.36280293202605446,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.3567344300940425,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اهرم-26000-1403/12/22,0.3480041419340622,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.34490486774049256,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.3429983867779118,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اهرم-20000-1403/10/26,0.3421131470188985,Short,CALL,Bullish Low Volatility,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف فولاد-4000-1403/12/01,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.3614243041966,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.267278420669289,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.2553104697916808,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اطلس-55000-14031107,0.06709398860353084,Short,PUT,Bullish Low Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bullish Low Volatility,neutral
+اختيارف رويين-12000-14031226,-0.14464870597862653,Short,PUT,Bullish Low Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.18893046538809027,Short,PUT,Bullish Low Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.2349530553132006,Short,PUT,Bullish Low Volatility,neutral
+اختيارخ بساما-4996-14040207,0.19333404821955824,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.1273679060209011,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خودران-8000-03/11/28,0.08924899176070537,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ رويين-11000-14031226,0.0855779925647045,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خودران-7500-03/11/28,0.06344696588589668,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.05798513715043712,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خودرو-2000-1403/11/03,0.05551656269360289,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خساپا-2600-1403/10/26,0.05546955818288726,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خودرو-2800-1404/01/06,0.053621381700399574,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ خودرو-2200-1403/12/01,0.03277008959806028,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ ذوب-500-1403/11/24,0.5657699201142253,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اهرم-26000-1403/11/24,0.5491756957879705,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اهرم-22000-1403/10/26,0.42880933669883753,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ فولاد-6000-1403/12/01,0.4061235787514598,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ وبملت-3250-1403/11/24,0.3501502306023042,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ شستا-1550-1403/11/10,0.349628252999351,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ شستا-1450-1403/11/10,0.3438768732881711,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اهرم-24000-1403/11/24,0.3416607446726498,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اهرم-26000-1403/12/22,0.3401620186244073,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اهرم-20000-1403/10/26,0.33715531828427786,Short,CALL,Bearish Low Volatility,bullish
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-15000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bullish
+اختيارف خودران-11000-03/11/28,0.3333246292488208,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-26000-1403/10/26,0.23885232851324098,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-26000-1403/11/24,0.23202204468287926,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اطلس-55000-14031107,0.060175061917137396,Short,PUT,Bearish Low Volatility,bullish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bullish
+اختيارف رويين-12000-14031226,-0.12907421693198753,Short,PUT,Bearish Low Volatility,bullish
+اختيارف فولاد-5500-1403/12/01,-0.1710264218900799,Short,PUT,Bearish Low Volatility,bullish
+اختيارف شپنا-4500-1403/10/12,-0.20953199823943994,Short,PUT,Bearish Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.14886960139279992,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.0981005288335683,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خودران-8000-03/11/28,0.07094772164169462,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ رويين-11000-14031226,0.05642562991532688,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خودرو-2800-1404/01/06,0.050775479525037165,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خودران-7500-03/11/28,0.04479304372628721,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خساپا-2600-1403/10/26,0.043284345125371916,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.04190322899743522,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خودرو-2000-1403/11/03,0.04059375727314678,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ خودرو-2200-1403/12/01,0.024127513546872984,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ ذوب-500-1403/11/24,0.7849973514047172,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اهرم-26000-1403/11/24,0.7438708118020716,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اهرم-22000-1403/10/26,0.6016102437714991,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ فولاد-6000-1403/12/01,0.5648285372861261,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ وبملت-3250-1403/11/24,0.48037057770627745,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ شستا-1550-1403/11/10,0.4772528566263031,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ شستا-1450-1403/11/10,0.4733283537166429,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اهرم-24000-1403/11/24,0.4678608170071081,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اهرم-20000-1403/10/26,0.46192458780902895,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اهرم-26000-1403/12/22,0.4617196606337236,Short,CALL,Bearish Low Volatility,bearish
+اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-22000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-14000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-20000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,bearish
+اختيارف خودران-11000-03/11/28,0.23806808582549066,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-26000-1403/10/26,0.1739020975646746,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-26000-1403/11/24,0.1698236684005679,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اطلس-55000-14031107,0.04398630348405764,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bearish
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,bearish
+اختيارف رويين-12000-14031226,-0.09377982559092166,Short,PUT,Bearish Low Volatility,bearish
+اختيارف فولاد-5500-1403/12/01,-0.12423458648971046,Short,PUT,Bearish Low Volatility,bearish
+اختيارف شپنا-4500-1403/10/12,-0.15262235658511433,Short,PUT,Bearish Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.15437115198144136,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.12252282171091171,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خودران-8000-03/11/28,0.07263620249960691,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ رويين-11000-14031226,0.06661360638228142,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خودران-7500-03/11/28,0.0579441264386367,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خودرو-2800-1404/01/06,0.053771391123934656,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خساپا-2600-1403/10/26,0.046511446750330185,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خودرو-2000-1403/11/03,0.04636016371919426,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.04408070047826239,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ خودرو-2600-1404/01/06,0.023380126441627878,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ ذوب-500-1403/11/24,0.7066047083928028,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ اهرم-26000-1403/11/24,0.6885991898191938,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ اهرم-22000-1403/10/26,0.5443438999643474,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ فولاد-6000-1403/12/01,0.5169668898668301,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ وبملت-3250-1403/11/24,0.4527370555878926,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ شستا-1550-1403/11/10,0.43362753237623713,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ شستا-1450-1403/11/10,0.4233617855232052,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ اهرم-24000-1403/11/24,0.42200645163413786,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ شستا-1550-1403/12/08,0.4195208739075997,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ اهرم-26000-1403/12/22,0.41837716814949705,Short,CALL,Bearish Low Volatility,neutral
+اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف خساپا-2400-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف رويين-12000-14031030,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-16000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-18000-1403/10/26,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
+اختيارف خودران-11000-03/11/28,0.2946831271331414,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-26000-1403/10/26,0.21738114945333464,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-26000-1403/11/24,0.21053278953463436,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اطلس-55000-14031107,0.05404074473029767,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-28000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,neutral
+اختيارف ذوب-600-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اهرم-30000-1403/09/28,-0.0,Short,PUT,Bearish Low Volatility,neutral
+اختيارف رويين-12000-14031226,-0.11699257843098451,Short,PUT,Bearish Low Volatility,neutral
+اختيارف فولاد-5500-1403/12/01,-0.15414846610128402,Short,PUT,Bearish Low Volatility,neutral
+اختيارف شپنا-4500-1403/10/12,-0.19000943156657538,Short,PUT,Bearish Low Volatility,neutral
