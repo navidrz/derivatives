@@ -1,1081 +1,973 @@
 OptionName,Score,Side,Type,MarketScenario,UserMarketView
-اختيارخ بساما-5829-14040207,0.0558429793167189,Long,CALL,Normal Market,bullish
-اختيارخ بساما-5413-14040207,0.025157285775506227,Long,CALL,Normal Market,bullish
-اختيارخ توان-15000-14031219,0.00899810412819023,Long,CALL,Normal Market,bullish
-اختيارخ بساما-4996-14040207,0.0016514431022466238,Long,CALL,Normal Market,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ شپنا-3250-1403/12/08,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Normal Market,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5059160297946782,Short,CALL,Normal Market,bullish
-اختيارخ شستا-1450-1403/12/08,0.4669077265067174,Short,CALL,Normal Market,bullish
-اختيارخ جهش-12000-1403/12/15,0.4231622041452586,Short,CALL,Normal Market,bullish
-اختيارخ اهرم-26000-1403/11/24,0.40099483857160423,Short,CALL,Normal Market,bullish
-اختيارخ اهرم-24000-1403/12/22,0.3799944125591214,Short,CALL,Normal Market,bullish
-اختيارخ وبملت-3250-1403/11/24,0.33670574060863717,Short,CALL,Normal Market,bullish
-اختيارخ شستا-1400-1404/01/20,0.31165591495522366,Short,CALL,Normal Market,bullish
-اختيارخ اهرم-24000-1403/11/24,0.27645549021015275,Short,CALL,Normal Market,bullish
-اختيارخ خودرو-3500-1403/12/01,0.2698441230730731,Short,CALL,Normal Market,bullish
-اختيارخ شستا-1350-1403/12/08,0.2676319051283877,Short,CALL,Normal Market,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Normal Market,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Normal Market,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Normal Market,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,bullish
-اختيارف خودرو-3500-1403/10/05,0.042023075803254345,Short,PUT,Normal Market,bullish
-اختيارف خودرو-3750-1403/10/05,0.007490643090574314,Short,PUT,Normal Market,bullish
-اختيارف آساس-45000-14031030,-0.13024101021624937,Short,PUT,Normal Market,bullish
-اختيارف خودران-11000-03/11/28,-0.1691315166189197,Short,PUT,Normal Market,bullish
-اختيارف ذوب-600-1403/11/24,-0.3543072621503009,Short,PUT,Normal Market,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Normal Market,bullish
-اختيارف شستا-950-1403/10/12,-199.9964642857143,Short,PUT,Normal Market,bullish
-اختيارف توان-17000-14031002,-199.9997949886105,Short,PUT,Normal Market,bullish
-اختيارف توان-18000-14031002,-200.00645785876992,Short,PUT,Normal Market,bullish
-اختيارف توان-19000-14031002,-200.00963553530752,Short,PUT,Normal Market,bullish
-اختيارخ بساما-5829-14040207,0.04230079908898667,Long,CALL,Normal Market,bearish
-اختيارخ بساما-5413-14040207,0.019804430083845657,Long,CALL,Normal Market,bearish
-اختيارخ توان-15000-14031219,0.007202043894742892,Long,CALL,Normal Market,bearish
-اختيارخ بساما-4996-14040207,0.0046602883436227946,Long,CALL,Normal Market,bearish
-اختيارخ توان-16000-14031219,0.0037022945686673125,Long,CALL,Normal Market,bearish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Normal Market,bearish
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Normal Market,bearish
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Normal Market,bearish
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Normal Market,bearish
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,Normal Market,bearish
-اختيارخ اهرم-26000-1403/12/22,0.704364438238277,Short,CALL,Normal Market,bearish
-اختيارخ شستا-1450-1403/12/08,0.6446043363472127,Short,CALL,Normal Market,bearish
-اختيارخ جهش-12000-1403/12/15,0.5870263169852452,Short,CALL,Normal Market,bearish
-اختيارخ اهرم-26000-1403/11/24,0.5542491604383729,Short,CALL,Normal Market,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5253270758658822,Short,CALL,Normal Market,bearish
-اختيارخ وبملت-3250-1403/11/24,0.4579713072215974,Short,CALL,Normal Market,bearish
-اختيارخ خودرو-3000-1403/11/03,0.4465622313661886,Short,CALL,Normal Market,bearish
-اختيارخ شستا-1400-1404/01/20,0.41862464435017593,Short,CALL,Normal Market,bearish
-اختيارخ اهرم-24000-1403/11/24,0.3838263316984117,Short,CALL,Normal Market,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3745688992629274,Short,CALL,Normal Market,bearish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Normal Market,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,bearish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Normal Market,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Normal Market,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Normal Market,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Normal Market,bearish
-اختيارف خودرو-3500-1403/10/05,0.030908773504949867,Short,PUT,Normal Market,bearish
-اختيارف خودرو-3750-1403/10/05,0.005746041436971536,Short,PUT,Normal Market,bearish
-اختيارف آساس-45000-14031030,-0.09473865912675261,Short,PUT,Normal Market,bearish
-اختيارف خودران-11000-03/11/28,-0.12429976980981841,Short,PUT,Normal Market,bearish
-اختيارف ذوب-600-1403/11/24,-0.2574558350705561,Short,PUT,Normal Market,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Normal Market,bearish
-اختيارف شستا-950-1403/10/12,-199.99742857142857,Short,PUT,Normal Market,bearish
-اختيارف توان-17000-14031002,-199.99985090080762,Short,PUT,Normal Market,bearish
-اختيارف توان-18000-14031002,-200.00469662455995,Short,PUT,Normal Market,bearish
-اختيارف توان-19000-14031002,-200.00700766204184,Short,PUT,Normal Market,bearish
-اختيارخ بساما-5829-14040207,0.05617758566764682,Long,CALL,Normal Market,neutral
-اختيارخ بساما-5413-14040207,0.01630967186514896,Long,CALL,Normal Market,neutral
-اختيارخ توان-15000-14031219,0.007518897225462501,Long,CALL,Normal Market,neutral
-اختيارخ بساما-4996-14040207,0.006832974069427832,Long,CALL,Normal Market,neutral
-اختيارخ توان-16000-14031219,0.002899802551664093,Long,CALL,Normal Market,neutral
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Normal Market,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Normal Market,neutral
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Normal Market,neutral
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Normal Market,neutral
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Normal Market,neutral
-اختيارخ اهرم-26000-1403/12/22,0.6339915424798604,Short,CALL,Normal Market,neutral
-اختيارخ شستا-1450-1403/12/08,0.5825090859899288,Short,CALL,Normal Market,neutral
-اختيارخ جهش-12000-1403/12/15,0.5271540550545196,Short,CALL,Normal Market,neutral
-اختيارخ اهرم-26000-1403/11/24,0.49967652128325474,Short,CALL,Normal Market,neutral
-اختيارخ اهرم-24000-1403/12/22,0.4813799239325788,Short,CALL,Normal Market,neutral
-اختيارخ وبملت-3250-1403/11/24,0.41875807184045405,Short,CALL,Normal Market,neutral
-اختيارخ خودرو-3000-1403/11/03,0.4033738907012485,Short,CALL,Normal Market,neutral
-اختيارخ شستا-1400-1404/01/20,0.3782739696668568,Short,CALL,Normal Market,neutral
-اختيارخ اهرم-24000-1403/11/24,0.35580575259671926,Short,CALL,Normal Market,neutral
-اختيارخ شستا-1500-1404/01/20,0.3365688164145597,Short,CALL,Normal Market,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Normal Market,neutral
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Normal Market,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Normal Market,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Normal Market,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Normal Market,neutral
-اختيارف خودرو-3500-1403/10/05,0.03881642282573671,Short,PUT,Normal Market,neutral
-اختيارف خودرو-3750-1403/10/05,0.00664908249572226,Short,PUT,Normal Market,neutral
-اختيارف آساس-45000-14031030,-0.11823149979721981,Short,PUT,Normal Market,neutral
-اختيارف خودران-11000-03/11/28,-0.1574216099991498,Short,PUT,Normal Market,neutral
-اختيارف ذوب-600-1403/11/24,-0.32278221034993276,Short,PUT,Normal Market,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Normal Market,neutral
-اختيارف شستا-950-1403/10/12,-199.99678571428572,Short,PUT,Normal Market,neutral
-اختيارف توان-17000-14031002,-199.9998136260095,Short,PUT,Normal Market,neutral
-اختيارف توان-18000-14031002,-200.00587078069995,Short,PUT,Normal Market,neutral
-اختيارف توان-19000-14031002,-200.0087595775523,Short,PUT,Normal Market,neutral
-اختيارخ بساما-5829-14040207,0.07470946111444961,Long,CALL,Bullish Market,bullish
-اختيارخ بساما-5413-14040207,0.032832039943097274,Long,CALL,Bullish Market,bullish
-اختيارخ توان-15000-14031219,0.010934292759033524,Long,CALL,Bullish Market,bullish
-اختيارخ بساما-4996-14040207,0.009742649701942588,Long,CALL,Bullish Market,bullish
-اختيارخ وبملت-1800-1403/11/24,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bullish Market,bullish
-اختيارخ اهرم-26000-1403/12/22,0.4629405639434574,Short,CALL,Bullish Market,bullish
-اختيارخ شستا-1450-1403/12/08,0.42142827279067135,Short,CALL,Bullish Market,bullish
-اختيارخ جهش-12000-1403/12/15,0.37812657727977617,Short,CALL,Bullish Market,bullish
-اختيارخ اهرم-26000-1403/11/24,0.3602042422279539,Short,CALL,Bullish Market,bullish
-اختيارخ اهرم-24000-1403/12/22,0.34162364270896023,Short,CALL,Bullish Market,bullish
-اختيارخ وبملت-3250-1403/11/24,0.30342861446440744,Short,CALL,Bullish Market,bullish
-اختيارخ شستا-1400-1404/01/20,0.2829278594709281,Short,CALL,Bullish Market,bullish
-اختيارخ اهرم-24000-1403/11/24,0.2531545936483388,Short,CALL,Bullish Market,bullish
-اختيارخ شستا-1500-1404/01/20,0.24474949105485042,Short,CALL,Bullish Market,bullish
-اختيارخ خودرو-3500-1403/12/01,0.24133252047135612,Short,CALL,Bullish Market,bullish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Market,bullish
-اختيارف خودرو-3500-1403/10/05,0.04619905114345698,Short,PUT,Bullish Market,bullish
-اختيارف خودرو-3750-1403/10/05,0.007120339216807402,Short,PUT,Bullish Market,bullish
-اختيارف آساس-45000-14031030,-0.14335601593696068,Short,PUT,Bullish Market,bullish
-اختيارف خودران-11000-03/11/28,-0.19054813136487625,Short,PUT,Bullish Market,bullish
-اختيارف ذوب-600-1403/11/24,-0.391171278127984,Short,PUT,Bullish Market,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Market,bullish
-اختيارف شستا-950-1403/10/12,-199.996101875,Short,PUT,Bullish Market,bullish
-اختيارف توان-17000-14031002,-199.99977397494305,Short,PUT,Bullish Market,bullish
-اختيارف توان-18000-14031002,-200.00711978929385,Short,PUT,Bullish Market,bullish
-اختيارف توان-19000-14031002,-200.01062317767654,Short,PUT,Bullish Market,bullish
-اختيارخ بساما-5829-14040207,0.05324246588139227,Long,CALL,Bullish Market,bearish
-اختيارخ بساما-5413-14040207,0.02145019923003373,Long,CALL,Bullish Market,bearish
-اختيارخ توان-15000-14031219,0.005367233480458388,Long,CALL,Bullish Market,bearish
-اختيارخ بساما-4996-14040207,0.0032858056459178168,Long,CALL,Bullish Market,bearish
-اختيارخ توان-16000-14031219,0.002609429331662838,Long,CALL,Bullish Market,bearish
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Bullish Market,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish Market,bearish
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bullish Market,bearish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bullish Market,bearish
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,Bullish Market,bearish
-اختيارخ اهرم-26000-1403/12/22,0.6319769794212985,Short,CALL,Bullish Market,bearish
-اختيارخ شستا-1450-1403/12/08,0.5803412225122915,Short,CALL,Bullish Market,bearish
-اختيارخ جهش-12000-1403/12/15,0.5255400054546762,Short,CALL,Bullish Market,bearish
-اختيارخ اهرم-26000-1403/11/24,0.4977456494094629,Short,CALL,Bullish Market,bearish
-اختيارخ اهرم-24000-1403/12/22,0.4676693537494368,Short,CALL,Bullish Market,bearish
-اختيارخ وبملت-3250-1403/11/24,0.41587632199086844,Short,CALL,Bullish Market,bearish
-اختيارخ شستا-1400-1404/01/20,0.3782779842849155,Short,CALL,Bullish Market,bearish
-اختيارخ اهرم-24000-1403/11/24,0.34830154187739576,Short,CALL,Bullish Market,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3293630053094216,Short,CALL,Bullish Market,bearish
-اختيارخ شستا-1350-1403/12/08,0.3292706426851146,Short,CALL,Bullish Market,bearish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bullish Market,bearish
-اختيارف خودرو-3500-1403/10/05,0.03429737728440988,Short,PUT,Bullish Market,bearish
-اختيارف خودرو-3750-1403/10/05,0.0057625043826251875,Short,PUT,Bullish Market,bearish
-اختيارف آساس-45000-14031030,-0.10444475292172883,Short,PUT,Bullish Market,bearish
-اختيارف خودران-11000-03/11/28,-0.13979425327053813,Short,PUT,Bullish Market,bearish
-اختيارف ذوب-600-1403/11/24,-0.28354613224538666,Short,PUT,Bullish Market,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Market,bearish
-اختيارف شستا-950-1403/10/12,-199.997165,Short,PUT,Bullish Market,bearish
-اختيارف توان-17000-14031002,-199.9998356181404,Short,PUT,Bullish Market,bearish
-اختيارف توان-18000-14031002,-200.00517802857735,Short,PUT,Bullish Market,bearish
-اختيارف توان-19000-14031002,-200.00772594740113,Short,PUT,Bullish Market,bearish
-اختيارخ بساما-5829-14040207,0.06535834275604498,Long,CALL,Bullish Market,neutral
-اختيارخ بساما-5413-14040207,0.02509196770975081,Long,CALL,Bullish Market,neutral
-اختيارخ توان-15000-14031219,0.008258114870482421,Long,CALL,Bullish Market,neutral
-اختيارخ بساما-4996-14040207,0.0047550642981608274,Long,CALL,Bullish Market,neutral
-اختيارخ توان-16000-14031219,0.0005455114060636305,Long,CALL,Bullish Market,neutral
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,Bullish Market,neutral
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bullish Market,neutral
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,Bullish Market,neutral
-اختيارخ شستا-1650-1403/11/10,-0.0,Long,CALL,Bullish Market,neutral
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bullish Market,neutral
-اختيارخ اهرم-26000-1403/12/22,0.5753406788267205,Short,CALL,Bullish Market,neutral
-اختيارخ شستا-1450-1403/12/08,0.5217062406543194,Short,CALL,Bullish Market,neutral
-اختيارخ جهش-12000-1403/12/15,0.4752433667702446,Short,CALL,Bullish Market,neutral
-اختيارخ اهرم-26000-1403/11/24,0.44673344040316293,Short,CALL,Bullish Market,neutral
-اختيارخ اهرم-24000-1403/12/22,0.4395304224925485,Short,CALL,Bullish Market,neutral
-اختيارخ وبملت-3250-1403/11/24,0.38246183552252094,Short,CALL,Bullish Market,neutral
-اختيارخ شستا-1400-1404/01/20,0.3324145195052632,Short,CALL,Bullish Market,neutral
-اختيارخ اهرم-24000-1403/11/24,0.31616143218634873,Short,CALL,Bullish Market,neutral
-اختيارخ خودرو-3500-1403/12/01,0.3037290222109308,Short,CALL,Bullish Market,neutral
-اختيارخ شستا-1350-1403/12/08,0.29359605399433014,Short,CALL,Bullish Market,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Market,neutral
-اختيارف خودرو-3500-1403/10/05,0.042728111716007634,Short,PUT,Bullish Market,neutral
-اختيارف خودرو-3750-1403/10/05,0.006941286936456672,Short,PUT,Bullish Market,neutral
-اختيارف آساس-45000-14031030,-0.13051957968829586,Short,PUT,Bullish Market,neutral
-اختيارف خودران-11000-03/11/28,-0.1734750920890685,Short,PUT,Bullish Market,neutral
-اختيارف ذوب-600-1403/11/24,-0.35218797196639073,Short,PUT,Bullish Market,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Market,neutral
-اختيارف شستا-950-1403/10/12,-199.99645625,Short,PUT,Bullish Market,neutral
-اختيارف توان-17000-14031002,-199.9997945226755,Short,PUT,Bullish Market,neutral
-اختيارف توان-18000-14031002,-200.00647253572168,Short,PUT,Bullish Market,neutral
-اختيارف توان-19000-14031002,-200.0096574342514,Short,PUT,Bullish Market,neutral
-اختيارخ بساما-5829-14040207,0.07300110416617,Long,CALL,Bearish Market,bullish
-اختيارخ بساما-5413-14040207,0.03122864108579852,Long,CALL,Bearish Market,bullish
-اختيارخ توان-15000-14031219,0.006359735807379218,Long,CALL,Bearish Market,bullish
-اختيارخ بساما-4996-14040207,0.003996475872116935,Long,CALL,Bearish Market,bullish
-اختيارخ توان-16000-14031219,0.0004029182156772874,Long,CALL,Bearish Market,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish Market,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bearish Market,bullish
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Bearish Market,bullish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bearish Market,bullish
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bearish Market,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5594124243933921,Short,CALL,Bearish Market,bullish
-اختيارخ شستا-1450-1403/12/08,0.5081256118833535,Short,CALL,Bearish Market,bullish
-اختيارخ جهش-12000-1403/12/15,0.46564201085989865,Short,CALL,Bearish Market,bullish
-اختيارخ اهرم-26000-1403/11/24,0.44123621484255526,Short,CALL,Bearish Market,bullish
-اختيارخ اهرم-24000-1403/12/22,0.42120295140530517,Short,CALL,Bearish Market,bullish
-اختيارخ وبملت-3250-1403/11/24,0.36905583891998456,Short,CALL,Bearish Market,bullish
-اختيارخ شستا-1400-1404/01/20,0.34004412997568195,Short,CALL,Bearish Market,bullish
-اختيارخ اهرم-24000-1403/11/24,0.3106343630762103,Short,CALL,Bearish Market,bullish
-اختيارخ خودرو-3500-1403/12/01,0.3006277357752579,Short,CALL,Bearish Market,bullish
-اختيارخ شستا-1500-1404/01/20,0.2964593253377127,Short,CALL,Bearish Market,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Market,bullish
-اختيارف خودرو-3500-1403/10/05,0.03829297469000366,Short,PUT,Bearish Market,bullish
-اختيارف خودرو-3750-1403/10/05,0.0073106418733477774,Short,PUT,Bearish Market,bullish
-اختيارف آساس-45000-14031030,-0.11719118618603452,Short,PUT,Bearish Market,bullish
-اختيارف خودران-11000-03/11/28,-0.15280735070323326,Short,PUT,Bearish Market,bullish
-اختيارف ذوب-600-1403/11/24,-0.31653407287150065,Short,PUT,Bearish Market,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Market,bullish
-اختيارف شستا-950-1403/10/12,-199.99681785714284,Short,PUT,Bearish Market,bullish
-اختيارف توان-17000-14031002,-199.99981548974944,Short,PUT,Bearish Market,bullish
-اختيارف توان-18000-14031002,-200.00581207289295,Short,PUT,Bearish Market,bullish
-اختيارف توان-19000-14031002,-200.00867198177676,Short,PUT,Bearish Market,bullish
-اختيارخ بساما-5829-14040207,0.0440122254195208,Long,CALL,Bearish Market,bearish
-اختيارخ بساما-5413-14040207,0.02231321238970178,Long,CALL,Bearish Market,bearish
-اختيارخ توان-15000-14031219,0.0055795953363890335,Long,CALL,Bearish Market,bearish
-اختيارخ بساما-4996-14040207,0.001696101090772619,Long,CALL,Bearish Market,bearish
-اختيارخ توان-16000-14031219,0.00027145486815450886,Long,CALL,Bearish Market,bearish
-اختيارخ شپنا-3250-1403/12/08,-0.0,Long,CALL,Bearish Market,bearish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bearish Market,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish Market,bearish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bearish Market,bearish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Bearish Market,bearish
-اختيارخ اهرم-26000-1403/12/22,0.7792747694900749,Short,CALL,Bearish Market,bearish
-اختيارخ شستا-1450-1403/12/08,0.70259498611029,Short,CALL,Bearish Market,bearish
-اختيارخ جهش-12000-1403/12/15,0.6307893531018592,Short,CALL,Bearish Market,bearish
-اختيارخ اهرم-26000-1403/11/24,0.605769965229894,Short,CALL,Bearish Market,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5764363444047463,Short,CALL,Bearish Market,bearish
-اختيارخ وبملت-3250-1403/11/24,0.510336795159895,Short,CALL,Bearish Market,bearish
-اختيارخ خودرو-3000-1403/11/03,0.4887389657730802,Short,CALL,Bearish Market,bearish
-اختيارخ شستا-1400-1404/01/20,0.4705642246712695,Short,CALL,Bearish Market,bearish
-اختيارخ اهرم-24000-1403/11/24,0.42675309010213847,Short,CALL,Bearish Market,bearish
-اختيارخ خودرو-3500-1403/12/01,0.4070422640085233,Short,CALL,Bearish Market,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Market,bearish
-اختيارف خودرو-3500-1403/10/05,0.02825225836847556,Short,PUT,Bearish Market,bearish
-اختيارف خودرو-3750-1403/10/05,0.004033218266879967,Short,PUT,Bearish Market,bearish
-اختيارف آساس-45000-14031030,-0.08522698741356466,Short,PUT,Bearish Market,bearish
-اختيارف خودران-11000-03/11/28,-0.10940379204900703,Short,PUT,Bearish Market,bearish
-اختيارف ذوب-600-1403/11/24,-0.2300667115877009,Short,PUT,Bearish Market,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Market,bearish
-اختيارف شستا-950-1403/10/12,-199.99768571428572,Short,PUT,Bearish Market,bearish
-اختيارف توان-17000-14031002,-199.99986581072685,Short,PUT,Bearish Market,bearish
-اختيارف توان-18000-14031002,-200.00422696210396,Short,PUT,Bearish Market,bearish
-اختيارف توان-19000-14031002,-200.00630689583764,Short,PUT,Bearish Market,bearish
-اختيارخ بساما-5829-14040207,0.049394906933255746,Long,CALL,Bearish Market,neutral
-اختيارخ بساما-5413-14040207,0.02358212878653292,Long,CALL,Bearish Market,neutral
-اختيارخ توان-15000-14031219,0.006133470322586734,Long,CALL,Bearish Market,neutral
-اختيارخ بساما-4996-14040207,0.0049764514120454436,Long,CALL,Bearish Market,neutral
-اختيارخ توان-16000-14031219,0.00026865492847554456,Long,CALL,Bearish Market,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish Market,neutral
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,Bearish Market,neutral
-اختيارخ شپنا-3250-1403/12/08,-0.0,Long,CALL,Bearish Market,neutral
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Bearish Market,neutral
-اختيارخ كوثر-1300-14031121,-0.0,Long,CALL,Bearish Market,neutral
-اختيارخ اهرم-26000-1403/12/22,0.7053389224190046,Short,CALL,Bearish Market,neutral
-اختيارخ شستا-1450-1403/12/08,0.640607116466476,Short,CALL,Bearish Market,neutral
-اختيارخ جهش-12000-1403/12/15,0.5840494155767678,Short,CALL,Bearish Market,neutral
-اختيارخ اهرم-26000-1403/11/24,0.5565073161882934,Short,CALL,Bearish Market,neutral
-اختيارخ اهرم-24000-1403/12/22,0.5308879004835854,Short,CALL,Bearish Market,neutral
-اختيارخ وبملت-3250-1403/11/24,0.46391590175680875,Short,CALL,Bearish Market,neutral
-اختيارخ خودرو-3000-1403/11/03,0.4446111149347483,Short,CALL,Bearish Market,neutral
-اختيارخ شستا-1400-1404/01/20,0.4334215107367642,Short,CALL,Bearish Market,neutral
-اختيارخ اهرم-24000-1403/11/24,0.3875334225944224,Short,CALL,Bearish Market,neutral
-اختيارخ شستا-1500-1404/01/20,0.37445850790649216,Short,CALL,Bearish Market,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Market,neutral
-اختيارف خودرو-3500-1403/10/05,0.034661267374626284,Short,PUT,Bearish Market,neutral
-اختيارف خودرو-3750-1403/10/05,0.0064897870348028215,Short,PUT,Bearish Market,neutral
-اختيارف آساس-45000-14031030,-0.1065896348413284,Short,PUT,Bearish Market,neutral
-اختيارف خودران-11000-03/11/28,-0.13739547993699164,Short,PUT,Bearish Market,neutral
-اختيارف ذوب-600-1403/11/24,-0.2889962004042052,Short,PUT,Bearish Market,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Market,neutral
-اختيارف شستا-950-1403/10/12,-199.99710714285715,Short,PUT,Bearish Market,neutral
-اختيارف توان-17000-14031002,-199.99983226340856,Short,PUT,Bearish Market,neutral
-اختيارف توان-18000-14031002,-200.00528370262995,Short,PUT,Bearish Market,neutral
-اختيارف توان-19000-14031002,-200.00788361979707,Short,PUT,Bearish Market,neutral
-اختيارخ بساما-5829-14040207,0.06729283524026057,Long,CALL,High Volatility,bullish
-اختيارخ بساما-5413-14040207,0.027903042953222393,Long,CALL,High Volatility,bullish
-اختيارخ بساما-4996-14040207,0.006587122279105945,Long,CALL,High Volatility,bullish
-اختيارخ توان-15000-14031219,0.00613172507030475,Long,CALL,High Volatility,bullish
-اختيارخ شپنا-3250-1403/12/08,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,High Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5336165161788005,Short,CALL,High Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.4881065454350343,Short,CALL,High Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.4409120583856891,Short,CALL,High Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.41865551531339684,Short,CALL,High Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.4059938120375618,Short,CALL,High Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.3506184893414497,Short,CALL,High Volatility,bullish
-اختيارخ خودرو-3000-1403/11/03,0.3396551597923641,Short,CALL,High Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.32784312530212434,Short,CALL,High Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.2937472752689872,Short,CALL,High Volatility,bullish
-اختيارخ شستا-1500-1404/01/20,0.2842969542650205,Short,CALL,High Volatility,bullish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,High Volatility,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,High Volatility,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,High Volatility,bullish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,High Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,High Volatility,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,High Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.04464489675317093,Short,PUT,High Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.007038525501109211,Short,PUT,High Volatility,bullish
-اختيارف آساس-45000-14031030,-0.13635702596971302,Short,PUT,High Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.17889440546375857,Short,PUT,High Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.36859787672702765,Short,PUT,High Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,High Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.9962875,Short,PUT,High Volatility,bullish
-اختيارف توان-17000-14031002,-199.999784738041,Short,PUT,High Volatility,bullish
-اختيارف توان-18000-14031002,-200.00678075170842,Short,PUT,High Volatility,bullish
-اختيارف توان-19000-14031002,-200.01011731207288,Short,PUT,High Volatility,bullish
-اختيارخ بساما-5829-14040207,0.0500438472949571,Long,CALL,High Volatility,bearish
-اختيارخ بساما-5413-14040207,0.01957678493086888,Long,CALL,High Volatility,bearish
-اختيارخ توان-15000-14031219,0.006749463875364802,Long,CALL,High Volatility,bearish
-اختيارخ بساما-4996-14040207,0.0009071355114398785,Long,CALL,High Volatility,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ شپنا-3250-1403/12/08,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ ذوب-1000-1403/11/24,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ كوثر-1300-14031121,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ بساما-3747-14031205,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,High Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.7296657211800306,Short,CALL,High Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.6716130933330051,Short,CALL,High Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.6138833775345626,Short,CALL,High Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.5688239085023246,Short,CALL,High Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5502991627776942,Short,CALL,High Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.4863008011496063,Short,CALL,High Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.4376317334607364,Short,CALL,High Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.4090142313777219,Short,CALL,High Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3945185813723917,Short,CALL,High Volatility,bearish
-اختيارخ شستا-1500-1404/01/20,0.3808951775060411,Short,CALL,High Volatility,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,High Volatility,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,High Volatility,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,High Volatility,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,High Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,High Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,High Volatility,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,High Volatility,bearish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,High Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.03263357590752885,Short,PUT,High Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.00560197650254229,Short,PUT,High Volatility,bearish
-اختيارف آساس-45000-14031030,-0.0992525829882988,Short,PUT,High Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.13260546447425228,Short,PUT,High Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.2675940679782477,Short,PUT,High Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,High Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.9973,Short,PUT,High Volatility,bearish
-اختيارف توان-17000-14031002,-199.999843445848,Short,PUT,High Volatility,bearish
-اختيارف توان-18000-14031002,-200.00493145578795,Short,PUT,High Volatility,bearish
-اختيارف توان-19000-14031002,-200.00735804514392,Short,PUT,High Volatility,bearish
-اختيارخ بساما-5829-14040207,0.055604698477131835,Long,CALL,High Volatility,neutral
-اختيارخ بساما-5413-14040207,0.019974119123585213,Long,CALL,High Volatility,neutral
-اختيارخ بساما-4996-14040207,0.007993345094280409,Long,CALL,High Volatility,neutral
-اختيارخ توان-15000-14031219,0.004841492194582728,Long,CALL,High Volatility,neutral
-اختيارخ توان-16000-14031219,0.0009419280995753006,Long,CALL,High Volatility,neutral
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,High Volatility,neutral
-اختيارخ خودرو-3500-1403/11/03,-0.0,Long,CALL,High Volatility,neutral
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,High Volatility,neutral
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,High Volatility,neutral
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,High Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.6635499482376129,Short,CALL,High Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.6087339953293717,Short,CALL,High Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.5521613649290605,Short,CALL,High Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.5220066444884004,Short,CALL,High Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.5089419498446957,Short,CALL,High Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.4398446132324795,Short,CALL,High Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.39773544397961813,Short,CALL,High Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.3698926825872723,Short,CALL,High Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.35100330287133924,Short,CALL,High Volatility,neutral
-اختيارخ شستا-1500-1404/01/20,0.3434897420317023,Short,CALL,High Volatility,neutral
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,High Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,High Volatility,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,High Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.04024609864180894,Short,PUT,High Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.006861894096372938,Short,PUT,High Volatility,neutral
-اختيارف آساس-45000-14031030,-0.12427026654723539,Short,PUT,High Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.16307700882136722,Short,PUT,High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.3370251118720517,Short,PUT,High Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,High Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.996625,Short,PUT,High Volatility,neutral
-اختيارف توان-17000-14031002,-199.99980430731,Short,PUT,High Volatility,neutral
-اختيارف توان-18000-14031002,-200.00616431973492,Short,PUT,High Volatility,neutral
-اختيارف توان-19000-14031002,-200.0091975564299,Short,PUT,High Volatility,neutral
-اختيارخ بساما-5829-14040207,0.06387251525046916,Long,CALL,Low Volatility,bullish
-اختيارخ بساما-5413-14040207,0.0229397656216398,Long,CALL,Low Volatility,bullish
-اختيارخ بساما-4996-14040207,0.012229645047742098,Long,CALL,Low Volatility,bullish
-اختيارخ توان-15000-14031219,0.008235491791309826,Long,CALL,Low Volatility,bullish
-اختيارخ توان-16000-14031219,0.0023706593440487884,Long,CALL,Low Volatility,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Low Volatility,bullish
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Low Volatility,bullish
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Low Volatility,bullish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Low Volatility,bullish
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Low Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5073299746640033,Short,CALL,Low Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.4623160474196042,Short,CALL,Low Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.42250779332085947,Short,CALL,Low Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.39937501093327166,Short,CALL,Low Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.3814924622992509,Short,CALL,Low Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.33440579073049176,Short,CALL,Low Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.3053635307236592,Short,CALL,Low Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.28455139529230317,Short,CALL,Low Volatility,bullish
-اختيارخ خودرو-3500-1403/12/01,0.2725763914994069,Short,CALL,Low Volatility,bullish
-اختيارخ شستا-1500-1404/01/20,0.26442696158001305,Short,CALL,Low Volatility,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Low Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.04215481821359797,Short,PUT,Low Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.007297185170431366,Short,PUT,Low Volatility,bullish
-اختيارف آساس-45000-14031030,-0.1301816035057512,Short,PUT,Low Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.17043922660747812,Short,PUT,Low Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.35368042525341464,Short,PUT,Low Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Low Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.9964642857143,Short,PUT,Low Volatility,bullish
-اختيارف توان-17000-14031002,-199.9997949886105,Short,PUT,Low Volatility,bullish
-اختيارف توان-18000-14031002,-200.00645785876992,Short,PUT,Low Volatility,bullish
-اختيارف توان-19000-14031002,-200.00963553530752,Short,PUT,Low Volatility,bullish
-اختيارخ بساما-5829-14040207,0.04623006468200059,Long,CALL,Low Volatility,bearish
-اختيارخ بساما-5413-14040207,0.02070069064818241,Long,CALL,Low Volatility,bearish
-اختيارخ توان-15000-14031219,0.008066617755848635,Long,CALL,Low Volatility,bearish
-اختيارخ بساما-4996-14040207,0.00421500495446296,Long,CALL,Low Volatility,bearish
-اختيارخ توان-16000-14031219,0.0013299023745802134,Long,CALL,Low Volatility,bearish
-اختيارخ ذوب-700-1403/11/24,-0.0,Long,CALL,Low Volatility,bearish
-اختيارخ ذوب-800-1403/11/24,-0.0,Long,CALL,Low Volatility,bearish
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Low Volatility,bearish
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Low Volatility,bearish
-اختيارخ ذوب-600-1403/11/24,-0.0,Long,CALL,Low Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.6912415188603368,Short,CALL,Low Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.6341668234369819,Short,CALL,Low Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.5715298922036455,Short,CALL,Low Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.5506289923846093,Short,CALL,Low Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5285573686002315,Short,CALL,Low Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.46206222580621265,Short,CALL,Low Volatility,bearish
-اختيارخ خودرو-3000-1403/11/03,0.44045800164576476,Short,CALL,Low Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.42147208156390237,Short,CALL,Low Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.38220919956075644,Short,CALL,Low Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3771809913902116,Short,CALL,Low Volatility,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Low Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.03083148448908848,Short,PUT,Low Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.005470207145108318,Short,PUT,Low Volatility,bearish
-اختيارف آساس-45000-14031030,-0.09477825486394288,Short,PUT,Low Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.12440537171652138,Short,PUT,Low Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.2529547774462152,Short,PUT,Low Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Low Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.99742857142857,Short,PUT,Low Volatility,bearish
-اختيارف توان-17000-14031002,-199.99985090080762,Short,PUT,Low Volatility,bearish
-اختيارف توان-18000-14031002,-200.00469662455995,Short,PUT,Low Volatility,bearish
-اختيارف توان-19000-14031002,-200.00700766204184,Short,PUT,Low Volatility,bearish
-اختيارخ بساما-5829-14040207,0.05494761214392003,Long,CALL,Low Volatility,neutral
-اختيارخ بساما-5413-14040207,0.016526867099559677,Long,CALL,Low Volatility,neutral
-اختيارخ بساما-4996-14040207,0.00766396590252007,Long,CALL,Low Volatility,neutral
-اختيارخ توان-15000-14031219,0.005600569672757352,Long,CALL,Low Volatility,neutral
-اختيارخ توان-16000-14031219,0.00142652641309292,Long,CALL,Low Volatility,neutral
-اختيارخ وبصادر-1600-1403/11/17,-0.0,Long,CALL,Low Volatility,neutral
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,Low Volatility,neutral
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Low Volatility,neutral
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Low Volatility,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Low Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.6283601581338861,Short,CALL,Low Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.5840082280570849,Short,CALL,Low Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.5269859364333738,Short,CALL,Low Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.499326645446715,Short,CALL,Low Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.4729697696063692,Short,CALL,Low Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.4197451534165454,Short,CALL,Low Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.3822060637340607,Short,CALL,Low Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.34601686509066854,Short,CALL,Low Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.33467502059537063,Short,CALL,Low Volatility,neutral
-اختيارخ شستا-1500-1404/01/20,0.3299823623707864,Short,CALL,Low Volatility,neutral
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Low Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.03857293449748494,Short,PUT,Low Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.005958652595531744,Short,PUT,Low Volatility,neutral
-اختيارف آساس-45000-14031030,-0.11815271101660553,Short,PUT,Low Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.15129215339882252,Short,PUT,Low Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.31898790222993306,Short,PUT,Low Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Low Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.99678571428572,Short,PUT,Low Volatility,neutral
-اختيارف توان-17000-14031002,-199.9998136260095,Short,PUT,Low Volatility,neutral
-اختيارف توان-18000-14031002,-200.00587078069995,Short,PUT,Low Volatility,neutral
-اختيارف توان-19000-14031002,-200.0087595775523,Short,PUT,Low Volatility,neutral
-اختيارخ بساما-5829-14040207,0.06897446054244864,Long,CALL,Bullish High Volatility,bullish
-اختيارخ بساما-5413-14040207,0.03252177217123036,Long,CALL,Bullish High Volatility,bullish
-اختيارخ توان-15000-14031219,0.008031937502905819,Long,CALL,Bullish High Volatility,bullish
-اختيارخ بساما-4996-14040207,0.004920484248872907,Long,CALL,Bullish High Volatility,bullish
-اختيارخ توان-16000-14031219,0.0005877139554996039,Long,CALL,Bullish High Volatility,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bullish High Volatility,bullish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bullish High Volatility,bullish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Bullish High Volatility,bullish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bullish High Volatility,bullish
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Bullish High Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.48009187938398495,Short,CALL,Bullish High Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.4384730628499109,Short,CALL,Bullish High Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.3981920993476333,Short,CALL,Bullish High Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.3784473025380763,Short,CALL,Bullish High Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.35576573868905836,Short,CALL,Bullish High Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.31755047552860216,Short,CALL,Bullish High Volatility,bullish
-اختيارخ خودرو-3000-1403/11/03,0.30496905474100167,Short,CALL,Bullish High Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.2866496262328923,Short,CALL,Bullish High Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.26600356930336133,Short,CALL,Bullish High Volatility,bullish
-اختيارخ خودرو-3500-1403/12/01,0.2545419719832368,Short,CALL,Bullish High Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.04902433369446523,Short,PUT,Bullish High Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.008476922733922879,Short,PUT,Bullish High Volatility,bullish
-اختيارف آساس-45000-14031030,-0.1504548653135464,Short,PUT,Bullish High Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.2012453106288683,Short,PUT,Bullish High Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.4077248334806918,Short,PUT,Bullish High Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish High Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.99590696875,Short,PUT,Bullish High Volatility,bullish
-اختيارف توان-17000-14031002,-199.9997626736902,Short,PUT,Bullish High Volatility,bullish
-اختيارف توان-18000-14031002,-200.00747577875853,Short,PUT,Bullish High Volatility,bullish
-اختيارف توان-19000-14031002,-200.01115433656037,Short,PUT,Bullish High Volatility,bullish
-اختيارخ بساما-5829-14040207,0.04863003665456084,Long,CALL,Bullish High Volatility,bearish
-اختيارخ بساما-5413-14040207,0.02263468675791332,Long,CALL,Bullish High Volatility,bearish
-اختيارخ توان-15000-14031219,0.007179926118747126,Long,CALL,Bullish High Volatility,bearish
-اختيارخ توان-16000-14031219,0.004646602399111141,Long,CALL,Bullish High Volatility,bearish
-اختيارخ بساما-4996-14040207,0.001283400603895636,Long,CALL,Bullish High Volatility,bearish
-اختيارخ ذوب-800-1403/11/24,-0.0,Long,CALL,Bullish High Volatility,bearish
-اختيارخ ذوب-700-1403/11/24,-0.0,Long,CALL,Bullish High Volatility,bearish
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Bullish High Volatility,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish High Volatility,bearish
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bullish High Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.6529039698112216,Short,CALL,Bullish High Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.6066229163152832,Short,CALL,Bullish High Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.5513300513351607,Short,CALL,Bullish High Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.5237496762802162,Short,CALL,Bullish High Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5038912764155508,Short,CALL,Bullish High Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.436557584083337,Short,CALL,Bullish High Volatility,bearish
-اختيارخ خودرو-3000-1403/11/03,0.41983310220224634,Short,CALL,Bullish High Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.39732398033988187,Short,CALL,Bullish High Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.3594877714537089,Short,CALL,Bullish High Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3502038540717257,Short,CALL,Bullish High Volatility,bearish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.03604135376691601,Short,PUT,Bullish High Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.006696485577443059,Short,PUT,Bullish High Volatility,bearish
-اختيارف آساس-45000-14031030,-0.10946414052552293,Short,PUT,Bullish High Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.14315498482470487,Short,PUT,Bullish High Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.30043560889351767,Short,PUT,Bullish High Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish High Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.99702325,Short,PUT,Bullish High Volatility,bearish
-اختيارف توان-17000-14031002,-199.99982739904743,Short,PUT,Bullish High Volatility,bearish
-اختيارف توان-18000-14031002,-200.00543693000623,Short,PUT,Bullish High Volatility,bearish
-اختيارف توان-19000-14031002,-200.00811224477118,Short,PUT,Bullish High Volatility,bearish
-اختيارخ بساما-5829-14040207,0.06886898271522611,Long,CALL,Bullish High Volatility,neutral
-اختيارخ بساما-5413-14040207,0.025215709907036157,Long,CALL,Bullish High Volatility,neutral
-اختيارخ توان-15000-14031219,0.008636027105176153,Long,CALL,Bullish High Volatility,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ خپارس-650-14031114,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,Bullish High Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.5957203149701251,Short,CALL,Bullish High Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.5475300847232571,Short,CALL,Bullish High Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.4973471178887324,Short,CALL,Bullish High Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.4710007476807334,Short,CALL,Bullish High Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.45291512722031213,Short,CALL,Bullish High Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.4016256747326055,Short,CALL,Bullish High Volatility,neutral
-اختيارخ خودرو-3000-1403/11/03,0.38296231641475204,Short,CALL,Bullish High Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.36811737478185746,Short,CALL,Bullish High Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.336726080798597,Short,CALL,Bullish High Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.32226290872668717,Short,CALL,Bullish High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.045262104598303536,Short,PUT,Bullish High Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.007675492823055112,Short,PUT,Bullish High Volatility,neutral
-اختيارف آساس-45000-14031030,-0.13701656391727346,Short,PUT,Bullish High Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.18314386548273545,Short,PUT,Bullish High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.36889997435934974,Short,PUT,Bullish High Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish High Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.9962790625,Short,PUT,Bullish High Volatility,neutral
-اختيارف توان-17000-14031002,-199.99978424880928,Short,PUT,Bullish High Volatility,neutral
-اختيارف توان-18000-14031002,-200.00679616250775,Short,PUT,Bullish High Volatility,neutral
-اختيارف توان-19000-14031002,-200.01014030596397,Short,PUT,Bullish High Volatility,neutral
-اختيارخ بساما-5829-14040207,0.05751482109542875,Long,CALL,Bearish High Volatility,bullish
-اختيارخ بساما-5413-14040207,0.023593148371319005,Long,CALL,Bearish High Volatility,bullish
-اختيارخ بساما-4996-14040207,0.009036233637941824,Long,CALL,Bearish High Volatility,bullish
-اختيارخ توان-15000-14031219,0.007615510759855794,Long,CALL,Bearish High Volatility,bullish
-اختيارخ توان-16000-14031219,0.00031904606260261794,Long,CALL,Bearish High Volatility,bullish
-اختيارخ ذوب-700-1403/11/24,-0.0,Long,CALL,Bearish High Volatility,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish High Volatility,bullish
-اختيارخ ذوب-800-1403/11/24,-0.0,Long,CALL,Bearish High Volatility,bullish
-اختيارخ شستا-1650-1403/11/10,-0.0,Long,CALL,Bearish High Volatility,bullish
-اختيارخ ذوب-900-1403/11/24,-0.0,Long,CALL,Bearish High Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5875696391008279,Short,CALL,Bearish High Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.5355410222174604,Short,CALL,Bearish High Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.4920122530619235,Short,CALL,Bearish High Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.4633424819555631,Short,CALL,Bearish High Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.4436647505212606,Short,CALL,Bearish High Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.390277581665656,Short,CALL,Bearish High Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.3565220617126226,Short,CALL,Bearish High Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.3289315246492927,Short,CALL,Bearish High Volatility,bullish
-اختيارخ خودرو-3500-1403/12/01,0.3143641221443518,Short,CALL,Bearish High Volatility,bullish
-اختيارخ شستا-1350-1403/12/08,0.3105334347077597,Short,CALL,Bearish High Volatility,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف آساس-45000-14031030,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.040229065483372926,Short,PUT,Bearish High Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.006485728141432797,Short,PUT,Bearish High Volatility,bullish
-اختيارف آساس-45000-14031030,-0.12290428402180886,Short,PUT,Bearish High Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.16019913666206928,Short,PUT,Bearish High Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.333977530601071,Short,PUT,Bearish High Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish High Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.99665875,Short,PUT,Bearish High Volatility,bullish
-اختيارف توان-17000-14031002,-199.9998062642369,Short,PUT,Bearish High Volatility,bullish
-اختيارف توان-18000-14031002,-200.00610267653758,Short,PUT,Bearish High Volatility,bullish
-اختيارف توان-19000-14031002,-200.0091055808656,Short,PUT,Bearish High Volatility,bullish
-اختيارخ بساما-5829-14040207,0.03807675329635228,Long,CALL,Bearish High Volatility,bearish
-اختيارخ بساما-5413-14040207,0.015386537088730995,Long,CALL,Bearish High Volatility,bearish
-اختيارخ توان-15000-14031219,0.00517222922967207,Long,CALL,Bearish High Volatility,bearish
-اختيارخ بساما-4996-14040207,0.004996200551878331,Long,CALL,Bearish High Volatility,bearish
-اختيارخ توان-16000-14031219,0.0004194978394023245,Long,CALL,Bearish High Volatility,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish High Volatility,bearish
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,Bearish High Volatility,bearish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bearish High Volatility,bearish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bearish High Volatility,bearish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Bearish High Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.8070677212788697,Short,CALL,Bearish High Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.7425078006676358,Short,CALL,Bearish High Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.6786733562195073,Short,CALL,Bearish High Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.6350565180793211,Short,CALL,Bearish High Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.6028739196605055,Short,CALL,Bearish High Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.5294307739462383,Short,CALL,Bearish High Volatility,bearish
-اختيارخ خودرو-3000-1403/11/03,0.5176149890699588,Short,CALL,Bearish High Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.48505753512531735,Short,CALL,Bearish High Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.44862373636348446,Short,CALL,Bearish High Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.4329495697821509,Short,CALL,Bearish High Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.028910369048241437,Short,PUT,Bearish High Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.005044799804179597,Short,PUT,Bearish High Volatility,bearish
-اختيارف آساس-45000-14031030,-0.08931057757992834,Short,PUT,Bearish High Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.11813360731127438,Short,PUT,Bearish High Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.24289174015171433,Short,PUT,Bearish High Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish High Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.99757,Short,PUT,Bearish High Volatility,bearish
-اختيارف توان-17000-14031002,-199.9998591012632,Short,PUT,Bearish High Volatility,bearish
-اختيارف توان-18000-14031002,-200.00443831020917,Short,PUT,Bearish High Volatility,bearish
-اختيارف توان-19000-14031002,-200.00662224062953,Short,PUT,Bearish High Volatility,bearish
-اختيارخ بساما-5829-14040207,0.049115217392123545,Long,CALL,Bearish High Volatility,neutral
-اختيارخ بساما-5413-14040207,0.01630426363676741,Long,CALL,Bearish High Volatility,neutral
-اختيارخ توان-15000-14031219,0.005827703926900904,Long,CALL,Bearish High Volatility,neutral
-اختيارخ بساما-4996-14040207,0.004035817080793464,Long,CALL,Bearish High Volatility,neutral
-اختيارخ توان-16000-14031219,0.003361061819437199,Long,CALL,Bearish High Volatility,neutral
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bearish High Volatility,neutral
-اختيارخ شستا-1650-1403/11/10,-0.0,Long,CALL,Bearish High Volatility,neutral
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bearish High Volatility,neutral
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Bearish High Volatility,neutral
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bearish High Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.734514439079166,Short,CALL,Bearish High Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.6687772539525695,Short,CALL,Bearish High Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.6083881087283189,Short,CALL,Bearish High Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.5768739916204644,Short,CALL,Bearish High Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.5433396028440732,Short,CALL,Bearish High Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.4830747199138357,Short,CALL,Bearish High Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.4503502923311396,Short,CALL,Bearish High Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.41012908170105283,Short,CALL,Bearish High Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.39595519638093374,Short,CALL,Bearish High Volatility,neutral
-اختيارخ شستا-1350-1403/12/08,0.3807054746575441,Short,CALL,Bearish High Volatility,neutral
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish High Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.03629498332162919,Short,PUT,Bearish High Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.005723058437766491,Short,PUT,Bearish High Volatility,neutral
-اختيارف آساس-45000-14031030,-0.1118314762679303,Short,PUT,Bearish High Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.14811063426306814,Short,PUT,Bearish High Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.30374704768360367,Short,PUT,Bearish High Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish High Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.9969625,Short,PUT,Bearish High Volatility,neutral
-اختيارف توان-17000-14031002,-199.999823876579,Short,PUT,Bearish High Volatility,neutral
-اختيارف توان-18000-14031002,-200.00554788776145,Short,PUT,Bearish High Volatility,neutral
-اختيارف توان-19000-14031002,-200.0082778007869,Short,PUT,Bearish High Volatility,neutral
-اختيارخ بساما-5829-14040207,0.08188594324615409,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ بساما-5413-14040207,0.039825834193253244,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ توان-15000-14031219,0.007994037739753646,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ بساما-4996-14040207,0.005496695516112357,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ توان-16000-14031219,0.0041295449663158726,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ خپارس-650-14031114,-0.0,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bullish Low Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.4594297899947813,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.41634335279460605,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.3758947110561797,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.35558027632292255,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.3504561815154957,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.30308717697983156,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.27199818956553246,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.24932279383452674,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ خودرو-3500-1403/12/01,0.24777246290904667,Short,CALL,Bullish Low Volatility,bullish
-اختيارخ شستا-1500-1404/01/20,0.2420823844485412,Short,CALL,Bullish Low Volatility,bullish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف آساس-45000-14031030,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.04750456823305451,Short,PUT,Bullish Low Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.007743050926169443,Short,PUT,Bullish Low Volatility,bullish
-اختيارف آساس-45000-14031030,-0.1433457817717949,Short,PUT,Bullish Low Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.1875947197313673,Short,PUT,Bullish Low Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.38675427201578466,Short,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Low Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.996101875,Short,PUT,Bullish Low Volatility,bullish
-اختيارف توان-17000-14031002,-199.99977397494305,Short,PUT,Bullish Low Volatility,bullish
-اختيارف توان-18000-14031002,-200.00711978929385,Short,PUT,Bullish Low Volatility,bullish
-اختيارف توان-19000-14031002,-200.01062317767654,Short,PUT,Bullish Low Volatility,bullish
-اختيارخ بساما-5829-14040207,0.054459149494566886,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ بساما-5413-14040207,0.022761435355813188,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ توان-15000-14031219,0.007197931715748096,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ بساما-4996-14040207,0.004618434718896969,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ خودران-5000-03/11/28,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ ذوب-700-1403/11/24,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,Bullish Low Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.6279792280436054,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.5753772208389654,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.5251563570433205,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.4959617472160313,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.4726579687077127,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.41397524060210167,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.38120421938159504,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.34744807665322236,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ شستا-1350-1403/12/08,0.33176414375869867,Short,CALL,Bullish Low Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.3315113726327776,Short,CALL,Bullish Low Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.034260140945271016,Short,PUT,Bullish Low Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.005477975127460357,Short,PUT,Bullish Low Volatility,bearish
-اختيارف آساس-45000-14031030,-0.10407737692378652,Short,PUT,Bullish Low Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.13764758428548562,Short,PUT,Bullish Low Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.28304760443884996,Short,PUT,Bullish Low Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Low Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.997165,Short,PUT,Bullish Low Volatility,bearish
-اختيارف توان-17000-14031002,-199.9998356181404,Short,PUT,Bullish Low Volatility,bearish
-اختيارف توان-18000-14031002,-200.00517802857735,Short,PUT,Bullish Low Volatility,bearish
-اختيارف توان-19000-14031002,-200.00772594740113,Short,PUT,Bullish Low Volatility,bearish
-اختيارخ بساما-5829-14040207,0.05193300150063106,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ بساما-5413-14040207,0.017138626189033692,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ توان-15000-14031219,0.008381440147112559,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ توان-16000-14031219,0.0031279778657224582,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ موج-20000-14031219,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ فملي-10000-1403/11/03,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ فملي-7500-1403/11/03,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ وبصادر-2600-1403/11/17,-0.0,Long,CALL,Bullish Low Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.5752290827652359,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.5218050432071643,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.47528847170800015,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.4516868118998719,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.4278760486687133,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.3776672424894143,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.34311181521635914,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.3121001851942885,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.3054999429591493,Short,CALL,Bullish Low Volatility,neutral
-اختيارخ شستا-1500-1404/01/20,0.3038997859149265,Short,CALL,Bullish Low Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bullish Low Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.04246354491809802,Short,PUT,Bullish Low Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.007304210352352011,Short,PUT,Bullish Low Volatility,neutral
-اختيارف آساس-45000-14031030,-0.130266228988759,Short,PUT,Bullish Low Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.17025988950971352,Short,PUT,Bullish Low Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.3522138483213348,Short,PUT,Bullish Low Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bullish Low Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.99645625,Short,PUT,Bullish Low Volatility,neutral
-اختيارف توان-17000-14031002,-199.9997945226755,Short,PUT,Bullish Low Volatility,neutral
-اختيارف توان-18000-14031002,-200.00647253572168,Short,PUT,Bullish Low Volatility,neutral
-اختيارف توان-19000-14031002,-200.0096574342514,Short,PUT,Bullish Low Volatility,neutral
-اختيارخ بساما-5829-14040207,0.05589894841444151,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ بساما-5413-14040207,0.016309432680858486,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ توان-15000-14031219,0.004234539063549543,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ توان-16000-14031219,0.001712410972368509,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ بساما-4996-14040207,0.0011942827745702147,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ خودرو-3750-1403/11/03,-0.0,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ خودرو-4000-1403/11/03,-0.0,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ آساس-34000-14031030,-0.0,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Bearish Low Volatility,bullish
-اختيارخ اهرم-26000-1403/12/22,0.5565917269720762,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ شستا-1450-1403/12/08,0.5122963938075309,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ جهش-12000-1403/12/15,0.46183965474520616,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ اهرم-26000-1403/11/24,0.44061483375927524,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ اهرم-24000-1403/12/22,0.4182683798318453,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ وبملت-3250-1403/11/24,0.3673896853401389,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ شستا-1400-1404/01/20,0.3341025923628275,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ اهرم-24000-1403/11/24,0.3089979763988188,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ شستا-1500-1404/01/20,0.300889430390332,Short,CALL,Bearish Low Volatility,bullish
-اختيارخ خودرو-3500-1403/12/01,0.29729873832459397,Short,CALL,Bearish Low Volatility,bullish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف ذوب-400-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف ذوب-300-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-1050-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bullish
-اختيارف خودرو-3500-1403/10/05,0.03797686578234793,Short,PUT,Bearish Low Volatility,bullish
-اختيارف خودرو-3750-1403/10/05,0.0066648963540529346,Short,PUT,Bearish Low Volatility,bullish
-اختيارف آساس-45000-14031030,-0.11711516237030625,Short,PUT,Bearish Low Volatility,bullish
-اختيارف خودران-11000-03/11/28,-0.15310887989193914,Short,PUT,Bearish Low Volatility,bullish
-اختيارف ذوب-600-1403/11/24,-0.31997643337835396,Short,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Low Volatility,bullish
-اختيارف شستا-950-1403/10/12,-199.99681785714284,Short,PUT,Bearish Low Volatility,bullish
-اختيارف توان-17000-14031002,-199.99981548974944,Short,PUT,Bearish Low Volatility,bullish
-اختيارف توان-18000-14031002,-200.00581207289295,Short,PUT,Bearish Low Volatility,bullish
-اختيارف توان-19000-14031002,-200.00867198177676,Short,PUT,Bearish Low Volatility,bullish
-اختيارخ بساما-5829-14040207,0.044269142292721865,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ بساما-5413-14040207,0.0253780232778995,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ توان-15000-14031219,0.0059432811730740906,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ توان-16000-14031219,0.0027430408020194725,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ بساما-4996-14040207,0.000346481627825821,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ خپارس-600-14031114,-0.0,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ نارنج-9000-14031114,-0.0,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ خپارس-650-14031114,-0.0,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ خودرو-5000-1404/02/03,-0.0,Long,CALL,Bearish Low Volatility,bearish
-اختيارخ اهرم-26000-1403/12/22,0.774259191466551,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ شستا-1450-1403/12/08,0.710855452833896,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ جهش-12000-1403/12/15,0.6382731681004906,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ اهرم-26000-1403/11/24,0.6028957750864471,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ اهرم-24000-1403/12/22,0.5703259276917267,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ وبملت-3250-1403/11/24,0.5088366180135055,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ شستا-1400-1404/01/20,0.4580556069829651,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ اهرم-24000-1403/11/24,0.427837679047404,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ خودرو-3500-1403/12/01,0.40807113044015036,Short,CALL,Bearish Low Volatility,bearish
-اختيارخ شستا-1500-1404/01/20,0.40360602425598185,Short,CALL,Bearish Low Volatility,bearish
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-3250-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف شستا-950-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-3500-1403/10/05,0.02747310505604277,Short,PUT,Bearish Low Volatility,bearish
-اختيارف خودرو-3750-1403/10/05,0.00511662011078401,Short,PUT,Bearish Low Volatility,bearish
-اختيارف آساس-45000-14031030,-0.08520482174574458,Short,PUT,Bearish Low Volatility,bearish
-اختيارف خودران-11000-03/11/28,-0.11028749816450953,Short,PUT,Bearish Low Volatility,bearish
-اختيارف ذوب-600-1403/11/24,-0.2286779446780868,Short,PUT,Bearish Low Volatility,bearish
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Low Volatility,bearish
-اختيارف شستا-950-1403/10/12,-199.99768571428572,Short,PUT,Bearish Low Volatility,bearish
-اختيارف توان-17000-14031002,-199.99986581072685,Short,PUT,Bearish Low Volatility,bearish
-اختيارف توان-18000-14031002,-200.00422696210396,Short,PUT,Bearish Low Volatility,bearish
-اختيارف توان-19000-14031002,-200.00630689583764,Short,PUT,Bearish Low Volatility,bearish
-اختيارخ بساما-5829-14040207,0.05292576032764515,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ بساما-5413-14040207,0.02086606122138958,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ توان-15000-14031219,0.006311021083151255,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ توان-16000-14031219,0.0019777631621744744,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ بساما-4996-14040207,0.0004005534621896612,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ شستا-750-1403/12/08,-0.0,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ خپارس-750-14031114,-0.0,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ اطلس-65000-14031107,-0.0,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ وبصادر-2800-1403/11/17,-0.0,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ خپارس-700-14031114,-0.0,Long,CALL,Bearish Low Volatility,neutral
-اختيارخ اهرم-26000-1403/12/22,0.7044900249564584,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ شستا-1450-1403/12/08,0.6412992864238358,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ جهش-12000-1403/12/15,0.579969958485023,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ اهرم-26000-1403/11/24,0.5550483259013963,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ اهرم-24000-1403/12/22,0.5205299124167978,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ وبملت-3250-1403/11/24,0.4604884561277533,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ شستا-1400-1404/01/20,0.4298442241829863,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ اهرم-24000-1403/11/24,0.3879252413266321,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ خودرو-3500-1403/12/01,0.3731269384031354,Short,CALL,Bearish Low Volatility,neutral
-اختيارخ شستا-1500-1404/01/20,0.36817449673173286,Short,CALL,Bearish Low Volatility,neutral
-اختيارف اهرم-20000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف خودرو-3000-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف خودرو-2800-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف اهرم-22000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف اهرم-18000-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف خودرو-3500-1403/11/03,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف شستا-750-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف شستا-1250-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف شستا-850-1403/11/10,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.0,Long,PUT,Bearish Low Volatility,neutral
-اختيارف خودرو-3500-1403/10/05,0.0348971985572348,Short,PUT,Bearish Low Volatility,neutral
-اختيارف خودرو-3750-1403/10/05,0.004960495151616391,Short,PUT,Bearish Low Volatility,neutral
-اختيارف آساس-45000-14031030,-0.10637808597461187,Short,PUT,Bearish Low Volatility,neutral
-اختيارف خودران-11000-03/11/28,-0.1417746979030251,Short,PUT,Bearish Low Volatility,neutral
-اختيارف ذوب-600-1403/11/24,-0.2879912033488689,Short,PUT,Bearish Low Volatility,neutral
-اختيارف شستا-850-1403/10/12,-100.0,Short,PUT,Bearish Low Volatility,neutral
-اختيارف شستا-950-1403/10/12,-199.99710714285715,Short,PUT,Bearish Low Volatility,neutral
-اختيارف توان-17000-14031002,-199.99983226340856,Short,PUT,Bearish Low Volatility,neutral
-اختيارف توان-18000-14031002,-200.00528370262995,Short,PUT,Bearish Low Volatility,neutral
-اختيارف توان-19000-14031002,-200.00788361979707,Short,PUT,Bearish Low Volatility,neutral
+اختيارخ رويين-8500-14031030,0.058687112903286855,Long,CALL,Normal Market,bullish
+اختيارخ بساما-4164-14040207,0.04812472284758802,Long,CALL,Normal Market,bullish
+اختيارخ بساما-5413-14040207,0.038256754875690385,Long,CALL,Normal Market,bullish
+اختيارخ توان-16000-14031219,0.02862049466706992,Long,CALL,Normal Market,bullish
+اختيارخ توان-15000-14031219,0.027741404627325356,Long,CALL,Normal Market,bullish
+اختيارخ بساما-5829-14040207,0.027571623446096573,Long,CALL,Normal Market,bullish
+اختيارخ بساما-4996-14040207,0.01122404215182648,Long,CALL,Normal Market,bullish
+اختيارخ رويين-9000-14031030,0.0059424977832728265,Long,CALL,Normal Market,bullish
+اختيارخ رويين-9500-14031030,0.0004361981214787261,Long,CALL,Normal Market,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Normal Market,bullish
+اختيارخ توان-22000-14031219,0.27737764393248715,Short,CALL,Normal Market,bullish
+اختيارخ بساما-6246-14040207,0.2168767682835295,Short,CALL,Normal Market,bullish
+اختيارخ خاور-1300-14031219,0.18770898512320655,Short,CALL,Normal Market,bullish
+اختيارخ توان-24000-14031219,0.18719392949947322,Short,CALL,Normal Market,bullish
+اختيارخ فزر-38000-14031212,0.07690965237993226,Short,CALL,Normal Market,bullish
+اختيارخ اطلس-50000-14031107,0.05344951967493672,Short,CALL,Normal Market,bullish
+اختيارخ كاريس-22000-14031212,0.03968009898832297,Short,CALL,Normal Market,bullish
+اختيارخ توان-20000-14031219,0.02527916896008453,Short,CALL,Normal Market,bullish
+اختيارخ كاريس-24000-14031212,0.024944542276524272,Short,CALL,Normal Market,bullish
+اختيارخ موج-15000-14031016,0.01760425281971371,Short,CALL,Normal Market,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Normal Market,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Normal Market,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Normal Market,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Normal Market,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Normal Market,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Normal Market,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Normal Market,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Normal Market,bullish
+اختيارف آساس-45000-14031030,-219.99997131094034,Short,PUT,Normal Market,bullish
+اختيارف توان-17000-14031002,-439.9995093128322,Short,PUT,Normal Market,bullish
+اختيارف توان-18000-14031002,-439.99964833985695,Short,PUT,Normal Market,bullish
+اختيارف توان-19000-14031002,-439.99965224016256,Short,PUT,Normal Market,bullish
+اختيارف اطلس-45000-14031002,-2199.998783133701,Short,PUT,Normal Market,bullish
+اختيارف اطلس-40000-14031002,-2419.9987187537,Short,PUT,Normal Market,bullish
+اختيارف رويين-11000-14031226,-28379.93068156514,Short,PUT,Normal Market,bullish
+اختيارف موج-20000-14031016,-131999.8005489071,Short,PUT,Normal Market,bullish
+اختيارخ رويين-8500-14031030,0.04343346347870276,Long,CALL,Normal Market,bearish
+اختيارخ بساما-4164-14040207,0.035645321598912226,Long,CALL,Normal Market,bearish
+اختيارخ بساما-5413-14040207,0.027556731610606674,Long,CALL,Normal Market,bearish
+اختيارخ توان-16000-14031219,0.022142302674917555,Long,CALL,Normal Market,bearish
+اختيارخ توان-15000-14031219,0.01994067770416235,Long,CALL,Normal Market,bearish
+اختيارخ بساما-5829-14040207,0.019858201714253287,Long,CALL,Normal Market,bearish
+اختيارخ بساما-4996-14040207,0.008629225735172058,Long,CALL,Normal Market,bearish
+اختيارخ رويين-9000-14031030,0.004328536568959859,Long,CALL,Normal Market,bearish
+اختيارخ رويين-9500-14031030,0.00015712194761728727,Long,CALL,Normal Market,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Normal Market,bearish
+اختيارخ توان-22000-14031219,0.37916331294698163,Short,CALL,Normal Market,bearish
+اختيارخ بساما-6246-14040207,0.2818644888463192,Short,CALL,Normal Market,bearish
+اختيارخ توان-24000-14031219,0.2547998823383504,Short,CALL,Normal Market,bearish
+اختيارخ خاور-1300-14031219,0.24918950664473308,Short,CALL,Normal Market,bearish
+اختيارخ فزر-38000-14031212,0.10525015295240252,Short,CALL,Normal Market,bearish
+اختيارخ اطلس-50000-14031107,0.07039100575751188,Short,CALL,Normal Market,bearish
+اختيارخ كاريس-22000-14031212,0.05343725624278,Short,CALL,Normal Market,bearish
+اختيارخ توان-20000-14031219,0.035860526941337595,Short,CALL,Normal Market,bearish
+اختيارخ كاريس-24000-14031212,0.033508927100797205,Short,CALL,Normal Market,bearish
+اختيارخ موج-15000-14031016,0.024373249747548766,Short,CALL,Normal Market,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Normal Market,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Normal Market,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Normal Market,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Normal Market,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Normal Market,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Normal Market,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Normal Market,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Normal Market,bearish
+اختيارف آساس-45000-14031030,-159.99997913522932,Short,PUT,Normal Market,bearish
+اختيارف توان-17000-14031002,-319.99964313660524,Short,PUT,Normal Market,bearish
+اختيارف توان-18000-14031002,-319.9997442471687,Short,PUT,Normal Market,bearish
+اختيارف توان-19000-14031002,-319.9997470837546,Short,PUT,Normal Market,bearish
+اختيارف اطلس-45000-14031002,-1599.9991150063279,Short,PUT,Normal Market,bearish
+اختيارف اطلس-40000-14031002,-1759.9990681845088,Short,PUT,Normal Market,bearish
+اختيارف رويين-11000-14031226,-20639.94958659283,Short,PUT,Normal Market,bearish
+اختيارف موج-20000-14031016,-95999.8549446597,Short,PUT,Normal Market,bearish
+اختيارخ رويين-8500-14031030,0.04842402316013687,Long,CALL,Normal Market,neutral
+اختيارخ بساما-4164-14040207,0.03773030327770543,Long,CALL,Normal Market,neutral
+اختيارخ بساما-5413-14040207,0.03337290159313421,Long,CALL,Normal Market,neutral
+اختيارخ توان-16000-14031219,0.02488515980382327,Long,CALL,Normal Market,neutral
+اختيارخ توان-15000-14031219,0.023366581615144683,Long,CALL,Normal Market,neutral
+اختيارخ بساما-5829-14040207,0.022255394258178327,Long,CALL,Normal Market,neutral
+اختيارخ بساما-4996-14040207,0.007529069223027667,Long,CALL,Normal Market,neutral
+اختيارخ رويين-9000-14031030,0.004753028159134428,Long,CALL,Normal Market,neutral
+اختيارخ رويين-9500-14031030,0.0003324631492722251,Long,CALL,Normal Market,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Normal Market,neutral
+اختيارخ توان-22000-14031219,0.3480122974076822,Short,CALL,Normal Market,neutral
+اختيارخ بساما-6246-14040207,0.2690838363030643,Short,CALL,Normal Market,neutral
+اختيارخ توان-24000-14031219,0.23123480818669445,Short,CALL,Normal Market,neutral
+اختيارخ خاور-1300-14031219,0.2305568198545676,Short,CALL,Normal Market,neutral
+اختيارخ فزر-38000-14031212,0.09556828007699468,Short,CALL,Normal Market,neutral
+اختيارخ اطلس-50000-14031107,0.06314974908368164,Short,CALL,Normal Market,neutral
+اختيارخ كاريس-22000-14031212,0.05307953741850189,Short,CALL,Normal Market,neutral
+اختيارخ كاريس-24000-14031212,0.03076327460145348,Short,CALL,Normal Market,neutral
+اختيارخ توان-20000-14031219,0.030710554248389487,Short,CALL,Normal Market,neutral
+اختيارخ موج-15000-14031016,0.022218844202817188,Short,CALL,Normal Market,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Normal Market,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Normal Market,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Normal Market,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Normal Market,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Normal Market,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Normal Market,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Normal Market,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Normal Market,neutral
+اختيارف آساس-45000-14031030,-199.99997391903665,Short,PUT,Normal Market,neutral
+اختيارف توان-17000-14031002,-399.9995539207565,Short,PUT,Normal Market,neutral
+اختيارف توان-18000-14031002,-399.9996803089608,Short,PUT,Normal Market,neutral
+اختيارف توان-19000-14031002,-399.9996838546932,Short,PUT,Normal Market,neutral
+اختيارف اطلس-45000-14031002,-1999.9988937579099,Short,PUT,Normal Market,neutral
+اختيارف اطلس-40000-14031002,-2199.998835230636,Short,PUT,Normal Market,neutral
+اختيارف رويين-11000-14031226,-25799.936983241034,Short,PUT,Normal Market,neutral
+اختيارف موج-20000-14031016,-119999.81868082462,Short,PUT,Normal Market,neutral
+اختيارخ رويين-8500-14031030,0.060324078133580705,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-4164-14040207,0.05085290105719229,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-5413-14040207,0.03945938135777177,Long,CALL,Bullish Market,bullish
+اختيارخ توان-16000-14031219,0.029933572498402457,Long,CALL,Bullish Market,bullish
+اختيارخ توان-15000-14031219,0.027793986888930346,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-5829-14040207,0.02705172666852196,Long,CALL,Bullish Market,bullish
+اختيارخ بساما-4996-14040207,0.013761076905207567,Long,CALL,Bullish Market,bullish
+اختيارخ رويين-9000-14031030,0.006448002213115666,Long,CALL,Bullish Market,bullish
+اختيارخ رويين-9500-14031030,0.00029508178242903236,Long,CALL,Bullish Market,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bullish Market,bullish
+اختيارخ توان-22000-14031219,0.2624034863617421,Short,CALL,Bullish Market,bullish
+اختيارخ بساما-6246-14040207,0.2039448740478362,Short,CALL,Bullish Market,bullish
+اختيارخ خاور-1300-14031219,0.17713200273163562,Short,CALL,Bullish Market,bullish
+اختيارخ توان-24000-14031219,0.17287093641391568,Short,CALL,Bullish Market,bullish
+اختيارخ فزر-38000-14031212,0.0739790981849056,Short,CALL,Bullish Market,bullish
+اختيارخ اطلس-50000-14031107,0.049082086811319585,Short,CALL,Bullish Market,bullish
+اختيارخ كاريس-22000-14031212,0.038744084864956285,Short,CALL,Bullish Market,bullish
+اختيارخ توان-20000-14031219,0.025038404238807238,Short,CALL,Bullish Market,bullish
+اختيارخ كاريس-24000-14031212,0.022762412604782113,Short,CALL,Bullish Market,bullish
+اختيارخ موج-15000-14031016,0.01686611451983117,Short,CALL,Bullish Market,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bullish Market,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bullish Market,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bullish Market,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bullish Market,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bullish Market,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bullish Market,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bullish Market,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bullish Market,bullish
+اختيارف آساس-45000-14031030,-219.99996103979768,Short,PUT,Bullish Market,bullish
+اختيارف توان-17000-14031002,-439.9994694295748,Short,PUT,Bullish Market,bullish
+اختيارف توان-18000-14031002,-439.9996084565995,Short,PUT,Bullish Market,bullish
+اختيارف توان-19000-14031002,-439.9996123569052,Short,PUT,Bullish Market,bullish
+اختيارف اطلس-45000-14031002,-2199.998696080614,Short,PUT,Bullish Market,bullish
+اختيارف اطلس-40000-14031002,-2419.998622995304,Short,PUT,Bullish Market,bullish
+اختيارف رويين-11000-14031226,-28379.925785436288,Short,PUT,Bullish Market,bullish
+اختيارف موج-20000-14031016,-131999.78650718575,Short,PUT,Bullish Market,bullish
+اختيارخ رويين-8500-14031030,0.04472560669392959,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-4164-14040207,0.03826541127580945,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-5413-14040207,0.029615607374844862,Long,CALL,Bullish Market,bearish
+اختيارخ توان-16000-14031219,0.022167207711278985,Long,CALL,Bullish Market,bearish
+اختيارخ توان-15000-14031219,0.02153885359009085,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-5829-14040207,0.021133133972097096,Long,CALL,Bullish Market,bearish
+اختيارخ بساما-4996-14040207,0.007915043795079063,Long,CALL,Bullish Market,bearish
+اختيارخ رويين-9000-14031030,0.004892851547658178,Long,CALL,Bullish Market,bearish
+اختيارخ رويين-9500-14031030,0.00032119001408642024,Long,CALL,Bullish Market,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bullish Market,bearish
+اختيارخ توان-22000-14031219,0.3627448750487346,Short,CALL,Bullish Market,bearish
+اختيارخ بساما-6246-14040207,0.28270954312501956,Short,CALL,Bullish Market,bearish
+اختيارخ خاور-1300-14031219,0.24357317092397657,Short,CALL,Bullish Market,bearish
+اختيارخ توان-24000-14031219,0.23644344754643823,Short,CALL,Bullish Market,bearish
+اختيارخ فزر-38000-14031212,0.10043836124764663,Short,CALL,Bullish Market,bearish
+اختيارخ اطلس-50000-14031107,0.06765764837987365,Short,CALL,Bullish Market,bearish
+اختيارخ كاريس-22000-14031212,0.053257112496242515,Short,CALL,Bullish Market,bearish
+اختيارخ توان-20000-14031219,0.030943504716128434,Short,CALL,Bullish Market,bearish
+اختيارخ كاريس-24000-14031212,0.03072518626117533,Short,CALL,Bullish Market,bearish
+اختيارخ موج-15000-14031016,0.0232475175064891,Short,CALL,Bullish Market,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bullish Market,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bullish Market,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bullish Market,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bullish Market,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bullish Market,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bullish Market,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bullish Market,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bullish Market,bearish
+اختيارف آساس-45000-14031030,-159.99997166530738,Short,PUT,Bullish Market,bearish
+اختيارف توان-17000-14031002,-319.99961413059987,Short,PUT,Bullish Market,bearish
+اختيارف توان-18000-14031002,-319.9997152411633,Short,PUT,Bullish Market,bearish
+اختيارف توان-19000-14031002,-319.9997180777492,Short,PUT,Bullish Market,bearish
+اختيارف اطلس-45000-14031002,-1599.999051694992,Short,PUT,Bullish Market,bearish
+اختيارف اطلس-40000-14031002,-1759.998998542039,Short,PUT,Bullish Market,bearish
+اختيارف رويين-11000-14031226,-20639.946025771846,Short,PUT,Bullish Market,bearish
+اختيارف موج-20000-14031016,-95999.84473249872,Short,PUT,Bullish Market,bearish
+اختيارخ رويين-8500-14031030,0.05167171678864983,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-4164-14040207,0.03902013711014953,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-5413-14040207,0.03317886168006315,Long,CALL,Bullish Market,neutral
+اختيارخ توان-16000-14031219,0.025853964821952485,Long,CALL,Bullish Market,neutral
+اختيارخ توان-15000-14031219,0.022958388737891522,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-5829-14040207,0.021879407005928657,Long,CALL,Bullish Market,neutral
+اختيارخ بساما-4996-14040207,0.010843129796715853,Long,CALL,Bullish Market,neutral
+اختيارخ رويين-9000-14031030,0.005099615289471495,Long,CALL,Bullish Market,neutral
+اختيارخ رويين-9500-14031030,0.00027713989829926356,Long,CALL,Bullish Market,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bullish Market,neutral
+اختيارخ توان-22000-14031219,0.32826666629932,Short,CALL,Bullish Market,neutral
+اختيارخ بساما-6246-14040207,0.2590166935133017,Short,CALL,Bullish Market,neutral
+اختيارخ خاور-1300-14031219,0.2192854857578035,Short,CALL,Bullish Market,neutral
+اختيارخ توان-24000-14031219,0.21516505340218628,Short,CALL,Bullish Market,neutral
+اختيارخ فزر-38000-14031212,0.09143803278764931,Short,CALL,Bullish Market,neutral
+اختيارخ اطلس-50000-14031107,0.06151449114619342,Short,CALL,Bullish Market,neutral
+اختيارخ كاريس-22000-14031212,0.04737664891808645,Short,CALL,Bullish Market,neutral
+اختيارخ توان-20000-14031219,0.0309995411919412,Short,CALL,Bullish Market,neutral
+اختيارخ كاريس-24000-14031212,0.02739848083043468,Short,CALL,Bullish Market,neutral
+اختيارخ موج-15000-14031016,0.02064882437296198,Short,CALL,Bullish Market,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bullish Market,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bullish Market,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bullish Market,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bullish Market,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bullish Market,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bullish Market,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bullish Market,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bullish Market,neutral
+اختيارف آساس-45000-14031030,-199.99996458163423,Short,PUT,Bullish Market,neutral
+اختيارف توان-17000-14031002,-399.9995176632498,Short,PUT,Bullish Market,neutral
+اختيارف توان-18000-14031002,-399.9996440514541,Short,PUT,Bullish Market,neutral
+اختيارف توان-19000-14031002,-399.9996475971865,Short,PUT,Bullish Market,neutral
+اختيارف اطلس-45000-14031002,-1999.9988146187397,Short,PUT,Bullish Market,neutral
+اختيارف اطلس-40000-14031002,-2199.998748177549,Short,PUT,Bullish Market,neutral
+اختيارف رويين-11000-14031226,-25799.932532214803,Short,PUT,Bullish Market,neutral
+اختيارف موج-20000-14031016,-119999.8059156234,Short,PUT,Bullish Market,neutral
+اختيارخ رويين-8500-14031030,0.05559662199216704,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-4164-14040207,0.04512226255968903,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-5413-14040207,0.037227000966208276,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-5829-14040207,0.02882576260068545,Long,CALL,Bearish Market,bullish
+اختيارخ توان-16000-14031219,0.02822837721445647,Long,CALL,Bearish Market,bullish
+اختيارخ توان-15000-14031219,0.02594066885532635,Long,CALL,Bearish Market,bullish
+اختيارخ بساما-4996-14040207,0.00763988138666433,Long,CALL,Bearish Market,bullish
+اختيارخ رويين-9000-14031030,0.004992740899997663,Long,CALL,Bearish Market,bullish
+اختيارخ رويين-9500-14031030,0.0002542998621487322,Long,CALL,Bearish Market,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bearish Market,bullish
+اختيارخ توان-22000-14031219,0.28982928682380826,Short,CALL,Bearish Market,bullish
+اختيارخ بساما-6246-14040207,0.23666056925146656,Short,CALL,Bearish Market,bullish
+اختيارخ خاور-1300-14031219,0.19353435694794272,Short,CALL,Bearish Market,bullish
+اختيارخ توان-24000-14031219,0.1913422754188301,Short,CALL,Bearish Market,bullish
+اختيارخ فزر-38000-14031212,0.0818104067258973,Short,CALL,Bearish Market,bullish
+اختيارخ اطلس-50000-14031107,0.05493521110833769,Short,CALL,Bearish Market,bullish
+اختيارخ كاريس-22000-14031212,0.04148372857934407,Short,CALL,Bearish Market,bullish
+اختيارخ كاريس-24000-14031212,0.026620538956643215,Short,CALL,Bearish Market,bullish
+اختيارخ توان-20000-14031219,0.025349731953862798,Short,CALL,Bearish Market,bullish
+اختيارخ موج-15000-14031016,0.018610819369503546,Short,CALL,Bearish Market,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bearish Market,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bearish Market,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bearish Market,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bearish Market,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bearish Market,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bearish Market,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bearish Market,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bearish Market,bullish
+اختيارف آساس-45000-14031030,-219.99997860699338,Short,PUT,Bearish Market,bullish
+اختيارف توان-17000-14031002,-439.9995376436978,Short,PUT,Bearish Market,bullish
+اختيارف توان-18000-14031002,-439.9996766707226,Short,PUT,Bearish Market,bullish
+اختيارف توان-19000-14031002,-439.9996805710282,Short,PUT,Bearish Market,bullish
+اختيارف اطلس-45000-14031002,-2199.998844971411,Short,PUT,Bearish Market,bullish
+اختيارف اطلس-40000-14031002,-2419.998786775181,Short,PUT,Bearish Market,bullish
+اختيارف رويين-11000-14031226,-28379.934159504945,Short,PUT,Bearish Market,bullish
+اختيارف موج-20000-14031016,-131999.8105233712,Short,PUT,Bearish Market,bullish
+اختيارخ رويين-8500-14031030,0.04094211694884611,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-4164-14040207,0.031805251117195295,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-5413-14040207,0.027907297286298535,Long,CALL,Bearish Market,bearish
+اختيارخ توان-16000-14031219,0.02141628797309092,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-5829-14040207,0.019793571240023258,Long,CALL,Bearish Market,bearish
+اختيارخ توان-15000-14031219,0.018202352732872355,Long,CALL,Bearish Market,bearish
+اختيارخ بساما-4996-14040207,0.006850049102874054,Long,CALL,Bearish Market,bearish
+اختيارخ رويين-9000-14031030,0.004037411736509665,Long,CALL,Bearish Market,bearish
+اختيارخ رويين-9500-14031030,0.0001313300354175027,Long,CALL,Bearish Market,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bearish Market,bearish
+اختيارخ توان-22000-14031219,0.3952714017905311,Short,CALL,Bearish Market,bearish
+اختيارخ بساما-6246-14040207,0.3021917992109666,Short,CALL,Bearish Market,bearish
+اختيارخ خاور-1300-14031219,0.2678011525864793,Short,CALL,Bearish Market,bearish
+اختيارخ توان-24000-14031219,0.2634865916720979,Short,CALL,Bearish Market,bearish
+اختيارخ فزر-38000-14031212,0.11128766693378514,Short,CALL,Bearish Market,bearish
+اختيارخ اطلس-50000-14031107,0.07532449963094212,Short,CALL,Bearish Market,bearish
+اختيارخ كاريس-22000-14031212,0.05522424932748816,Short,CALL,Bearish Market,bearish
+اختيارخ توان-20000-14031219,0.035704576968114375,Short,CALL,Bearish Market,bearish
+اختيارخ كاريس-24000-14031212,0.03340623163631945,Short,CALL,Bearish Market,bearish
+اختيارخ موج-15000-14031016,0.02598384733005678,Short,CALL,Bearish Market,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bearish Market,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bearish Market,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bearish Market,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bearish Market,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bearish Market,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bearish Market,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bearish Market,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bearish Market,bearish
+اختيارف آساس-45000-14031030,-159.99998444144973,Short,PUT,Bearish Market,bearish
+اختيارف توان-17000-14031002,-319.99966374087114,Short,PUT,Bearish Market,bearish
+اختيارف توان-18000-14031002,-319.9997648514346,Short,PUT,Bearish Market,bearish
+اختيارف توان-19000-14031002,-319.9997676880205,Short,PUT,Bearish Market,bearish
+اختيارف اطلس-45000-14031002,-1599.9991599792081,Short,PUT,Bearish Market,bearish
+اختيارف اطلس-40000-14031002,-1759.999117654677,Short,PUT,Bearish Market,bearish
+اختيارف رويين-11000-14031226,-20639.952116003595,Short,PUT,Bearish Market,bearish
+اختيارف موج-20000-14031016,-95999.86219881543,Short,PUT,Bearish Market,bearish
+اختيارخ رويين-8500-14031030,0.04570780669577481,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-4164-14040207,0.03735913522874809,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-5413-14040207,0.03382469263433122,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-5829-14040207,0.027531138819944206,Long,CALL,Bearish Market,neutral
+اختيارخ توان-16000-14031219,0.02376911785528254,Long,CALL,Bearish Market,neutral
+اختيارخ توان-15000-14031219,0.022337429253969428,Long,CALL,Bearish Market,neutral
+اختيارخ بساما-4996-14040207,0.00988524733306821,Long,CALL,Bearish Market,neutral
+اختيارخ رويين-9000-14031030,0.004424714713874805,Long,CALL,Bearish Market,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bearish Market,neutral
+اختيارخ آساس-34000-14031030,-4.459725629421871e-05,Long,CALL,Bearish Market,neutral
+اختيارخ توان-22000-14031219,0.36348729572999117,Short,CALL,Bearish Market,neutral
+اختيارخ بساما-6246-14040207,0.2851045873950578,Short,CALL,Bearish Market,neutral
+اختيارخ خاور-1300-14031219,0.24096260727813867,Short,CALL,Bearish Market,neutral
+اختيارخ توان-24000-14031219,0.23615742083871874,Short,CALL,Bearish Market,neutral
+اختيارخ فزر-38000-14031212,0.10038848593178469,Short,CALL,Bearish Market,neutral
+اختيارخ اطلس-50000-14031107,0.06819183502238357,Short,CALL,Bearish Market,neutral
+اختيارخ كاريس-22000-14031212,0.05061589473735893,Short,CALL,Bearish Market,neutral
+اختيارخ توان-20000-14031219,0.03266458821559722,Short,CALL,Bearish Market,neutral
+اختيارخ كاريس-24000-14031212,0.03177940888389707,Short,CALL,Bearish Market,neutral
+اختيارخ موج-15000-14031016,0.022669665762707823,Short,CALL,Bearish Market,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bearish Market,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bearish Market,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bearish Market,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bearish Market,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bearish Market,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bearish Market,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bearish Market,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bearish Market,neutral
+اختيارف آساس-45000-14031030,-199.99998055181214,Short,PUT,Bearish Market,neutral
+اختيارف توان-17000-14031002,-399.9995796760889,Short,PUT,Bearish Market,neutral
+اختيارف توان-18000-14031002,-399.9997060642932,Short,PUT,Bearish Market,neutral
+اختيارف توان-19000-14031002,-399.9997096100256,Short,PUT,Bearish Market,neutral
+اختيارف اطلس-45000-14031002,-1999.99894997401,Short,PUT,Bearish Market,neutral
+اختيارف اطلس-40000-14031002,-2199.998897068346,Short,PUT,Bearish Market,neutral
+اختيارف رويين-11000-14031226,-25799.940145004493,Short,PUT,Bearish Market,neutral
+اختيارف موج-20000-14031016,-119999.82774851928,Short,PUT,Bearish Market,neutral
+اختيارخ رويين-8500-14031030,0.057730950613936786,Long,CALL,High Volatility,bullish
+اختيارخ بساما-4164-14040207,0.045042420195241,Long,CALL,High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.041014723189867014,Long,CALL,High Volatility,bullish
+اختيارخ توان-16000-14031219,0.029467605761542788,Long,CALL,High Volatility,bullish
+اختيارخ توان-15000-14031219,0.027361976261955693,Long,CALL,High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.020567277139748232,Long,CALL,High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.012816294513316331,Long,CALL,High Volatility,bullish
+اختيارخ رويين-9000-14031030,0.005701747055109975,Long,CALL,High Volatility,bullish
+اختيارخ رويين-9500-14031030,0.0011476305204831344,Long,CALL,High Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,High Volatility,bullish
+اختيارخ توان-22000-14031219,0.26143521559589183,Short,CALL,High Volatility,bullish
+اختيارخ بساما-6246-14040207,0.20859070489018228,Short,CALL,High Volatility,bullish
+اختيارخ خاور-1300-14031219,0.17489075630188183,Short,CALL,High Volatility,bullish
+اختيارخ توان-24000-14031219,0.17461812170787713,Short,CALL,High Volatility,bullish
+اختيارخ فزر-38000-14031212,0.07269784279886832,Short,CALL,High Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.04915336763548616,Short,CALL,High Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.03754700040880738,Short,CALL,High Volatility,bullish
+اختيارخ توان-20000-14031219,0.02392576970306616,Short,CALL,High Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.02328217603354716,Short,CALL,High Volatility,bullish
+اختيارخ موج-15000-14031016,0.01646265140214355,Short,CALL,High Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,High Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,High Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,High Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,High Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,High Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,High Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,High Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,High Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99997860699338,Short,PUT,High Volatility,bullish
+اختيارف توان-17000-14031002,-439.9995376436978,Short,PUT,High Volatility,bullish
+اختيارف توان-18000-14031002,-439.9996766707226,Short,PUT,High Volatility,bullish
+اختيارف توان-19000-14031002,-439.9996805710282,Short,PUT,High Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.998844971411,Short,PUT,High Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.998786775181,Short,PUT,High Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.934159504945,Short,PUT,High Volatility,bullish
+اختيارف موج-20000-14031016,-131999.8105233712,Short,PUT,High Volatility,bullish
+اختيارخ رويين-8500-14031030,0.043609771173066775,Long,CALL,High Volatility,bearish
+اختيارخ بساما-4164-14040207,0.03572031116190418,Long,CALL,High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.030095939823423994,Long,CALL,High Volatility,bearish
+اختيارخ توان-16000-14031219,0.02261142150600779,Long,CALL,High Volatility,bearish
+اختيارخ توان-15000-14031219,0.020935507079119637,Long,CALL,High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.015951325595519972,Long,CALL,High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.007972060387811944,Long,CALL,High Volatility,bearish
+اختيارخ رويين-9000-14031030,0.004480293921222824,Long,CALL,High Volatility,bearish
+اختيارخ رويين-9500-14031030,5.7173010691005674e-05,Long,CALL,High Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,High Volatility,bearish
+اختيارخ توان-22000-14031219,0.3592700414621762,Short,CALL,High Volatility,bearish
+اختيارخ بساما-6246-14040207,0.2862299711052232,Short,CALL,High Volatility,bearish
+اختيارخ خاور-1300-14031219,0.2424546720095652,Short,CALL,High Volatility,bearish
+اختيارخ توان-24000-14031219,0.24189306918455647,Short,CALL,High Volatility,bearish
+اختيارخ فزر-38000-14031212,0.10300575870604572,Short,CALL,High Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.06618305112837906,Short,CALL,High Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.05098275220022013,Short,CALL,High Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.03412945330310784,Short,CALL,High Volatility,bearish
+اختيارخ توان-20000-14031219,0.031878953390606764,Short,CALL,High Volatility,bearish
+اختيارخ موج-15000-14031016,0.022529843802054566,Short,CALL,High Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,High Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,High Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,High Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,High Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,High Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,High Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,High Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,High Volatility,bearish
+اختيارف آساس-45000-14031030,-159.99998444144973,Short,PUT,High Volatility,bearish
+اختيارف توان-17000-14031002,-319.99966374087114,Short,PUT,High Volatility,bearish
+اختيارف توان-18000-14031002,-319.9997648514346,Short,PUT,High Volatility,bearish
+اختيارف توان-19000-14031002,-319.9997676880205,Short,PUT,High Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.9991599792081,Short,PUT,High Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.999117654677,Short,PUT,High Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.952116003595,Short,PUT,High Volatility,bearish
+اختيارف موج-20000-14031016,-95999.86219881543,Short,PUT,High Volatility,bearish
+اختيارخ رويين-8500-14031030,0.04811828239657598,Long,CALL,High Volatility,neutral
+اختيارخ بساما-4164-14040207,0.03865727405554709,Long,CALL,High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.02949828164192212,Long,CALL,High Volatility,neutral
+اختيارخ توان-15000-14031219,0.023794424291348794,Long,CALL,High Volatility,neutral
+اختيارخ توان-16000-14031219,0.023059163929942072,Long,CALL,High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.02159449300268913,Long,CALL,High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.009773610096498965,Long,CALL,High Volatility,neutral
+اختيارخ رويين-9000-14031030,0.004561252671350812,Long,CALL,High Volatility,neutral
+اختيارخ رويين-9500-14031030,0.0001837534105764121,Long,CALL,High Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,High Volatility,neutral
+اختيارخ توان-22000-14031219,0.3270004154106146,Short,CALL,High Volatility,neutral
+اختيارخ بساما-6246-14040207,0.2529545166624733,Short,CALL,High Volatility,neutral
+اختيارخ توان-24000-14031219,0.21867124447208985,Short,CALL,High Volatility,neutral
+اختيارخ خاور-1300-14031219,0.21820893017861223,Short,CALL,High Volatility,neutral
+اختيارخ فزر-38000-14031212,0.09117822506576913,Short,CALL,High Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.0616499801624798,Short,CALL,High Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.0486945373035657,Short,CALL,High Volatility,neutral
+اختيارخ توان-20000-14031219,0.030732395428537812,Short,CALL,High Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.02777180376092893,Short,CALL,High Volatility,neutral
+اختيارخ موج-15000-14031016,0.02024528131292725,Short,CALL,High Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,High Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,High Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,High Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,High Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,High Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,High Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,High Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,High Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99998055181214,Short,PUT,High Volatility,neutral
+اختيارف توان-17000-14031002,-399.9995796760889,Short,PUT,High Volatility,neutral
+اختيارف توان-18000-14031002,-399.9997060642932,Short,PUT,High Volatility,neutral
+اختيارف توان-19000-14031002,-399.9997096100256,Short,PUT,High Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.99894997401,Short,PUT,High Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.998897068346,Short,PUT,High Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.940145004493,Short,PUT,High Volatility,neutral
+اختيارف موج-20000-14031016,-119999.82774851928,Short,PUT,High Volatility,neutral
+اختيارخ رويين-8500-14031030,0.058662040291057434,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-4164-14040207,0.04702033266490999,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.04133040036740887,Long,CALL,Low Volatility,bullish
+اختيارخ توان-16000-14031219,0.029264426769032632,Long,CALL,Low Volatility,bullish
+اختيارخ توان-15000-14031219,0.027493160538909347,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.025915510203277158,Long,CALL,Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.009062840712475248,Long,CALL,Low Volatility,bullish
+اختيارخ رويين-9000-14031030,0.005851178479006751,Long,CALL,Low Volatility,bullish
+اختيارخ رويين-9500-14031030,0.0007222597272041636,Long,CALL,Low Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Low Volatility,bullish
+اختيارخ توان-22000-14031219,0.27621335609060427,Short,CALL,Low Volatility,bullish
+اختيارخ بساما-6246-14040207,0.20989753771253106,Short,CALL,Low Volatility,bullish
+اختيارخ توان-24000-14031219,0.18362479250662533,Short,CALL,Low Volatility,bullish
+اختيارخ خاور-1300-14031219,0.18256788127453383,Short,CALL,Low Volatility,bullish
+اختيارخ فزر-38000-14031212,0.07886359298855852,Short,CALL,Low Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.05224922280368845,Short,CALL,Low Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.04152487918042472,Short,CALL,Low Volatility,bullish
+اختيارخ توان-20000-14031219,0.025240533646825644,Short,CALL,Low Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.023364931352167637,Short,CALL,Low Volatility,bullish
+اختيارخ موج-15000-14031016,0.01744502274853153,Short,CALL,Low Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Low Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Low Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Low Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Low Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Low Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Low Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99997131094034,Short,PUT,Low Volatility,bullish
+اختيارف توان-17000-14031002,-439.9995093128322,Short,PUT,Low Volatility,bullish
+اختيارف توان-18000-14031002,-439.99964833985695,Short,PUT,Low Volatility,bullish
+اختيارف توان-19000-14031002,-439.99965224016256,Short,PUT,Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.998783133701,Short,PUT,Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.9987187537,Short,PUT,Low Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.93068156514,Short,PUT,Low Volatility,bullish
+اختيارف موج-20000-14031016,-131999.8005489071,Short,PUT,Low Volatility,bullish
+اختيارخ رويين-8500-14031030,0.044187712586279175,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-4164-14040207,0.03432050951569206,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.029929606087085347,Long,CALL,Low Volatility,bearish
+اختيارخ توان-16000-14031219,0.021944296157037156,Long,CALL,Low Volatility,bearish
+اختيارخ توان-15000-14031219,0.021134148141100217,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.020565954152807472,Long,CALL,Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.007102021593880211,Long,CALL,Low Volatility,bearish
+اختيارخ رويين-9000-14031030,0.004099007029102649,Long,CALL,Low Volatility,bearish
+اختيارخ رويين-9500-14031030,0.00035504040663867725,Long,CALL,Low Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Low Volatility,bearish
+اختيارخ توان-22000-14031219,0.3761487005329654,Short,CALL,Low Volatility,bearish
+اختيارخ بساما-6246-14040207,0.2950611110050815,Short,CALL,Low Volatility,bearish
+اختيارخ توان-24000-14031219,0.2518011403309362,Short,CALL,Low Volatility,bearish
+اختيارخ خاور-1300-14031219,0.2512514526763911,Short,CALL,Low Volatility,bearish
+اختيارخ فزر-38000-14031212,0.10989458415352295,Short,CALL,Low Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.0703340731162851,Short,CALL,Low Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.05546618875187613,Short,CALL,Low Volatility,bearish
+اختيارخ توان-20000-14031219,0.03584870609300267,Short,CALL,Low Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.03274650803318,Short,CALL,Low Volatility,bearish
+اختيارخ موج-15000-14031016,0.02337613434456555,Short,CALL,Low Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Low Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Low Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Low Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Low Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Low Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Low Volatility,bearish
+اختيارف آساس-45000-14031030,-159.99997913522932,Short,PUT,Low Volatility,bearish
+اختيارف توان-17000-14031002,-319.99964313660524,Short,PUT,Low Volatility,bearish
+اختيارف توان-18000-14031002,-319.9997442471687,Short,PUT,Low Volatility,bearish
+اختيارف توان-19000-14031002,-319.9997470837546,Short,PUT,Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.9991150063279,Short,PUT,Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.9990681845088,Short,PUT,Low Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.94958659283,Short,PUT,Low Volatility,bearish
+اختيارف موج-20000-14031016,-95999.8549446597,Short,PUT,Low Volatility,bearish
+اختيارخ رويين-8500-14031030,0.049118119960807956,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-4164-14040207,0.0381244764141364,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.03443422743595224,Long,CALL,Low Volatility,neutral
+اختيارخ توان-16000-14031219,0.02378115299724119,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.022200521886289584,Long,CALL,Low Volatility,neutral
+اختيارخ توان-15000-14031219,0.02206622160145245,Long,CALL,Low Volatility,neutral
+اختيارخ بساما-4996-14040207,0.008676736752319185,Long,CALL,Low Volatility,neutral
+اختيارخ رويين-9000-14031030,0.004521977635961046,Long,CALL,Low Volatility,neutral
+اختيارخ رويين-9500-14031030,0.0002810377435665225,Long,CALL,Low Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Low Volatility,neutral
+اختيارخ توان-22000-14031219,0.344778823882601,Short,CALL,Low Volatility,neutral
+اختيارخ بساما-6246-14040207,0.2725454531597347,Short,CALL,Low Volatility,neutral
+اختيارخ توان-24000-14031219,0.23022716554220193,Short,CALL,Low Volatility,neutral
+اختيارخ خاور-1300-14031219,0.22687530938248046,Short,CALL,Low Volatility,neutral
+اختيارخ فزر-38000-14031212,0.09713700242908174,Short,CALL,Low Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.06554187882493566,Short,CALL,Low Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.04952841773336878,Short,CALL,Low Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.030665369259619348,Short,CALL,Low Volatility,neutral
+اختيارخ توان-20000-14031219,0.030036166643824802,Short,CALL,Low Volatility,neutral
+اختيارخ موج-15000-14031016,0.021404828285736362,Short,CALL,Low Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Low Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Low Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Low Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Low Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Low Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Low Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99997391903665,Short,PUT,Low Volatility,neutral
+اختيارف توان-17000-14031002,-399.9995539207565,Short,PUT,Low Volatility,neutral
+اختيارف توان-18000-14031002,-399.9996803089608,Short,PUT,Low Volatility,neutral
+اختيارف توان-19000-14031002,-399.9996838546932,Short,PUT,Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.9988937579099,Short,PUT,Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.998835230636,Short,PUT,Low Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.936983241034,Short,PUT,Low Volatility,neutral
+اختيارف موج-20000-14031016,-119999.81868082462,Short,PUT,Low Volatility,neutral
+اختيارخ رويين-8500-14031030,0.06116431350309331,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-4164-14040207,0.05037030843196951,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.037377793797540866,Long,CALL,Bullish High Volatility,bullish
+اختيارخ توان-16000-14031219,0.029317377162220302,Long,CALL,Bullish High Volatility,bullish
+اختيارخ توان-15000-14031219,0.028241254916248282,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.026234690489618736,Long,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.010581239106544378,Long,CALL,Bullish High Volatility,bullish
+اختيارخ رويين-9000-14031030,0.005993724570483589,Long,CALL,Bullish High Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bullish High Volatility,bullish
+اختيارخ آساس-34000-14031030,-5.351670755306245e-05,Long,CALL,Bullish High Volatility,bullish
+اختيارخ توان-22000-14031219,0.2485271815682879,Short,CALL,Bullish High Volatility,bullish
+اختيارخ بساما-6246-14040207,0.19203772579328138,Short,CALL,Bullish High Volatility,bullish
+اختيارخ خاور-1300-14031219,0.16620543378704342,Short,CALL,Bullish High Volatility,bullish
+اختيارخ توان-24000-14031219,0.1653938584122561,Short,CALL,Bullish High Volatility,bullish
+اختيارخ فزر-38000-14031212,0.07022872295840514,Short,CALL,Bullish High Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.047159958137927796,Short,CALL,Bullish High Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.03653098062352765,Short,CALL,Bullish High Volatility,bullish
+اختيارخ توان-20000-14031219,0.021842388088369594,Short,CALL,Bullish High Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.02170579876310276,Short,CALL,Bullish High Volatility,bullish
+اختيارخ موج-15000-14031016,0.01574475821235924,Short,CALL,Bullish High Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bullish High Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bullish High Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bullish High Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bullish High Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bullish High Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bullish High Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bullish High Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bullish High Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99996884940788,Short,PUT,Bullish High Volatility,bullish
+اختيارف توان-17000-14031002,-439.9994997546033,Short,PUT,Bullish High Volatility,bullish
+اختيارف توان-18000-14031002,-439.999638781628,Short,PUT,Bullish High Volatility,bullish
+اختيارف توان-19000-14031002,-439.99964268193366,Short,PUT,Bullish High Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.9987622709787,Short,PUT,Bullish High Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.9986958047048,Short,PUT,Bullish High Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.929508182537,Short,PUT,Bullish High Volatility,bullish
+اختيارف موج-20000-14031016,-131999.79718373594,Short,PUT,Bullish High Volatility,bullish
+اختيارخ رويين-8500-14031030,0.045655617350285525,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-4164-14040207,0.03747655608993378,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.030684875871311294,Long,CALL,Bullish High Volatility,bearish
+اختيارخ توان-16000-14031219,0.023079195308387375,Long,CALL,Bullish High Volatility,bearish
+اختيارخ توان-15000-14031219,0.021346432158159692,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.019641930962622425,Long,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.009707609181825371,Long,CALL,Bullish High Volatility,bearish
+اختيارخ رويين-9000-14031030,0.004471589181041285,Long,CALL,Bullish High Volatility,bearish
+اختيارخ رويين-9500-14031030,0.0003126960811344121,Long,CALL,Bullish High Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bullish High Volatility,bearish
+اختيارخ توان-22000-14031219,0.34434791464891784,Short,CALL,Bullish High Volatility,bearish
+اختيارخ بساما-6246-14040207,0.2631442408637707,Short,CALL,Bullish High Volatility,bearish
+اختيارخ توان-24000-14031219,0.22904239308216395,Short,CALL,Bullish High Volatility,bearish
+اختيارخ خاور-1300-14031219,0.22841810827368975,Short,CALL,Bullish High Volatility,bearish
+اختيارخ فزر-38000-14031212,0.09652468084190702,Short,CALL,Bullish High Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.06602716848925412,Short,CALL,Bullish High Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.051539335026824555,Short,CALL,Bullish High Volatility,bearish
+اختيارخ توان-20000-14031219,0.031855730683643356,Short,CALL,Bullish High Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.029843380599876297,Short,CALL,Bullish High Volatility,bearish
+اختيارخ موج-15000-14031016,0.021189208034371996,Short,CALL,Bullish High Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bullish High Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bullish High Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bullish High Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bullish High Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bullish High Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bullish High Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bullish High Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bullish High Volatility,bearish
+اختيارف آساس-45000-14031030,-159.99997734502392,Short,PUT,Bullish High Volatility,bearish
+اختيارف توان-17000-14031002,-319.999636185166,Short,PUT,Bullish High Volatility,bearish
+اختيارف توان-18000-14031002,-319.99973729572946,Short,PUT,Bullish High Volatility,bearish
+اختيارف توان-19000-14031002,-319.99974013231537,Short,PUT,Bullish High Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.9990998334388,Short,PUT,Bullish High Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.9990514943308,Short,PUT,Bullish High Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.94873322366,Short,PUT,Bullish High Volatility,bearish
+اختيارف موج-20000-14031016,-95999.8524972625,Short,PUT,Bullish High Volatility,bearish
+اختيارخ رويين-8500-14031030,0.05009491498853922,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-4164-14040207,0.04036237698327177,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.03375449480090101,Long,CALL,Bullish High Volatility,neutral
+اختيارخ توان-16000-14031219,0.02405990087102767,Long,CALL,Bullish High Volatility,neutral
+اختيارخ توان-15000-14031219,0.023672600962047614,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.02301053966469902,Long,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.009120033906778457,Long,CALL,Bullish High Volatility,neutral
+اختيارخ رويين-9000-14031030,0.004644518600381573,Long,CALL,Bullish High Volatility,neutral
+اختيارخ رويين-9500-14031030,0.0002993154381613832,Long,CALL,Bullish High Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bullish High Volatility,neutral
+اختيارخ توان-22000-14031219,0.3129570677645293,Short,CALL,Bullish High Volatility,neutral
+اختيارخ بساما-6246-14040207,0.23721467301045315,Short,CALL,Bullish High Volatility,neutral
+اختيارخ خاور-1300-14031219,0.2087227689075158,Short,CALL,Bullish High Volatility,neutral
+اختيارخ توان-24000-14031219,0.20742746962050565,Short,CALL,Bullish High Volatility,neutral
+اختيارخ فزر-38000-14031212,0.0857833192340802,Short,CALL,Bullish High Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.06005207925428606,Short,CALL,Bullish High Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.04604191562533289,Short,CALL,Bullish High Volatility,neutral
+اختيارخ توان-20000-14031219,0.027844605582919884,Short,CALL,Bullish High Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.026131721581325464,Short,CALL,Bullish High Volatility,neutral
+اختيارخ موج-15000-14031016,0.019782252504325668,Short,CALL,Bullish High Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bullish High Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bullish High Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bullish High Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bullish High Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bullish High Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bullish High Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bullish High Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bullish High Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99997168127987,Short,PUT,Bullish High Volatility,neutral
+اختيارف توان-17000-14031002,-399.9995452314575,Short,PUT,Bullish High Volatility,neutral
+اختيارف توان-18000-14031002,-399.9996716196618,Short,PUT,Bullish High Volatility,neutral
+اختيارف توان-19000-14031002,-399.9996751653942,Short,PUT,Bullish High Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.9988747917985,Short,PUT,Bullish High Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.9988143679134,Short,PUT,Bullish High Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.935916529575,Short,PUT,Bullish High Volatility,neutral
+اختيارف موج-20000-14031016,-119999.81562157812,Short,PUT,Bullish High Volatility,neutral
+اختيارخ رويين-8500-14031030,0.05525685399993356,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-4164-14040207,0.043355920561385534,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-5413-14040207,0.034651983632862586,Long,CALL,Bearish High Volatility,bullish
+اختيارخ توان-16000-14031219,0.027419547761056866,Long,CALL,Bearish High Volatility,bullish
+اختيارخ توان-15000-14031219,0.026167364391438328,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-5829-14040207,0.025373864876279174,Long,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-4996-14040207,0.007784853673754052,Long,CALL,Bearish High Volatility,bullish
+اختيارخ رويين-9000-14031030,0.005225272201690838,Long,CALL,Bearish High Volatility,bullish
+اختيارخ رويين-9500-14031030,0.00029170904782699954,Long,CALL,Bearish High Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bearish High Volatility,bullish
+اختيارخ توان-22000-14031219,0.27706568105702084,Short,CALL,Bearish High Volatility,bullish
+اختيارخ بساما-6246-14040207,0.2122310555661717,Short,CALL,Bearish High Volatility,bullish
+اختيارخ توان-24000-14031219,0.18303812448440965,Short,CALL,Bearish High Volatility,bullish
+اختيارخ خاور-1300-14031219,0.1816469983640815,Short,CALL,Bearish High Volatility,bullish
+اختيارخ فزر-38000-14031212,0.07921728014504144,Short,CALL,Bearish High Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.05189300486313822,Short,CALL,Bearish High Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.04052516310798719,Short,CALL,Bearish High Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.025377546377117484,Short,CALL,Bearish High Volatility,bullish
+اختيارخ توان-20000-14031219,0.02387772378364368,Short,CALL,Bearish High Volatility,bullish
+اختيارخ موج-15000-14031016,0.017304674102620383,Short,CALL,Bearish High Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bearish High Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bearish High Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bearish High Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bearish High Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bearish High Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bearish High Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bearish High Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bearish High Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99998553824378,Short,PUT,Bearish High Volatility,bullish
+اختيارف توان-17000-14031002,-439.99956455802015,Short,PUT,Bearish High Volatility,bullish
+اختيارف توان-18000-14031002,-439.9997035850449,Short,PUT,Bearish High Volatility,bullish
+اختيارف توان-19000-14031002,-439.99970748535054,Short,PUT,Bearish High Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.998903717236,Short,PUT,Bearish High Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.9988513955877,Short,PUT,Bearish High Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.93746354776,Short,PUT,Bearish High Volatility,bullish
+اختيارف موج-20000-14031016,-131999.81999911214,Short,PUT,Bearish High Volatility,bullish
+اختيارخ رويين-8500-14031030,0.04083867411798107,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-4164-14040207,0.033376458652726836,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-5413-14040207,0.024850606954428943,Long,CALL,Bearish High Volatility,bearish
+اختيارخ توان-16000-14031219,0.02102338185771037,Long,CALL,Bearish High Volatility,bearish
+اختيارخ توان-15000-14031219,0.0199666913481482,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-5829-14040207,0.014628810438377153,Long,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-4996-14040207,0.006886493503700688,Long,CALL,Bearish High Volatility,bearish
+اختيارخ رويين-9000-14031030,0.0038847593765036553,Long,CALL,Bearish High Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bearish High Volatility,bearish
+اختيارخ رويين-9500-14031030,-3.787692130895376e-05,Long,CALL,Bearish High Volatility,bearish
+اختيارخ توان-22000-14031219,0.3805430838921226,Short,CALL,Bearish High Volatility,bearish
+اختيارخ بساما-6246-14040207,0.286898270874831,Short,CALL,Bearish High Volatility,bearish
+اختيارخ خاور-1300-14031219,0.2537876529494364,Short,CALL,Bearish High Volatility,bearish
+اختيارخ توان-24000-14031219,0.2508168171851417,Short,CALL,Bearish High Volatility,bearish
+اختيارخ فزر-38000-14031212,0.10553052555381405,Short,CALL,Bearish High Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.0705108469580487,Short,CALL,Bearish High Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.05177070192567766,Short,CALL,Bearish High Volatility,bearish
+اختيارخ توان-20000-14031219,0.03340740266120052,Short,CALL,Bearish High Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.031275612273059264,Short,CALL,Bearish High Volatility,bearish
+اختيارخ موج-15000-14031016,0.023385848359052084,Short,CALL,Bearish High Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bearish High Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bearish High Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bearish High Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bearish High Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bearish High Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bearish High Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bearish High Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bearish High Volatility,bearish
+اختيارف آساس-45000-14031030,-159.9999894823591,Short,PUT,Bearish High Volatility,bearish
+اختيارف توان-17000-14031002,-319.99968331492374,Short,PUT,Bearish High Volatility,bearish
+اختيارف توان-18000-14031002,-319.9997844254872,Short,PUT,Bearish High Volatility,bearish
+اختيارف توان-19000-14031002,-319.99978726207314,Short,PUT,Bearish High Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.999202703444,Short,PUT,Bearish High Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.9991646513365,Short,PUT,Bearish High Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.954518943825,Short,PUT,Bearish High Volatility,bearish
+اختيارف موج-20000-14031016,-95999.86909026338,Short,PUT,Bearish High Volatility,bearish
+اختيارخ رويين-8500-14031030,0.04601401530404545,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-4164-14040207,0.03817879252070444,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-5413-14040207,0.030561076332566686,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-5829-14040207,0.023496145966679274,Long,CALL,Bearish High Volatility,neutral
+اختيارخ توان-16000-14031219,0.02278842628374874,Long,CALL,Bearish High Volatility,neutral
+اختيارخ توان-15000-14031219,0.022371350297527633,Long,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-4996-14040207,0.008238393991457087,Long,CALL,Bearish High Volatility,neutral
+اختيارخ رويين-9000-14031030,0.004917261143063659,Long,CALL,Bearish High Volatility,neutral
+اختيارخ رويين-9500-14031030,0.0005535159648662319,Long,CALL,Bearish High Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bearish High Volatility,neutral
+اختيارخ توان-22000-14031219,0.34157563519931033,Short,CALL,Bearish High Volatility,neutral
+اختيارخ بساما-6246-14040207,0.2709137229006065,Short,CALL,Bearish High Volatility,neutral
+اختيارخ خاور-1300-14031219,0.23153334393576458,Short,CALL,Bearish High Volatility,neutral
+اختيارخ توان-24000-14031219,0.2259425242016187,Short,CALL,Bearish High Volatility,neutral
+اختيارخ فزر-38000-14031212,0.09538951995251811,Short,CALL,Bearish High Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.06588316129076952,Short,CALL,Bearish High Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.05104818755109016,Short,CALL,Bearish High Volatility,neutral
+اختيارخ توان-20000-14031219,0.029995893241222604,Short,CALL,Bearish High Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.029660132515969388,Short,CALL,Bearish High Volatility,neutral
+اختيارخ موج-15000-14031016,0.021839188137837556,Short,CALL,Bearish High Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bearish High Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bearish High Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bearish High Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bearish High Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bearish High Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bearish High Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bearish High Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bearish High Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99998685294887,Short,PUT,Bearish High Volatility,neutral
+اختيارف توان-17000-14031002,-399.99960414365466,Short,PUT,Bearish High Volatility,neutral
+اختيارف توان-18000-14031002,-399.999730531859,Short,PUT,Bearish High Volatility,neutral
+اختيارف توان-19000-14031002,-399.99973407759137,Short,PUT,Bearish High Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.9990033793051,Short,PUT,Bearish High Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.9989558141706,Short,PUT,Bearish High Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.94314867978,Short,PUT,Bearish High Volatility,neutral
+اختيارف موج-20000-14031016,-119999.83636282921,Short,PUT,Bearish High Volatility,neutral
+اختيارخ رويين-8500-14031030,0.06068278209334776,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-4164-14040207,0.04806020682748497,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.04011673239501507,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-16000-14031219,0.03160255471452011,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-15000-14031219,0.029687578945315377,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.026450082096628854,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.012435262241650044,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ رويين-9000-14031030,0.006046761299256921,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ رويين-9500-14031030,0.0006595612243268093,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-22000-14031219,0.2629584650258002,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ بساما-6246-14040207,0.19819440447069717,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ خاور-1300-14031219,0.17543064366344288,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-24000-14031219,0.17320047481564524,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ فزر-38000-14031212,0.0735567148801,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.050732002879551624,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.037198772980357016,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ توان-20000-14031219,0.02577257698219019,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.023333547843076737,Short,CALL,Bullish Low Volatility,bullish
+اختيارخ موج-15000-14031016,0.01691342577690852,Short,CALL,Bullish Low Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bullish Low Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bullish Low Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bullish Low Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bullish Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bullish Low Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bullish Low Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bullish Low Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99996103979768,Short,PUT,Bullish Low Volatility,bullish
+اختيارف توان-17000-14031002,-439.9994694295748,Short,PUT,Bullish Low Volatility,bullish
+اختيارف توان-18000-14031002,-439.9996084565995,Short,PUT,Bullish Low Volatility,bullish
+اختيارف توان-19000-14031002,-439.9996123569052,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.998696080614,Short,PUT,Bullish Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.998622995304,Short,PUT,Bullish Low Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.925785436288,Short,PUT,Bullish Low Volatility,bullish
+اختيارف موج-20000-14031016,-131999.78650718575,Short,PUT,Bullish Low Volatility,bullish
+اختيارخ رويين-8500-14031030,0.04595056156616142,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-4164-14040207,0.03648086592741056,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.028431925254179223,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-16000-14031219,0.02251752473812167,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-15000-14031219,0.02100960437660583,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.02051999649813088,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.01053679727251814,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ رويين-9000-14031030,0.005061550398761057,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ رويين-9500-14031030,0.000289841586260141,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-22000-14031219,0.3599145842350171,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ بساما-6246-14040207,0.27990018057879124,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ خاور-1300-14031219,0.2421871511200104,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-24000-14031219,0.23935622227323733,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ فزر-38000-14031212,0.09868813247251802,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.06848707716628284,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.054172690267468605,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.0330568330310416,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ توان-20000-14031219,0.03276185070377616,Short,CALL,Bullish Low Volatility,bearish
+اختيارخ موج-15000-14031016,0.023068893926434797,Short,CALL,Bullish Low Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bullish Low Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bullish Low Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bullish Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bullish Low Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bullish Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bullish Low Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bullish Low Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bullish Low Volatility,bearish
+اختيارف آساس-45000-14031030,-159.99997166530738,Short,PUT,Bullish Low Volatility,bearish
+اختيارف توان-17000-14031002,-319.99961413059987,Short,PUT,Bullish Low Volatility,bearish
+اختيارف توان-18000-14031002,-319.9997152411633,Short,PUT,Bullish Low Volatility,bearish
+اختيارف توان-19000-14031002,-319.9997180777492,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.999051694992,Short,PUT,Bullish Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.998998542039,Short,PUT,Bullish Low Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.946025771846,Short,PUT,Bullish Low Volatility,bearish
+اختيارف موج-20000-14031016,-95999.84473249872,Short,PUT,Bullish Low Volatility,bearish
+اختيارخ رويين-8500-14031030,0.049993582291815254,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-4164-14040207,0.04072441942095272,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.036293818446489545,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.025286368012085055,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-16000-14031219,0.024553887295189127,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-15000-14031219,0.022932639623620767,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-4996-14040207,0.010698911417460209,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ رويين-9000-14031030,0.005231526100602603,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ رويين-9500-14031030,0.0005040906470599263,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-22000-14031219,0.33342586196826646,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ بساما-6246-14040207,0.2542192150769187,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ خاور-1300-14031219,0.22015235956472975,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-24000-14031219,0.2183412464097027,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ فزر-38000-14031212,0.09457999240423773,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.061388633719500166,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.047186091746101555,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ توان-20000-14031219,0.029904267203910748,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.0273388491230674,Short,CALL,Bullish Low Volatility,neutral
+اختيارخ موج-15000-14031016,0.021379954997069336,Short,CALL,Bullish Low Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bullish Low Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bullish Low Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bullish Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bullish Low Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bullish Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bullish Low Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bullish Low Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bullish Low Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99996458163423,Short,PUT,Bullish Low Volatility,neutral
+اختيارف توان-17000-14031002,-399.9995176632498,Short,PUT,Bullish Low Volatility,neutral
+اختيارف توان-18000-14031002,-399.9996440514541,Short,PUT,Bullish Low Volatility,neutral
+اختيارف توان-19000-14031002,-399.9996475971865,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.9988146187397,Short,PUT,Bullish Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.998748177549,Short,PUT,Bullish Low Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.932532214803,Short,PUT,Bullish Low Volatility,neutral
+اختيارف موج-20000-14031016,-119999.8059156234,Short,PUT,Bullish Low Volatility,neutral
+اختيارخ رويين-8500-14031030,0.0552390123498104,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-4164-14040207,0.042851983300791464,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-5413-14040207,0.038206760664161885,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-16000-14031219,0.027109296205095054,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-15000-14031219,0.025536527589951556,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-5829-14040207,0.02217138349537037,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-4996-14040207,0.00889337483000752,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ رويين-9000-14031030,0.0055240860691006186,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ رويين-9500-14031030,0.000593551101542528,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-11000-14031219,-3.115658801989326e-05,Long,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-22000-14031219,0.2924127949737382,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ بساما-6246-14040207,0.22527320425695774,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ خاور-1300-14031219,0.19497000763919478,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-24000-14031219,0.1934000331002494,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ فزر-38000-14031212,0.08254382297848278,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ اطلس-50000-14031107,0.054494130656914476,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ كاريس-22000-14031212,0.04262279166816445,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ توان-20000-14031219,0.02653368357416922,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ كاريس-24000-14031212,0.02475310183534221,Short,CALL,Bearish Low Volatility,bullish
+اختيارخ موج-15000-14031016,0.018755774307664168,Short,CALL,Bearish Low Volatility,bullish
+اختيارف آساس-45000-14031030,-0.0003597121151539384,Long,PUT,Bearish Low Volatility,bullish
+اختيارف رويين-11000-14031226,-0.0011088082901554402,Long,PUT,Bearish Low Volatility,bullish
+اختيارف موج-20000-14031016,-0.09016071428571429,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-0.09738831615120276,Long,PUT,Bearish Low Volatility,bullish
+اختيارف توان-19000-14031002,-0.09864705882352942,Long,PUT,Bearish Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-0.10200000000000001,Long,PUT,Bearish Low Volatility,bullish
+اختيارف توان-18000-14031002,-0.10230863441518677,Long,PUT,Bearish Low Volatility,bullish
+اختيارف توان-17000-14031002,-0.165,Long,PUT,Bearish Low Volatility,bullish
+اختيارف آساس-45000-14031030,-219.99997860699338,Short,PUT,Bearish Low Volatility,bullish
+اختيارف توان-17000-14031002,-439.9995376436978,Short,PUT,Bearish Low Volatility,bullish
+اختيارف توان-18000-14031002,-439.9996766707226,Short,PUT,Bearish Low Volatility,bullish
+اختيارف توان-19000-14031002,-439.9996805710282,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اطلس-45000-14031002,-2199.998844971411,Short,PUT,Bearish Low Volatility,bullish
+اختيارف اطلس-40000-14031002,-2419.998786775181,Short,PUT,Bearish Low Volatility,bullish
+اختيارف رويين-11000-14031226,-28379.934159504945,Short,PUT,Bearish Low Volatility,bullish
+اختيارف موج-20000-14031016,-131999.8105233712,Short,PUT,Bearish Low Volatility,bullish
+اختيارخ رويين-8500-14031030,0.041120971450398,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-4164-14040207,0.03455601751128725,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-5413-14040207,0.0283192927663007,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-16000-14031219,0.020806943996546038,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-15000-14031219,0.019407993829416634,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-5829-14040207,0.017189093138168316,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-4996-14040207,0.009512655077987783,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ رويين-9000-14031030,0.004088195577865803,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ رويين-9500-14031030,0.0003704689036857715,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-11000-14031219,-2.3367441014919945e-05,Long,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-22000-14031219,0.40231215731687087,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ بساما-6246-14040207,0.3109533292612937,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ خاور-1300-14031219,0.26777622945192975,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-24000-14031219,0.26402147650252317,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ فزر-38000-14031212,0.11225981336507755,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ اطلس-50000-14031107,0.0742964571553625,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ كاريس-22000-14031212,0.05809851456186274,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ توان-20000-14031219,0.03648093662783877,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ كاريس-24000-14031212,0.03396851480650308,Short,CALL,Bearish Low Volatility,bearish
+اختيارخ موج-15000-14031016,0.02581398658204527,Short,CALL,Bearish Low Volatility,bearish
+اختيارف آساس-45000-14031030,-0.0004796161535385845,Long,PUT,Bearish Low Volatility,bearish
+اختيارف رويين-11000-14031226,-0.001478411053540587,Long,PUT,Bearish Low Volatility,bearish
+اختيارف موج-20000-14031016,-0.12021428571428572,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-0.12985108820160368,Long,PUT,Bearish Low Volatility,bearish
+اختيارف توان-19000-14031002,-0.1315294117647059,Long,PUT,Bearish Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-0.136,Long,PUT,Bearish Low Volatility,bearish
+اختيارف توان-18000-14031002,-0.13641151255358236,Long,PUT,Bearish Low Volatility,bearish
+اختيارف توان-17000-14031002,-0.22,Long,PUT,Bearish Low Volatility,bearish
+اختيارف آساس-45000-14031030,-159.99998444144973,Short,PUT,Bearish Low Volatility,bearish
+اختيارف توان-17000-14031002,-319.99966374087114,Short,PUT,Bearish Low Volatility,bearish
+اختيارف توان-18000-14031002,-319.9997648514346,Short,PUT,Bearish Low Volatility,bearish
+اختيارف توان-19000-14031002,-319.9997676880205,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اطلس-45000-14031002,-1599.9991599792081,Short,PUT,Bearish Low Volatility,bearish
+اختيارف اطلس-40000-14031002,-1759.999117654677,Short,PUT,Bearish Low Volatility,bearish
+اختيارف رويين-11000-14031226,-20639.952116003595,Short,PUT,Bearish Low Volatility,bearish
+اختيارف موج-20000-14031016,-95999.86219881543,Short,PUT,Bearish Low Volatility,bearish
+اختيارخ رويين-8500-14031030,0.046095669308148034,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-4164-14040207,0.038002894544640245,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-5413-14040207,0.029731643797680177,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-16000-14031219,0.024159628417889115,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-5829-14040207,0.023600333510860435,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-15000-14031219,0.022134356849412617,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-4996-14040207,0.008712020771905898,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ رويين-9000-14031030,0.004380998182633828,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-11000-14031219,-2.596382334991105e-05,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ آساس-34000-14031030,-4.459725629421871e-05,Long,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-22000-14031219,0.36411308538807313,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ بساما-6246-14040207,0.29143080621001644,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ خاور-1300-14031219,0.23999918467140652,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-24000-14031219,0.2389314951305362,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ فزر-38000-14031212,0.09904340445183674,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ اطلس-50000-14031107,0.06832793702320686,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ كاريس-22000-14031212,0.05271665623334485,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ توان-20000-14031219,0.03199764205391335,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ كاريس-24000-14031212,0.03167023656694994,Short,CALL,Bearish Low Volatility,neutral
+اختيارخ موج-15000-14031016,0.022971668599704998,Short,CALL,Bearish Low Volatility,neutral
+اختيارف آساس-45000-14031030,-0.00039968012794882045,Long,PUT,Bearish Low Volatility,neutral
+اختيارف رويين-11000-14031226,-0.0012320092112838225,Long,PUT,Bearish Low Volatility,neutral
+اختيارف موج-20000-14031016,-0.10017857142857144,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-0.10820924016800307,Long,PUT,Bearish Low Volatility,neutral
+اختيارف توان-19000-14031002,-0.10960784313725491,Long,PUT,Bearish Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-0.11333333333333334,Long,PUT,Bearish Low Volatility,neutral
+اختيارف توان-18000-14031002,-0.11367626046131864,Long,PUT,Bearish Low Volatility,neutral
+اختيارف توان-17000-14031002,-0.18333333333333335,Long,PUT,Bearish Low Volatility,neutral
+اختيارف آساس-45000-14031030,-199.99998055181214,Short,PUT,Bearish Low Volatility,neutral
+اختيارف توان-17000-14031002,-399.9995796760889,Short,PUT,Bearish Low Volatility,neutral
+اختيارف توان-18000-14031002,-399.9997060642932,Short,PUT,Bearish Low Volatility,neutral
+اختيارف توان-19000-14031002,-399.9997096100256,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اطلس-45000-14031002,-1999.99894997401,Short,PUT,Bearish Low Volatility,neutral
+اختيارف اطلس-40000-14031002,-2199.998897068346,Short,PUT,Bearish Low Volatility,neutral
+اختيارف رويين-11000-14031226,-25799.940145004493,Short,PUT,Bearish Low Volatility,neutral
+اختيارف موج-20000-14031016,-119999.82774851928,Short,PUT,Bearish Low Volatility,neutral
